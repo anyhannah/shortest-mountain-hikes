@@ -1,0 +1,2295 @@
+lng,num_ratings,tid,name,rating,features,elevGain,lat,elevMax,kml,length
+-122.1655,0,may-creek-trail,"May Creek Trail",0.0,rfkd,,47.5226,,,3.5
+-118.2644,0,bennington-lake,"Bennington Lake",0.0,lmvakd,0,46.0660,,,4.8
+-121.8107,5,indian-henrys-via-longmire,"Indian Henry's Hunting Ground via Longmire",4.0,rlmvae,3200,46.7497,5600,,14.0
+-117.1415,0,canfield-gulch-of-antoine-peak,"Antoine Peak Conservation Area - Canfield Gulch",0.0,vsd,1030,47.7295,3366,,5.3
+-121.0123,1,jim-hill,"Big Jim Hill",5.0,,,47.7720,6765,,
+-122.4231,5,mount-blanchard,"Mount Blanchard",2.2,,,48.6113,,,
+-121.2878,1,red-mountain-lookout-1,"Red Mountain Lookout",3.0,ovsad,700,48.0584,2800,,2.0
+-121.6423,8,sourdough-ridge,"Sourdough Ridge",3.8,vap,400,46.9146,6800,,2.5
+-121.0889,5,skyline-lake-snowshoe,"Skyline Lake Snowshoe",3.8,lvpkd!,1100,47.7479,5100,,3.0
+-121.6423,12,skyscraper-pass,"Skyscraper Mountain",3.8,lmvsap,1300,46.9146,7000,,8.0
+-121.8154,5,snagtooth-mountain,"Snagtooth Mountain",3.0,vk,700,46.2480,4900,,3.5
+-121.5579,19,snoquera-falls,"Snoquera Falls Loop",3.3,w,700,47.0328,3100,,4.2
+-121.3084,4,sloan-peak,"Sloan Peak",3.0,rwfvd,2900,48.0863,4800,,9.0
+-120.9701,4,soda-springs,"Soda Springs Big Trees",2.2,roaek,50,47.8581,2250,,0.5
+-121.4230,113,snow-lake-1,"Snow Lake",4.1,lwovpekd,1800,47.4454,4400,,7.2
+-121.9923,4,soaring-eagle-park,"Soaring Eagle Regional Park",2.8,akd,0,47.6164,500,,12.0
+-121.9286,0,snoqualmie-valley-trail,"Snoqualmie Valley Trail",0.0,rofmvakd!,,47.6845,,,32.0
+-121.5596,9,skookum-flats,"Skookum Flats",3.3,rwomvakd,300,47.0394,2550,,7.8
+-121.8646,42,skyline-divide,"Skyline Divide",4.5,mvpd,2500,48.8809,6563,,9.0
+-118.5233,7,snow-peak,"Snow Peak",3.7,fmvakd,875,48.5772,6400,,10.0
+-123.0072,4,snow-creek,"Snow Creek",3.0,,,47.9368,,,
+-123.6478,4,skyline-1,Skyline,3.0,,,47.5755,,,
+-121.3692,4,slide-lake,"Slide Lake",2.5,,300,48.4265,3100,,2.5
+-120.9527,5,snowy-creek,"Snowy Creek",3.4,,,47.8273,,,
+-121.5190,19,snowgrass,"Snowgrass Flat",4.3,mved,1600,46.4642,5800,,8.2
+-122.2294,5,siouxon,"Siouxon Creek",2.8,r,2360,45.9406,1840,,13.8
+-122.1515,1,soos-creek-trail,"Soos Creek Trail",3.0,fvakd,,47.3896,,,12.0
+-123.8353,5,sol-duc-river,"Sol Duc River",3.0,,,47.9551,,,
+-121.4230,9,source-lake,"Source Lake",3.9,rlv,700,47.4454,3800,,6.0
+-121.1455,12,sourdough-mountain,"Sourdough Mountain",3.6,mvs,5085,48.7179,5985,,11.0
+-122.1251,4,snohomish-centennial,"North Centennial Trail (Snohomish)",3.0,fkd,50,48.1987,171,,4.0
+-118.6804,10,snake-river-columbia-plateau-trail,"Snake River - Columbia Plateau Trail",4.2,rmak,150,46.3905,750,,6.0
+-122.2671,7,south-coldwater-trail,"South Coldwater Trail",3.4,lvap,1400,46.2915,4000,,7.0
+-123.8627,12,sol-duc-falls-loop,"Sol Duc Falls",3.8,woek,400,47.9700,2000,,5.3
+-121.0485,5,south-fork-boulder-creek,"Boulder Creek - Gallagher Head Lake",3.2,lmpd,2100,47.4558,5606,,9.0
+-121.4235,5,source-lake-snowshoe,"Source Lake Snowshoe",3.4,lva!,1000,47.4454,4100,,5.0
+-121.8370,15,snoqualmie-falls,"Snoqualmie Falls",3.3,rwfkd,250,47.5437,450,,1.4
+-121.1562,4,south-fork-cascade-river,"South Fork Cascade River",2.2,rfad,1800,48.4653,2000,,9.0
+-119.4430,1,similkameen-trail,"Similkameen Trail",5.0,rwfmvakd,40,48.9390,940,,4.0
+-121.4235,4,snow-lake-snowshoe,"Snow Lake Snowshoe",4.2,lvpe!,2000,47.4454,5100,,10.0
+-121.5321,12,snoqualmie-lake,"Snoqualmie Lake",3.5,rlwvaed,1900,47.5614,3147,,17.0
+-120.8320,4,south-fork-agnes-creek-1,"South Fork Agnes Creek",3.0,,,48.3796,,,
+-121.4346,4,snipes-mountain,"Snipes Mountain - Pine Way",3.0,m,500,46.1029,4800,,5.0
+-117.4215,3,slavin-conservation-area-loop,"Slavin Pond Loop",3.3,lakd,246,47.5326,2341,,3.3
+-120.4502,4,slate-creek-1,"Slate Creek",2.5,mvapd,3700,48.3957,6600,,6.0
+-121.7350,34,skyline,"Skyline Trail Loop",4.5,rwmva,1450,46.7860,6800,,5.5
+-120.7097,17,snow-lakes,"Snow Lakes",3.8,rlwmvape,4300,47.5441,5500,http://wta.org/kml/snow-lakes.kmz,14.0
+-122.2428,7,silver-star-mountain,"Silver Star Mountain",3.7,fmvspd,1000,45.7682,4390,,4.0
+-121.5057,20,sourdough-gap,"Sheep Lake to Sourdough Gap",3.7,lmvakd,1100,46.8911,6400,,6.0
+-117.5010,3,south-fork-silver-creek-trail-123,"South Fork Silver Creek Trail to Gunsight Pass",3.3,ofmvad,2370,48.9115,5600,,14.0
+-123.4521,5,six-ridge,"Six Ridge",3.4,lmvspe,3150,47.4794,4650,,21.1
+-122.0001,5,soda-peaks-lake,"Soda Peaks Lake",3.2,love,2500,45.8846,3700,,7.0
+-121.0885,7,skyline-lake,"Skyline Lake",2.7,lfvd,1050,47.7473,5100,,2.5
+-121.6576,7,sleeping-beauty-peak,"Sleeping Beauty Peak",4.4,vsp,1400,46.0851,4900,,2.6
+-122.0546,4,smith-creek,"Smith Creek",3.2,r,200,46.1826,1800,,6.0
+-122.0348,5,strawberry-mountain,"Strawberry Mountain",2.4,,,46.3468,,,
+-121.3582,5,stirrup-lake,"Stirrup Lake",3.8,lfv,600,47.3642,3630,,4.0
+-121.7537,6,steamboat-mountain,"Steamboat Mountain",4.0,vskd,625,46.1471,,,1.4
+-120.8351,3,spider-gap-1,"Spider Gap",4.0,mvpd,,48.0825,,,15.0
+-119.0491,3,strawberry,"Strawberry Mountain",2.0,,,48.8526,,,
+-122.5907,6,south-whidbey-state-park,"South Whidbey State Park",3.8,ovk,200,48.0562,400,,2.7
+-121.6674,6,south-point-lookout," South Point Lookout",2.5,ovsd,2900,46.5254,5980,,7.0
+-120.7213,4,stehekin-river-trail,"Stehekin River Trail",4.0,rlfvaek,100,48.3453,1200,,7.6
+-122.1793,8,spencer-island,"Spencer Island",3.4,rvak,0,47.9942,15,,6.6
+-121.9760,4,south-tiger-traverse,"South Tiger Traverse",4.0,kd,,47.4434,,,3.4
+-123.3300,16,staircase,"Staircase Rapids",3.8,rok,150,47.5158,950,,4.0
+-123.8025,21,spruce-railroad,"Spruce Railroad Trail",4.0,lvk!,250,48.0933,700,,8.0
+-121.8636,36,spray-park,"Spray Park",4.2,womva,1700,46.9327,6500,,8.0
+-123.5652,4,spoon-creek-falls,"Spoon Creek Falls",3.0,wod,200,47.3538,1000,,0.8
+-122.0554,5,squak-mountain-may-valley-trail,"May Valley Trail",2.8,rvad,,47.4807,,,6.0
+-122.7291,6,south-indian-island,"South Indian Island",3.2,cvk,50,48.0319,50,,4.0
+-122.3542,5,squires-lake,"Squires Lake",3.2,lmad,200,48.6459,680,,2.0
+-120.3283,0,star-peak,"Star Peak",0.0,lvs,,48.2872,8690,,
+-121.5977,6,stagman-ridge,"Stagman Ridge - The Bumper",4.2,mvapd,1700,46.1405,5900,,9.0
+-121.5410,3,stegosaurus-butte,"Stegosaurus Butte",2.7,,,47.5475,,,
+-121.0143,2,stevens-pass-nordic-center,"Stevens Pass Nordic Center",1.0,rak,,47.7727,,,4.0
+-122.1111,3,st.-cloud,"St. Cloud",3.7,rk,0,45.6013,50,,1.0
+-120.8350,22,spider-meadows,"Spider Meadow and Phelps Basin",4.0,omvae,1900,48.0829,5400,,13.0
+-123.4670,5,spider-lake,"Spider Lake",2.8,loa,250,47.4155,1400,,2.0
+-121.0975,4,squaw-lake,"Squaw Lake",3.5,lk,1400,47.5432,4841,,5.0
+-123.6986,8,striped-peak,"Striped Peak",3.2,coek,850,48.1622,1166,,5.0
+-122.3823,0,stanwood-levee-trail,"Leque Island - Stanwood Levee Trail",0.0,cva,,48.2309,,,
+-122.4626,1,south-lost-lake-trail,"South Lost Lake Trail",4.0,lwofkd,1950,48.6468,1650,,9.0
+-122.2224,4,starway,Starway,3.2,vsd,2377,45.7873,3977,,11.0
+-121.6766,2,stevens-peak,"Stevens Peak",3.5,vs,,46.7461,,,
+-122.3769,1,stimpson-nature-reserve,"Stimpson Nature Reserve",3.0,woak!,300,48.7320,800,,4.9
+-121.6391,8,stevens-canyon-waterfalls,"Stevens Canyon Waterfalls",3.0,rwe,1675,46.7602,3750,,8.0
+-121.9721,4,spencer-creek-trail,"Spencer Creek (Bluff) Trail",2.2,v,1800,46.0608,3400,,6.0
+-120.8406,10,spider-gap-buck-creek-pass-loop,"Spider Gap - Buck Creek Pass Loop",4.0,lfmvape,7200,48.0674,7100,,44.0
+-121.4790,0,stauk-mountain,"St'auk Mountain",0.0,,,48.0371,4715,,
+-121.6298,5,squire-creek,"Squire Creek",3.6,fp,2566,48.2088,,,8.5
+-120.8248,8,stafford-creek,"Stafford Creek",2.5,,,47.3781,,,
+-121.1103,0,spinnaker-peak-snowshoe,"Spinnaker Peak Snowshoe",0.0,!,,47.7833,5645,,
+-120.4392,0,stormy-mountain-summit,"Stormy Mountain Summit",0.0,vs,5500,47.8905,,,13.0
+-122.0363,6,squak-mountain-eastside-loop,"Squak Mountain's East Side Loop",2.8,rwa,1700,47.5284,2025,,8.0
+-120.8412,5,standup-creek,"Standup Creek",2.0,mvp,3100,47.3515,6200,,8.0
+-119.8667,3,spanish-creek,"Spanish Creek",2.3,,,48.8848,,,
+-122.3402,2,southwest-county-park,"Southwest County Park",2.0,rl,,47.8367,,,
+-122.0850,4,spring-lake-lake-desire-park,"Spring Lake/Lake Desire Park",3.2,lmvkd,,47.4375,,,3.0
+-121.9783,3,south-tiger-powerline,"South Tiger Powerline",2.7,kd,,47.4544,,,1.2
+-121.0862,5,spade-lake,"Spade Lake",2.2,rlomv,2300,47.4184,5400,,25.6
+-121.1888,10,spectacle-lake,"Spectacle Lake",4.2,rlwoved,1500,47.4337,4600,,17.2
+-122.8595,3,spencer-spit,"Spencer Spit",3.7,,60,48.5363,60,,1.2
+-121.9305,4,spencer-butte,"Spencer Butte",3.8,ma,2240,46.1725,4325,,4.8
+-122.0578,13,squak-mountain,"Squak Mountain",3.0,rmvad,1684,47.5230,2024,,6.6
+-119.1296,15,steamboat-rock,"Steamboat Rock",4.3,mvak,650,47.8635,2250,,6.0
+-120.9372,2,south-ingalls-peak,"South Ingalls Peak",3.5,,,47.4359,,,
+-121.6355,2,stevens-canyon-segment-of-wonderland-trail,"Wonderland Trail - Stevens Canyon",4.5,,,46.7657,,,
+-117.4936,5,spokane-river-centennial,"Spokane Centennial Trail",3.8,rfakd,600,47.6968,2200,,74.0
+-123.1688,4,sunnybrook-meadows,"Sunnybrook Meadows",2.5,,4000,47.7365,5650,,12.0
+-121.7813,5,summit-prairie,"Quartz Ridge-Summit Prairie",3.4,mvp,1800,46.1978,5245,,6.0
+-122.9043,3,sucia-island,"Sucia Island",4.3,,,48.7528,,,
+-121.6909,1,sultan-gorge,"Sultan Gorge",4.0,,,47.9793,,,
+-121.1936,5,sulphur-creek,"Sulphur Creek",3.4,ro,900,48.2498,2250,,3.6
+-122.0469,4,summit-trail,"Summit Trail",4.2,spd,,47.5045,,,
+-121.5326,4,sun-top,"Suntop Lookout",2.5,vskd,1100,47.0088,5400,,2.1
+-122.2616,7,sumas-mountain,"Sumas Mountain",3.7,ovsd,2000,48.9245,3100,,6.0
+-121.5190,55,talapus-lake,"Talapus and Olallie Lakes",3.6,lofvakd,1220,47.4007,3780,,6.2
+-117.8454,2,table-rock-squaw-peak,"Table Rock - Squaw Peak",4.5,vs,1800,46.0916,5900,,22.0
+-120.9533,4,taneum-ridge,"Taneum Ridge - Fishhook Flats",3.5,,1400,47.1155,4200,,14.0
+-122.3378,3,tarbell-trail,"Tarbell Trail",2.3,,,45.7757,4120,,24.8
+-121.5792,3,tamanos-mountain,"Tamanos Mountain",3.3,s,,46.8938,,,
+-120.5786,2,swauk-forest-discovery-trail-snowshoe,"Swauk Forest Discovery Trail  Snowshoe",1.5,a!,450,47.3322,4552,,5.0
+-121.7174,5,tatoosh-lakes,"Tatoosh Lakes",2.8,lomvp,3400,46.7244,5750,,6.6
+-121.9707,4,talus-rock-trail,"Talus Rock Trail",3.2,,,47.5198,,,1.2
+-121.6699,4,swift-creek,"Swift Creek",2.8,rod,,48.7648,,,16.0
+-121.9711,9,taylor-mountain,"Taylor Mountain",2.1,oakd,550,47.4329,1100,,30.0
+-121.5878,10,sunrise-lake,"Sunrise Lake",3.7,lak,425,46.9175,6150,,1.5
+-122.0951,3,surprise-creek,"Surprise Creek",2.7,akd,,47.5401,,,0.6
+-121.8672,6,sunset-park-and-golden-lakes,"Sunset Park and Golden Lakes",3.7,,,46.9306,,,
+-121.5996,4,surprise-lake-snowshoe,"Surprise Lake Snowshoe",2.5,lwova,2300,46.5687,4500,,8.0
+-121.9846,3,sunshine-trail-198,"Sunshine Trail",3.3,,1600,45.8747,3400,,1.5
+-121.4648,0,sunset-mine,"Sunset Mine",0.0,,,47.8592,,,
+-121.7434,7,sunrise-peak,"Sunrise Peak",3.6,fmvsd,1400,46.3354,5892,,3.0
+-120.2923,6,sunrise-lake-1,"Copper Glance Lake",4.2,lofm,2800,48.7411,6350,,6.0
+-120.3206,9,swakane-canyon,"Swakane Canyon",3.2,fmva!,1450,47.5650,3000,,6.0
+-121.3203,5,swamp-lake,"Swamp Lake",2.8,,,46.8569,,,
+-120.5281,5,sugarloaf,Sugarloaf,2.2,,,47.7574,,,
+-120.2974,1,sun-mountain-trails,"Sun Mountain Trails",2.0,,,48.4732,,,
+-122.6295,8,sugarloaf-1,Sugarloaf,2.8,lfvsad,890,48.4676,1275,,2.5
+-121.1888,4,sulphur-mountain,"Sulphur Mountain",3.0,omvs,4200,48.2447,6000,,10.0
+-123.4554,5,sundown-pass,"Sundown Pass",3.0,,,47.4839,,,
+-121.5956,3,sun-top-snowshoe,"Sun Top Snowshoe",2.5,s,3000,47.0371,5280,,10.0
+-121.4566,0,sundown-lake-way-trail,"Wynoochee Pass to Sundown Lake",0.0,lp,3150,45.8575,3820,,12.0
+-121.5956,6,sunday-lake,"Sunday Lake",2.5,lomvad,355,47.6467,1900,,6.2
+-117.2852,5,sullivan-lake,"Sullivan Lake",3.4,f,250,48.8404,2840,,8.2
+-121.8269,39,summit-lake,"Summit Lake",4.3,lvsakd,1300,47.0319,5800,,6.1
+-120.5790,6,swauk-forest-discovery-trail,"Swauk Forest Discovery Trail",3.2,romva,,47.3354,,,2.5
+-121.7563,10,talus-loop,"Talus Loop",3.3,rovd,1750,47.4878,2120,,5.1
+-121.9349,4,table-mountain-2,"Table Mountain",3.2,,,45.6507,,,
+-121.5992,5,takhlakh-loop,"Takhlakh Lake and Takh Takh Meadow",3.6,lvek,90,46.2766,4460,,3.0
+-121.8871,6,tahoma-creek,"Tahoma Creek",4.0,,,46.7838,,,
+-121.9326,2,tamanous-trail-27,"Tamanous Trail",1.5,rfvkd,120,45.6503,200,,1.2
+-121.3700,0,sweet-chariot,"Sweet Chariot",0.0,,,48.4272,,,
+-121.7158,9,tatoosh,"Tatoosh Ridge",3.7,lomvsp,2900,46.7131,5775,,6.2
+-121.9795,4,table-mountain-3,"Table Mountain",3.5,vsd,3350,45.6479,3417,,16.0
+-121.5227,3,talapus-lake-snowshoe,"Talapus Lake Snowshoe",3.0,lv!,1600,47.4027,3280,,8.5
+-121.7155,5,tatoosh-lookout,"Tatoosh Lookout",3.4,omvsp,4100,46.7161,6400,,10.4
+-120.3332,0,swakane-peak,"Swakane Peak",0.0,fms,,47.5641,,,
+-121.3068,10,surprise-lake-2,"Surprise Lake",3.3,rlmve,1200,46.4930,5255,,10.0
+-121.9961,5,swamp-trail,"Swamp Trail",3.6,lfmakd,75,47.5296,520,,1.0
+-123.4950,7,sunrise-ridge,"Sunrise Ridge",3.0,mvapk,1000,47.9701,5500,,5.2
+-121.3964,0,surveyors-lake-snowshoe,"Surveyors Lake Snowshoe",0.0,,,47.3907,,,
+-118.8356,4,swan-lake,"Swan Lake",3.0,,360,48.5155,3960,,3.1
+-121.1567,27,surprise-lake-1,"Surprise and Glacier Lakes",3.3,lwoved,2700,47.7078,4900,,11.0
+-120.3363,0,toppenish-nwr,"Toppenish National Wildlife Refuge",0.0,mak,0,46.3058,,,2.0
+-121.0705,4,tired-creek,"Tired Creek",3.5,,,47.4575,,,
+-117.6277,0,third-creek-3100,"Third Creek",0.0,roe,2000,46.0888,,,34.0
+-121.8391,7,thomas-lake,"Thomas, Blue and Tombstone Lakes",2.4,,1015,46.0057,4150,,7.0
+-118.7353,4,thirteenmile,"Thirteenmile (13 mile)",2.2,rmvek,2000,48.4818,4600,,16.0
+-120.8344,5,tieton-river-nature-trail,"Tieton River Nature Trail",4.0,rmakd,300,46.7192,600,,6.8
+-124.6031,10,toleak-point,"South Coast Wilderness Trail - Toleak Point",4.2,crae,250,47.8904,250,,17.0
+-121.8636,45,tolmie-peak,"Tolmie Peak Lookout - Eunice Lake",4.3,lmvspk,1100,46.9327,5900,,7.5
+-122.5813,1,tommy-thompson-trail,"Tommy Thompson Trail",4.0,cvakd,0,48.4802,25,,6.6
+-121.9957,7,tiger-mountain-trail-north,"Tiger Mountain Trail North",2.9,fmad!,2400,47.5296,2500,http://wta.org/kml/tiger-mountain-trail-north.kmz,15.5
+-121.3584,5,tieton-meadows,"Tieton Meadows",3.4,rma,200,46.5768,3600,,3.5
+-123.4766,4,three-forks-1,"Three Forks",2.8,,,47.9485,,,
+-120.8447,5,top-lake,"Top Lake",2.2,lmv,,47.8548,,,8.6
+-121.6484,7,tomyhoi-lake,"Tomyhoi Lake",2.4,lmvap,1800,48.9454,5400,,8.0
+-122.0078,2,three-corner-rock,"Three Corner Rock",3.5,mvs,800,45.7447,3550,,4.4
+-121.1880,2,tonga-ridge-snowshoe,"Tonga Ridge Snowshoe",5.0,vp!,1400,47.6551,5100,,7.0
+-121.0925,16,thunder-creek-1,"Thunder Creek",3.6,ropek!,1300,48.6855,1900,,12.0
+-121.9776,8,tiger-mountain-trail,"Tiger Mountain Trail",3.5,fmd,2360,47.4425,2500,,15.2
+-121.1742,0,thomas-mountain,"Thomas Mountain",0.0,lvsp,3400,47.2676,,,8.0
+-121.9776,6,tiger-mountain-trail-south,"Tiger Mountain Trail South",2.8,fmakd,520,47.4425,1100,,3.5
+-121.3242,15,thornton-lakes-and-trappers-peak,"Thornton Lakes and Trappers Peak",4.3,lvs,2900,48.6537,5000,,10.2
+-120.8198,3,three-brothers-mountain,"Three Brothers Mountain",2.7,mp,,47.3614,,,
+-122.4921,4,the-tacoma-nature-center,"Tacoma Nature Center Interpretive Walks",3.0,lmak,,47.2414,,,3.0
+-119.9648,10,tiffany-mountain,"Tiffany Mountain",4.1,mvspk,1740,48.6630,8242,,6.0
+-121.1597,2,thorp-mountain-snowshoe,"Thorp Mountain Snowshoe",2.0,s,2800,47.3726,5100,,15.0
+-121.5835,4,thompson-lake,"Thompson Lake",3.8,lwoe,,47.4248,4200,,19.8
+-122.7403,0,the-kettles-trail-system-of-whidbey-island,"The Kettles Trail System of Whidbey Island",0.0,,,48.2270,,,
+-121.7653,9,tongue-mountain,"Tongue Mountain",3.1,mvs,1200,46.3965,4838,,3.0
+-121.3010,2,tieton-river-meadows-snowshoe,"Tieton River Meadows Snowshoe",4.0,rmvakd!,350,46.6225,3500,,10.0
+-124.5990,13,third-beach,"Third Beach",3.9,cwoak,280,47.8906,280,,3.6
+-120.8114,1,tieton-pond,"Tieton Pond Snowshoe",5.0,rlvd,,46.7267,,,4.5
+-123.6637,5,three-lakes-1,"Three Lakes",3.0,,,47.5598,,,
+-121.0980,14,thunder-knob,"Thunder Knob",3.6,lvekd,635,48.6905,1875,,3.6
+-121.1887,23,tonga-ridge,"Tonga Ridge / Mount Sawyer",3.4,fmvspekd,1200,47.6529,5495,,8.0
+-121.5892,4,three-peaks,"Three Peaks and Mosquito Lake",2.8,ovp,1700,46.6267,4900,,10.0
+-121.9269,2,tolt-mcdonald-park,"Tolt-MacDonald Park",3.0,rkd,,47.6442,,,12.0
+-121.1861,3,thorp-creek,"Thorp Creek",3.3,,,47.3570,,,
+-121.1578,9,thorp-lake,"Thorp Lake",4.1,le,1300,47.3733,4800,,7.0
+-121.6878,13,three-fingers,"Three Fingers",4.5,lmvsp,4200,48.1697,6854,,15.0
+-121.7925,0,tomlike-mountain,"Tomlike Mountain",0.0,lomvsap,1300,45.5776,4555,,6.0
+-121.2088,8,thorp-mountain,"No Name Ridge - Thorp Mountain",4.0,lv,1000,47.4101,5854,,9.0
+-121.9289,5,tiger-mountain-road,"Tiger Mountain Road",3.6,,,47.4659,,,
+-118.7380,5,ten-mile-1,"Ten Mile",3.6,,,48.5185,,,
+-121.6991,4,the-castle,"The Castle",4.0,s,,46.7666,,,
+-123.1512,4,the-brothers,"The Brothers",3.0,lovsed,6050,47.5997,6866,,13.2
+-120.7514,4,ten-mile,"Ten Mile",2.5,,,48.1992,,,
+-120.7184,7,teanaway-ridge,"Teanaway Ridge",3.0,mp,1900,47.3543,5489,,6.0
+-120.9377,0,teanaway-butte-via-jungle-creek,"Teanaway Butte via Jungle Creek",0.0,vsp,2150,47.3314,4760,,8.0
+-117.1027,4,trail-130,"Mount Spokane - Trail 130",4.0,ofmvakd,,47.9048,,,12.0
+-121.1099,1,trap-lake,"Trap Lake",5.0,lomvd,2700,47.7185,5400,,11.0
+-122.2136,5,trail-of-two-forests,"Trail of Two Forests",3.4,ovk,50,46.0993,1885,,0.5
+-121.0976,4,trail-creek-1,"Trail Creek",1.8,rlped,1840,47.5431,4750,,9.4
+-121.8107,7,trail-of-the-shadows,"Trail of the Shadows",2.4,roa,20,46.7497,2770,,0.7
+-121.2433,5,trail-of-the-cedars,"Trail of the Cedars",3.6,mak!,,48.6760,,,1.0
+-121.3412,1,trapper-peak,"Trapper Peak",5.0,,,48.6511,,,
+-121.1066,4,trap-pass,"Trap Pass",2.8,lwmvp,2700,47.7093,5800,,11.4
+-121.8446,1,traditional-knowledge-trail,"Traditional Knowledge Trail",4.0,omk,,47.5157,,,0.3
+-117.9436,6,towell-falls,"Escure Ranch - Towell Falls",3.5,wmakd!,530,47.0143,1565,,6.4
+-121.9957,7,tradition-lakes,"Tradition Lake Loop",3.4,lofmakd,150,47.5296,540,,2.9
+-119.2865,5,trail-lake-coulee,"Trail Lake Coulee",2.6,lma!,100,47.5344,,,5.0
+-121.9836,6,trapper-creek,"Trapper Creek",3.5,rwomakd,,45.8817,4607,,9.0
+-117.6253,4,tucannon-river,"Tucannon River Canyon",1.5,ra,500,46.1886,4050,,8.0
+-122.1362,6,truman,"Truman Trail-Pumice Plains",3.8,lva,200,46.2499,4000,,10.0
+-121.6625,7,twin-lakes-2,"Twin Lakes (North Cascades)",2.4,,,48.9435,,,
+-120.6368,3,trout-creek-1,"Trout Creek",2.0,,,48.6983,,,
+-120.8949,8,twin-lakes-1,"Twin Lakes (Wenatchee)",3.0,rloved,1000,47.9205,2850,,8.4
+-121.4014,3,troublesome-creek-nature,"Troublesome Creek Nature",2.7,,,47.8983,,,
+-120.7076,5,tumwater,"Tumwater Pipeline Trail",3.6,rfmvakd,100,47.5871,1400,,2.4
+-123.0521,9,tunnel-creek-1,"Tunnel Creek",3.3,lofvpe,2450,47.7815,4500,,9.4
+-121.1065,4,tunnel-creek,"Tunnel Creek",3.2,lwmd,1300,47.7094,4400,,1.6
+-122.9775,8,turtleback-mountain,"Turtleback Mountain",3.8,cvd,830,48.6410,930,,3.0
+-123.1124,4,tull-canyon,"Tubal Cain Mine",2.2,roed,1600,47.9620,4600,,7.2
+-121.8388,4,twin-firs-loop,"Twin Firs Loop",2.2,ok,50,46.7344,2550,,0.5
+-120.9170,8,trout-lake,"Trout Lake",3.2,lofd,2000,47.6059,4800,,11.5
+-120.4433,4,twin-peaks,"Twin Peaks",4.0,,,47.3821,,,
+-120.5983,3,tronsen-head-5980,"Tronsen Head 5980'",3.0,,,47.4327,,,
+-121.7998,2,triple-creek-falls,"Triple Creek Falls",1.0,,,48.0936,,,
+-120.5265,9,tronsen-ridge,"Tronsen Ridge",3.9,fmvp,1000,47.3227,5800,,8.0
+-121.4437,1,twin-lakes-monte-cristo,"Twin Lakes (Monte Cristo)",5.0,,,48.0251,,,
+-121.6761,132,twin-falls-state-park,"Twin Falls",4.2,rwokd!,500,47.4420,1000,,3.5
+-117.5311,7,turnbull-national-wildlife-refuge,"Turnbull National Wildlife Refuge",3.6,lfmakd!,0,47.4168,2300,,5.5
+-122.9045,1,tumwater-falls-park,"Tumwater Falls Park",5.0,rwfmakd,30,47.0141,150,,0.5
+-120.5675,10,twisp-pass,"Twisp Pass",3.6,rfmvped,2460,48.4586,6064,,9.0
+-121.3615,9,twin-sisters,"Twin Sisters Lakes",3.2,lekd,900,46.7520,5200,,4.4
+-120.5532,4,tronson-meadow,"Tronsen Meadow",2.5,vp,1168,47.3290,5536,,3.4
+-121.4610,5,trout-creek,"Trout Creek",3.6,rwfak,500,47.8758,1400,,3.0
+-121.3583,2,twin-lakes-snowshoe,"Twin Lakes Snowshoe",1.0,lkd!,400,47.3632,3100,,8.0
+-118.9404,4,twin-sisters-rock,"Twin Sisters Rock",4.0,rmk,200,46.0426,500,,1.0
+-120.4247,5,twin-peaks-horse-lake-mountain,"Twin Peaks (Horse Lake Mountain)",3.8,,,47.3900,,,
+-123.0916,9,tubal-cain-mine-and-buckhorn-lake,"Tubal Cain Mine to Buckhorn Lake",3.8,lmvped,2000,47.8862,5200,,12.0
+-120.7211,1,tumwater-botanical-area-road-7903,"Tumwater Botanical Area",5.0,,,47.6567,,,
+-122.9738,10,twanoh-state-park,"Twanoh State Park",3.7,ofvapekd,375,47.3774,400,,2.3
+-122.1773,3,upper-siouxon-horseshoe-falls,"Upper Siouxon Creek",2.0,rwa,700,45.9466,1570,,8.4
+-121.3756,0,upper-wildcat-lake,"Upper Wildcat lake",0.0,lwofmvad,4000,47.4086,4920,,17.0
+-118.5005,5,wapaloosie,"Wapaloosie Mountain",3.4,mve,1850,48.6751,6850,,5.0
+-122.4871,0,welts-samish-restoration-site,"Welts-Samish Restoration Site",0.0,cva,30,48.5477,,,
+-118.9027,4,wallula-habitat-management-unit,"Wallula Habitat Management Unit",3.5,ra,0,46.0678,,,6.0
+-122.1724,5,vanson-ridge,"Vanson Ridge",2.6,,,46.4176,,,
+-117.7059,0,wenaha-river-trail-3106,"Wenaha River Trail",0.0,rmaekd,,46.2061,,,
+-121.2029,4,waptus-pass,"Waptus Pass",3.8,,,47.4842,,,
+-121.6820,11,wallace-lake,"Wallace Falls State Park - Greg Ball Trail",3.5,rlwaekd,1500,47.8669,,,8.2
+-121.5847,0,voodoo-peak,"Voodoo Peak",0.0,vs,,48.1723,5198,,
+-120.5804,4,wenatchee-crest-snowshoe,"Wenatchee Crest Snowshoe",3.5,vk,400,47.3357,4500,,6.0
+-120.6821,3,wedge-mtn,"Wedge Mountain",3.7,vp,2400,47.4810,6900,,
+-121.7940,4,wahpenayo-peak,"Wahpenayo Peak",3.5,,,46.7465,,,
+-123.4556,3,verne-samuelson-trail,"Verne Samuelson Trail",2.7,vakd,,48.0946,,,3.0
+-121.6369,2,webb-mountain,"Webb Mountain",3.0,vsp,,47.4345,5335,,
+-122.1548,4,vanson-peak,"Vanson Peak",3.8,lmva,2600,46.4294,4948,,13.2
+-121.1001,3,waptus-lake,"Waptus Lake",4.3,,900,47.3837,3100,,
+-123.4521,9,upper-south-fork-skokomish-river,"Upper South Fork Skokomish River",3.4,ro,1100,47.4794,1800,,8.0
+-118.9322,5,virginia-lilly,"Virginia Lilly",2.6,md,900,48.8113,4270,,3.5
+-122.2905,3,washington-park-arboretum,"Washington Park Arboretum",2.7,ofmkd,50,47.6416,150,,5.0
+-123.3276,13,wagonwheel-lake,"Wagonwheel Lake",2.9,,3200,47.5161,4100,,5.8
+-121.7006,9,welcome-pass,"Welcome Pass and the High Divide",3.1,omvsp,3400,48.9136,5850,,8.0
+-120.4181,4,war-creek,"War Creek",3.0,,,48.3648,,,
+-122.6088,0,vendovi-island-trails,"Vendovi Island Trails",0.0,cv,100,48.6084,,,3.0
+-120.1323,1,twisp-river-rearing-ponds,"Twisp River Rearing Ponds",4.0,rak,0,48.3657,,,1.0
+-120.8940,4,upper-roaring-creek,"Upper Roaring Creek",2.5,lfved,,47.7510,6050,,3.0
+-120.9032,4,way-creek,"Way Creek",3.8,,,47.3414,,,
+-121.4299,4,wagon-road-1,"Wagon Road",3.8,,,47.4255,,,
+-120.5722,4,upper-mad-river,"Upper Mad River",2.0,,,47.8362,,,
+-121.6782,10,wallace-falls-lake-loop,"Wallace Falls - Lake Loop",3.2,rlwed,1544,47.8670,1844,,9.0
+-121.4707,2,weldon-wagon-road,"Weldon Wagon Road",2.0,mk,1290,45.8001,1900,,5.4
+-121.4713,5,walupt-creek-loop,"Walupt Lake and Walupt Creek",3.6,lvpe,1800,46.4231,5800,,12.0
+-121.0741,1,welldiggers-ass,"Welldigger's Ass",4.0,,,47.7725,,,
+-121.6408,13,walt-bailey-to-bald-mountain,"Cutthroat Lakes via Walt Bailey Trail",4.1,lfmvsek,2300,48.0237,4700,,10.0
+-120.9465,5,upper-lyman-lake,"Upper Lyman Lake",3.2,,,48.1975,,,
+-123.0120,1,welch-peaks,"Welch Peaks",5.0,omvsp,3300,47.8592,6100,,9.0
+-120.8724,0,volcanic-neck,"Volcanic Neck",0.0,,,47.3900,,,
+-121.1038,8,waptus-river,"Waptus River",3.0,rlmvped,560,47.4092,3120,,22.0
+-120.6581,6,washington-pass-overlook,"Washington Pass Overlook",2.8,vkd,,48.5245,,,0.2
+-121.4922,3,w-granite-mt,"West Granite Mountain",2.0,,,47.4235,,,
+-118.9532,1,wallula-gap,"Wallula Gap Overlook",1.0,rm,780,46.0635,1150,,6.3
+-120.6506,0,wallaby-peak-7995,"Wallaby Peak",0.0,sp,2900,48.5269,7995,,6.0
+-121.6780,176,wallace-falls,"Wallace Falls State Park",4.0,rlwovkd!,1300,47.8669,1500,,5.6
+-121.4790,11,vesper-peak,"Vesper Peak",4.3,rlmvspd,4200,48.0371,6214,,8.0
+-121.7071,3,unicorn-creek-1,"Unicorn Peak",2.0,lvse,2397,46.7678,6971,,4.8
+-120.9499,4,upper-icicle-creek,"Upper Icicle Creek",3.2,oekd,400,47.6125,3200,,10.0
+-123.6006,5,upper-lake-mills,"Upper Lake Mills",2.6,rl,400,48.0029,,,0.8
+-121.9475,4,upper-falls-creek,"Upper Falls Creek Trail",2.2,oa,1100,45.9080,2400,,5.0
+-120.6435,10,umtanum-creek-falls,"Umtanum Creek Falls",3.5,wmvak!,700,46.8996,2000,,3.0
+-121.3597,7,union-creek,"Union Creek",2.9,woad,2500,46.9332,5900,,14.0
+-123.1938,5,upper-gray-wolf-river,"Slab Camp Creek and Gray Wolf River",3.6,romekd,1100,47.9654,2540,,5.5
+-121.7823,15,van-trump-park,"Van Trump Park",4.1,rwmvp,2150,46.7790,5850,,6.0
+-121.0826,0,union-peak,"Union Peak",0.0,,1096,47.8112,5696,,
+-123.1456,19,upper-lena-lake,"Upper Lena Lake",4.2,lwomvae,3900,47.6009,4600,,14.0
+-122.4777,1,upland-trail-breazeale-interpretive-center,"Breazeale Interpretive Center",3.0,cak,,48.4837,,,1.5
+-119.3557,4,umatilla-rock-monument-coulee,"Umatilla Rock - Monument Coulee",3.2,lma!,100,47.5855,,,5.0
+-122.2906,0,union-bay-nature-area,"Union Bay Nature Area",0.0,lvakd,,47.6580,,,1.5
+-120.6435,6,umtanum-ridge-crest,"Umtanum Ridge Crest",3.2,mvsapd,2400,46.8996,3480,,6.0
+-120.4833,21,umtanum-creek-canyon,"Umtanum Creek Canyon",3.5,rfmakd,500,46.8554,1800,,6.5
+-120.5703,4,wilson-creek-2,"Wilson Creek",3.5,romvd,220,47.2289,5860,,5.6
+-123.9651,4,willapa-national-wildlife-refuge-bear-river,"Willapa National Wildlife Refuge - Bear River",4.0,wa,,46.3768,10,,3.5
+-120.4672,4,williams-creek,"Williams Creek",3.8,l,,48.3972,,,
+-121.6358,17,winchester-mountain,"Winchester Mountain",4.2,lmvsap,1300,48.9526,6521,,3.4
+-123.9400,5,willapa-national-wildlife-refuge-long-island,"Willapa National Wildlife Refuge - Art Walk",2.8,loa,435,46.4122,225,,5.8
+-123.8455,4,willaby-creek,"Willaby Creek",3.0,,,47.4670,,,
+-121.3420,2,willard-springs-trail,"Willard Springs Trail",3.0,mvakd,,45.9654,,,2.0
+-121.9791,4,west-tiger-2,"West Tiger 2",2.2,vs,2300,47.5305,2757,,7.8
+-120.5653,5,west-fork-methow-river,"West Fork Methow River",3.6,,,48.6492,,,
+-122.0624,6,west-peak,"West Peak",2.5,vakd,,47.5056,,,
+-120.9161,4,west-fork-agnes-creek,"West Fork Agnes Creek",3.5,rf,,48.3428,,,17.0
+-121.6437,5,white-river-to-sunrise,"White River to Sunrise",2.6,ae,2100,46.9021,6400,,6.0
+-119.3893,4,white-bluffs-south,"White Bluffs - South Slope",2.8,rma!,530,46.6388,900,,10.0
+-123.5844,6,whiskey-bend-to-low-divide,"Whiskey Bend to Low Divide",2.5,,,47.9643,,,
+-123.1471,0,westcott-bay-nature-reserve-and-sculpture-park,"Westcott Bay Nature Reserve and Sculpture Park",0.0,k,,48.6105,,,
+-121.5170,4,white-pass-chinook-pass-pct-200,"Pacific Crest Trail (PCT) Section I.1 - White Pass - Chinook Pass",3.5,lmvs,2200,46.8745,,,28.0
+-121.9436,4,whistle-punk,"Whistle Punk Trail",2.5,omakd,70,45.8101,1200,,1.5
+-121.8566,3,westside-road,"Westside Road",1.3,rov,,46.7354,,,11.0
+-123.5959,5,west-elwha,"West Elwha",3.8,rmak,500,48.0318,650,,6.4
+-122.6950,0,whipple-creek-park,"Whipple Creek Park",0.0,fkd,110,45.7451,200,,3.1
+-120.9339,2,wenatchee-ridge-snowshoe,"Wenatchee Ridge Snowshoe",3.0,rv!,2000,47.8508,4000,,11.0
+-121.9957,6,west-tiger-railroad-grade,"West Tiger Railroad Grade",2.0,om,1600,47.5296,2000,,10.0
+-122.0904,8,wilderness-peak,"Wilderness Peak Loop",2.8,wofmsapkd,1200,47.5093,1598,,4.0
+-121.0064,4,west-fork-teanaway-river,"West Fork Teanaway River",2.8,rmvapekd,2800,47.2915,5750,,9.6
+-123.7318,5,west-fork-humptulips-river,"West Fork Humptulips River",2.0,ovapd,700,47.4572,1000,,10.0
+-120.6025,4,whistling-pig-meadow,"Whistling Pig Meadow",1.8,rmae,1300,47.8440,5650,,11.4
+-124.1041,0,westport-light-trail,"Westport Light Trail",0.0,cakd,,46.8901,,,5.0
+-122.8277,2,wildcat-trail,"Green Mountain - Wildcat Trail",4.5,fvsed,1900,47.5519,1639,,9.5
+-120.0944,6,whiskey-dick-wildlife-area,"Whiskey Dick Wildlife Area",3.0,mvsakd,1750,46.9607,3850,,8.0
+-120.6752,4,west-fork-pasayten-river,"West Fork Pasayten River",3.8,rmvpe,2400,48.7338,7200,,33.0
+-120.9437,4,white-river,"White River",2.5,,,47.9631,,,
+-122.1268,0,whitehorse-trail-arlington-to-trafton,"Whitehorse Trail - Arlington to Trafton",0.0,,,48.2007,,,
+-121.6548,0,white-salmon-road-snowshoe,"White Salmon Road Snowshoe",0.0,vp,,48.8664,,,5.0
+-120.0944,0,whiskey-dick-wildlife-area-backcountry-trail,"Whiskey Dick Wildlife Area - Backcountry Trail",0.0,d,80,46.9607,,,0.8
+-119.4236,0,whistler-canyon-trail,"Whistler Canyon Trail",0.0,rlwofmvsaekd,3000,48.9030,3930,,24.0
+-122.0770,5,west-access,"West Access Trail",2.4,vakd,800,47.5143,1340,,1.1
+-122.0829,5,west-crater,"West Crater",1.8,v,400,45.8785,4000,,1.6
+-121.9794,5,west-tiger-1,"West Tiger No. 1 via Fred's Corner",3.2,fmvsad!,2450,47.5304,2948,,7.0
+-122.6195,3,west-beach-deception-pass-state-park,"Deception Pass State Park - West Beach Sand Dunes",4.3,cmvakd,,48.4035,,,1.2
+-121.3976,4,west-fork-miller-river,"West Fork Miller River",3.2,,,47.6719,,,
+-123.1688,6,west-fork-dosewallips-river,"West Fork Dosewallips River",4.3,rwoe,1400,47.7365,1800,,15.8
+-122.0819,8,whittier-ridge-lakes-loop,"Whittier Ridge-Lakes Loop",3.9,lmvpe,2600,46.3045,5840,,14.3
+-121.4262,1,white-chuck-mountain,"White Chuck Mountain",3.0,,,48.2124,,,
+-120.4349,0,wenatchee-mountain,"Wenatchee Mountain",0.0,vs,,47.2811,,,
+-119.9643,6,wild-horses-monument,"Wild Horses Monument",2.3,rm,150,46.9646,1300,,0.4
+-120.9413,2,white-river-snowshoe,"White River Snowshoe",2.5,rvk!,400,47.9610,3200,,4.0
+-120.0944,0,whiskey-dick-wildlife-area-ridgeline-solar-trail,"Whiskey Dick Wildlife Area - Ridgeline Solar Trail",0.0,rvsd,320,46.9607,3873,,2.4
+-122.6049,9,whistle-lake,"Whistle Lake",4.2,lmakd,200,48.4631,580,,3.7
+-121.7065,3,whitehorse-rail-trail,"Whitehorse Trail - Swede Heaven to Darrington",3.7,rvakd,0,48.2702,150,,6.0
+-120.6734,9,westberg-trail,"Westberg Trail",3.8,mvap!,1800,47.0593,3560,,4.0
+-121.5864,6,west-defiance,"West Defiance - Putrid Pete's Peak",3.8,mvsp,3020,47.4267,5220,,6.8
+-121.4670,10,white-chuck-bench,"White Chuck Bench",2.7,rmvpkd!,,48.1705,,,5.0
+-122.1118,0,weona-park-bellevue,"Weowna Park",0.0,ofakd,600,47.6085,320,,3.5
+-121.9956,22,west-tiger-3,"West Tiger 3",3.3,ova,2100,47.5296,2525,,5.0
+-120.0944,0,whiskey-dick-wildlife-area-bluebird-trail,"Whiskey Dick Wildlife Area - Bluebird Trail",0.0,mvad,315,46.9607,,,1.7
+-121.3617,5,whatcom-pass,"Whatcom Pass",2.8,,,48.8750,,,
+-122.4280,3,whatcom-creek,"Whatcom Falls Park",4.3,rlwakd,50,48.7525,,,4.0
+-120.7349,0,wenatchee-river-road,"Wenatchee River Road",0.0,,,47.6875,,,
+-120.3368,4,west-fork-buttermilk-river,"West Fork Buttermilk",3.2,rfved,,48.3111,7480,,19.0
+-122.3293,6,west-hylebos-wetlands,"West Hylebos Wetlands",2.8,lfak,0,47.2898,70,,1.7
+-118.7678,5,white-mountain,"White Mountain via Kettle Crest Trail South",3.2,vsd,1500,48.8832,6921,,28.0
+-119.4445,10,white-bluffs-north,"Hanford Reach - North",3.6,rma!,500,46.6772,725,,7.0
+-121.6948,3,white-salmon-creek-snowshoe,"White Salmon Creek Snowshoe",3.7,k!,300,48.9035,2400,,10.0
+-121.2769,4,white-pass-pilot-ridge-loop,"White Pass - Pilot Ridge Loop",5.0,rlwofmvsaped,7500,48.0534,6360,,29.2
+-121.3924,0,white-pass-nordic-center,"White Pass Nordic Center",0.0,lwvp!,250,46.6397,4500,,1.9
+-121.6929,4,wild-goose,"Wild Goose",3.2,lfvd,1100,48.8471,5100,,1.4
+-120.0944,0,wild-horse-wind-and-solar-facilities-bitterroot-trail,"Whiskey Dick Wildlife Area - Bitterroot Trail",0.0,md,185,46.9607,,,1.0
+-121.6357,1,wonderland-trail-box-canyon-to-indian-bar,"Wonderland Trail - Box Canyon to Indian Bar",5.0,e,,46.7656,,,
+-121.4025,3,windy-pass-mount-catherine-snowshoe,"Windy Pass - Mount Catherine Snowshoe",2.7,sa!,2300,47.3961,5052,,9.0
+-122.1361,7,windy-ridge,"Windy Ridge Trail",3.1,mvp,200,46.2499,4200,,4.0
+-120.2992,5,wolf-creek,"Wolf Creek",2.8,omvae,4270,48.4841,5738,http://wta.org/kml/wolf-creek.kmz,21.0
+-123.5036,4,wolf-creek-1,"Wolf Creek",3.0,rfva,1400,47.9704,5100,,16.2
+-121.6029,4,wobbly-creek,"Wobbly Creek",2.8,,,46.4393,,,
+-121.5088,1,windy-pass-to-stampede-pass,"Pacific Crest Trail - Windy Pass to Stampede Pass",3.0,,,47.4832,,,
+-120.6751,11,windy-pass,"Windy Pass",3.5,mvpkd,1300,48.7321,6900,,7.0
+-121.8315,5,windy-gap-natural-bridge,"Yellowstone Cliffs and Windy Gap",3.6,vap,3500,46.9771,5800,,13.0
+-121.7626,4,yellow-jacket,"Hat Rock-Yellow Jacket Pass",3.0,mvs,1200,46.4323,5200,,5.5
+-121.8122,3,wonderland-trail-snowshoe,"Wonderland Trail Snowshoe",3.7,ra,1300,46.7503,4100,,7.6
+-121.9018,5,wright-meadows,"Wright Meadow",1.8,a,380,46.2087,3730,,3.0
+-121.9601,4,woods-creek,"Woods Creek",2.8,of,0,46.4623,1100,,2.5
+-123.5852,7,wynoochee-lake,"Wynoochee Lake",2.9,l,1100,47.4084,950,,12.0
+-123.6024,4,working-forest-nature-trail,"Working Forest Nature Trail",3.0,,,47.3912,,,
+-122.8538,5,woodard-bay-conservation-area,"Woodard Bay Conservation Area",2.4,cak,,47.1269,,,3.5
+-122.1112,6,zig-zag-lake,"Zig Zag Lake",3.2,loa,600,45.8464,4000,,1.0
+-120.4760,7,yakima-rim-skyline,"Yakima Skyline Trail",3.7,rmsad,1800,46.7127,,,4.0
+-123.1468,6,young-hill-and-bell-point,"Young Hill",3.0,cvakd,600,48.5866,650,,2.2
+-121.6625,40,yellow-aster-butte,"Yellow Aster Butte",4.2,fmvpd,2550,48.9435,6150,,7.5
+-120.5322,4,yakima-greenway,"Yakima Greenway",3.8,rlfvakd,100,46.6250,1130,,10.0
+-121.4235,5,wright-mountain,"Wright Mountain",3.6,lvs,,47.4456,5430,,11.4
+-120.9641,7,yellow-hill,"Yellow Hill",2.7,,,47.2955,,,
+-121.6492,2,zig-zag-trail,"Zig Zag Trail ",1.5,,,47.4315,,,
+-121.6548,6,youth-on-age,"Youth-on-Age Interpretive Trail",2.7,ofmakd,0,48.0710,,,0.2
+-120.3526,0,jacobson-preserve,"Jacobson Preserve",0.0,msakd,340,47.4113,1440,,
+-117.6185,1,tucannon-trail-3135,"Tucannon Trail",3.0,rmvekd,800,46.1887,4200,,9.0
+-122.1854,1,siouxson-creek-and-chinook-falls,"Siouxson Creek and Chinook Falls",3.0,rfkd,600,45.9430,,,8.5
+-122.2693,0,larch-mountain-silver-star,"Larch Mountain (Silver Star)",0.0,,1150,45.7214,3496,,5.6
+-123.0239,0,american-camp-and-south-beach,"American Camp and South Beach",0.0,,180,48.4645,180,,2.8
+-121.2622,5,scorpion-mountain,"Scorpion Mountain",4.2,fmvspd,2500,47.7966,5540,,8.6
+-122.4712,0,interurban-trail,"Interurban Trail",0.0,cwvd,300,48.6587,350,,11.8
+-123.2594,3,rain-shadow-loop,"Rain Shadow Loop",4.0,mvsk,170,47.9546,6007,,0.5
+-122.2493,0,green-river-trail,"Green River Trail",0.0,rfakd,0,47.4680,50,,19.7
+-122.7429,0,vancouver-lake,"Vancouver Lake",0.0,fakd,0,45.6790,10,,2.5
+-120.2158,0,dark-peak,"Dark Peak",0.0,rlovs,,47.9696,8513,,16.0
+-121.4433,0,chair-peak,"Chair Peak",0.0,vspd,,47.4154,6244,,9.0
+-123.2045,1,turn-point-lighthouse,"Turn Point Lighthouse",5.0,cvakd,280,48.6765,300,,6.0
+-123.8235,0,lyre-conservation-area,"Lyre Conservation Area",0.0,cakd,0,48.1473,0,,2.5
+-121.4598,0,colquhon-peak,"Colquhon Peak",0.0,,600,47.1322,5173,,2.6
+-122.6927,0,washington-park,"Washington Park",0.0,,280,48.4991,250,,2.2
+-123.1784,0,george-c-reifel-migratory-bird-sanctuary,"George C Reifel Migratory Bird Sanctuary",0.0,,0,49.0985,10,,1.5
+-122.0826,0,ghost-lake,"Ghost Lake",0.0,,640,46.3051,4000,,5.2
+-117.1017,0,kalispell-rock,"Kalispell Rock",0.0,,1490,48.6337,5200,,5.6
+-118.0713,0,lewis-and-clark-trail-state-park,"Lewis and Clark Trail State Park",0.0,,0,46.2896,1400,,0.8
+-122.1827,6,mount-st.-helens-summit-worm-flow-route,"Mount St. Helens Summit - Worm Flows Route",4.2,vs!,5699,46.1426,8364,,12.0
+-121.0977,1,thunder-mountain,"Thunder Mountain",5.0,,,47.7188,,,
+-121.9955,0,crescent-lake-1,"Crescent Lake",0.0,lmvakd,18,47.8166,86,,2.0
+-122.5679,0,trillium-community-forest-land,"Trillium Community Forest Land",0.0,lofmakd,100,48.0501,260,,5.5
+-122.4652,0,shinglemill-creek-preserve,"Shinglemill Creek Preserve",0.0,rokd,300,47.4670,400,,3.0
+-117.4876,0,palisades-park,"Palisades Park",0.0,fmvakd,500,47.6672,2200,,7.0
+-122.3293,0,lake-ballinger-park,"Lake Ballinger Park",0.0,lfkd,,47.7897,,,
+-121.8555,8,kautz-creek-to-indian-henrys-hunting-ground,"Kautz Creek to Indian Henry's Hunting Ground",3.1,rmvp,3800,46.7364,5335,,11.0
+-122.3391,0,tammi-wilson-memorial-trail-gages-slough-trail,"Tammi Wilson Memorial Trail (Gages Slough Trail)",0.0,rvkd,,48.4600,,,0.8
+-120.7025,0,buckner-orchard-walk,"Buckner Orchard Walk",0.0,rmvk,,48.3405,1200,,1.6
+-122.0941,1,echo-mountain,"Echo Mountain",2.0,,400,47.4370,880,,4.0
+-122.6706,0,guemes-channel-and-ship-harbor,"Guemes Channel and Ship Harbor",0.0,,0,48.5036,10,,1.6
+-122.6363,0,big-beaver-pond,"Big Beaver Pond",0.0,,120,48.4916,370,,2.7
+-123.1317,0,briggs-lake,"Briggs Lake",0.0,,260,48.5977,340,,4.0
+-123.0989,0,king-sisters-preserve,"King Sisters Preserve",0.0,,75,48.5292,150,,1.4
+-70.2491,0,mount-spokane-state-park-mount-kit-carson-loop-road,"Mount Spokane State Park - Mount Kit Carson Loop Road",0.0,womvakd,1300,44.7212,5220,,13.0
+-122.4548,0,dockton-forest,"Dockton Forest",0.0,ofkd,,47.3672,,,9.0
+-122.3604,1,boeing-creek-park,"Shoreview and Boeing Creek Parks",2.0,lvakd,,47.7518,,,4.0
+-122.5006,1,copy_of_pioneer-park,"Pioneer Park",2.0,,,48.3853,,,
+-117.2910,0,dishman-hills,"Dishman Hills",0.0,ma,,47.6503,,,4.0
+-122.6903,0,burnt-bridge-creek-stewart-glen-section,"Burnt Bridge Creek - Stewart Glen Section",0.0,rfmkd!,0,45.6733,50,,2.6
+-122.4071,0,lacamas-park-round-lake-to-lower-falls,"Lacamas Park - Round Lake to Lower Falls",0.0,lwkd,190,45.6039,200,,3.4
+-122.5802,0,burnt-creek-bridge-eastern-section,"Burnt Bridge Creek - Eastern Section",0.0,fmakd!,20,45.6359,,,3.6
+-122.6150,0,burnt-creek-bridge-middle-section,"Burnt Bridge Creek - Middle Section",0.0,fmakd!,120,45.6345,,,7.6
+-122.8460,0,cascade-falls,"Cascade Falls",0.0,,420,48.6480,690,,3.1
+-117.4297,0,south-hill-bluff,"South Hill Bluff",0.0,,350,47.6286,2340,,3.0
+-123.6481,7,north-fork-quinault-river-halfway-house,"North Fork Quinault River-Halfway House",3.0,,400,47.5757,900,,10.2
+-123.5527,1,maidenhair-falls,"Maidenhair Falls",4.0,w,0,47.4480,,,1.0
+-117.1967,0,antoine-peak-conservation-area-summit-loop,"Antoine Peak Conservation Area - Summit Loop",0.0,vsd!,600,47.7188,,,5.5
+-122.3619,0,llandover-woods-greenspace,"Llandover Woods Greenspace",0.0,fd,60,47.7341,170,,0.7
+-119.6463,0,sinlahekin-natural-area,"Sinlahekin Natural Area",0.0,rvak,0,48.7909,2700,,8.0
+-119.1236,0,bonaparte-lake-trail,"Bonaparte Trail",0.0,lsd,2700,48.8129,7250,,11.0
+-118.1697,0,south-fork-walla-walla-river,"South Fork Walla Walla River",0.0,rmved,2885,45.8305,5000,,39.2
+-121.7358,7,blue-lake-creek,"Blue Lake Creek",2.9,lwed,2100,46.4037,4000,,4.8
+-122.0480,0,big-rock-trail,"Big Rock Trail",0.0,mkd,,47.6002,,,1.2
+-121.9370,0,bertha-may-and-granite-lakes,"Bertha May and Granite Lakes",0.0,lfvkd,200,46.7069,4400,,4.0
+-121.6186,0,mitchell-point,"Mitchell Point",0.0,rvs,1200,45.7029,1533,,2.6
+-122.6102,0,cochrane-memorial-park,"Cochrane Memorial Park",0.0,fvkd,,46.9374,,,
+-122.6807,1,kopachuck-state-park-trail,"Kopachuck State Park Trail",5.0,comvkd,25,47.3085,25,,1.0
+-121.1921,3,suiattle-river-trail,"Suiattle River Trail",3.7,rwoekd,900,48.2481,2500,,13.8
+-117.4209,0,little-spokane-river-natural-area-waikiki-springs,"Little Spokane River Natural Area: Waikiki Springs",0.0,,,47.7717,,,
+-121.8304,5,langille-peak,"Langille Peak",2.4,mvs,2100,46.3817,5372,,5.0
+-121.9364,6,grand-ridge-park,"Grand Ridge Park",3.3,akd!,1100,47.5263,,,14.0
+-121.6865,1,spada-lake-culmback-dam,"Spada Lake - Culmback Dam",2.0,lvakd,150,47.9754,,,1.0
+-122.2160,0,volcano-view-trail,"Volcano View Trail",0.0,ofvk,400,46.1035,,,1.6
+-123.3294,0,lebar-horse-camp-trail,"LeBar Horse Camp Trail",0.0,o,,47.4169,,,
+-121.4946,0,norse-peak-lollipop-via-goat-lakes-trail,"Norse Peak Lollipop via Goat Lakes Trail",0.0,,,46.9716,,,
+-122.4061,0,discovery-park-beach-and-history,"Discovery Park Beach and Highlands Loop",0.0,cfmvk,380,47.6579,345,,5.1
+-122.4023,2,schmitz-preserve-park,"Schmitz Preserve Park",2.5,ofmakd,220,47.5776,325,,1.7
+-122.5877,0,port-gamble-forest-beaver-pond-trail,"Port Gamble Forest - Beaver Pond Trail",0.0,lakd,,47.8402,,,2.0
+-119.9358,0,alta-lake-state-park,"Alta Lake State Park",0.0,lfkd,,48.0294,,,2.0
+-122.2480,0,interurban-trail-south,"Interurban Trail (South)",0.0,rvakd,0,47.4659,25,,14.7
+-123.5273,1,wynoochee-falls,"Wynoochee Falls",5.0,wk,,47.4708,,,1.0
+-121.6804,4,jay-lake,"Wallace Falls State Park - Jay Lake",3.5,lekd,,47.8679,,,12.2
+-121.9707,1,al-borlin-park,"Al Borlin Park",2.0,rfkd,,47.8491,,,1.2
+-117.5466,0,packers-trail,"Packer's Trail ",0.0,rmvpd,2600,46.0223,4800,,5.5
+-122.2530,0,yale-reservoir-logging-road-trail,"Yale Reservoir Logging Road Trail",0.0,rfakd,300,46.0552,,,7.4
+-121.9953,0,west-tiger-four-summit-loop,"West Tiger Four-Summit Loop",0.0,mvsapd,2830,47.5292,2948,,9.6
+-120.8847,0,mount-mastiff-via-merritt-lake,"Mount Mastiff via Merritt Lake",0.0,vs,,47.7908,,,
+-121.0024,3,scatter-peak,"Scatter Peak",2.7,,,47.4790,7031,,
+-120.9478,2,teanaway-butte,"Teanaway Butte",3.5,vs,,47.3122,4760,,
+-122.2601,1,southwest-loowit-loop,"Southwest Loowit Loop",4.0,lofmvae,2400,46.1691,5000,,12.7
+-117.2863,0,elk-creek-falls,"Elk Creek Falls",0.0,wfvkd,300,48.8519,2820,,2.1
+-117.1304,0,mount-spokane-state-park-trail-130-to-ccc-cabin,"Mount Spokane State Park - Trail 130 to CCC Cabin",0.0,ofmvd!,575,47.8859,,,5.0
+-121.6926,9,table-mountain,"Table Mountain",4.3,v,725,48.8468,5700,,2.6
+-122.5529,3,kukutali-preserve,"Kukutali Preserve",4.0,cofak,200,48.4210,230,,2.2
+-122.3415,0,city-hall-to-pike-place,"City Hall to Pike Place",0.0,d,,47.6095,,,2.5
+-117.1945,4,grassy-top,"Grassy Top",3.0,lmvsd,1000,48.8064,,,7.8
+-117.2888,0,deep-ravine-loop-trail,"Deep Ravine Loop Trail",0.0,fkd,200,47.6550,,,2.0
+-118.4665,0,old-stagecoach-trail-to-copper-butte,"Old Stagecoach Trail to Copper Butte",0.0,mvsd,1640,48.7027,,,6.0
+-117.6194,0,tucannon-river-rattlesnake-loop,"Tucannon River - Rattlesnake Loop",0.0,rfmvsaped,2700,46.1890,,,21.0
+-121.6437,1,glacier-basin-loop,"Glacier Basin Loop",5.0,lmvse,3100,46.9021,7400,,11.5
+-122.1322,0,lake-hills-greenbelt,"Lake Hills Greenbelt",0.0,lfakd,50,47.5966,330,,2.3
+-121.7687,0,moncton-ghost-town,"Moncton Ghost Town",0.0,lfkd,20,47.4347,940,,2.5
+-121.1271,1,wellington-ghost-town,"Wellington Ghost Town",5.0,rvkd,20,47.7472,3000,,2.0
+-121.6110,28,summerland-panhandle-gap,"Summerland - Panhandle Gap",4.4,lwofmvape,2950,46.8884,6800,,12.0
+-121.4235,0,snow-lake-rock-creek-middle-fork-red-pass-commonwealth-basin-loop,"Rock Creek - Red Pass Loop",0.0,rwovp,5600,47.4454,5400,,17.0
+-120.7806,0,beaver-loop,"Beaver Loop",0.0,rakd,0,48.7302,,,1.6
+-121.9962,6,around-the-lake,"Around the Lake Trail",3.5,lakd!,0,47.5299,,,1.3
+-122.0960,8,anti-aircraft-peak,"Anti-Aircraft Peak",3.0,lvad,625,47.5411,1525,,6.0
+-122.1148,0,ardmore-trails,"Ardmore Park Trails",0.0,fmakd,170,47.6371,380,,1.5
+-121.6547,0,anaconda-peak,"Anaconda Peak",0.0,vs,,48.0728,,,
+-123.6519,5,appleton-pass,"Appleton Pass",3.4,wofmvpe,3230,47.9868,5050,,15.4
+-121.6910,10,artist-point-snowshoe,"Artist Point Snowshoe",4.2,vpkd!,1000,48.8467,5100,,4.0
+-123.0028,6,anderson-glacier,"Anderson Glacier",2.7,,,47.7249,,,
+-122.6272,1,anacortes-community-forest-lands,"Heart Lake",4.0,lfakd,130,48.4751,620,,2.9
+-121.6214,8,anderson-butte,"Anderson Butte",3.4,mvsd,1000,48.6750,5380,,3.0
+-121.6910,7,artist-ridge,"Artist Ridge - Huntoon Point",3.3,fmvpkd,200,48.8467,5150,,1.2
+-121.4049,6,arch-rock,"Arch Rock",4.7,mpd,1400,47.0930,5900,,12.0
+-121.5196,9,american-lake,"American Lake",3.2,lmvped,1000,46.8694,5700,,14.0
+-121.6017,14,anderson-and-watson-lakes,"Anderson and Watson Lakes",4.2,lwomvek,1100,48.6747,4900,,6.0
+-122.2115,38,ape-cave,"Ape Caves",4.4,,350,46.1083,2450,http://wta.org/kml/ape-cave.kmz,2.8
+-117.1962,1,antoine-peak-conservation-area,"Antoine Peak Conservation Area",5.0,fmvsakd,732,47.7168,3366,,9.0
+-121.5944,5,angry-mountain,"Angry Mountain",2.6,vspd,3409,46.5184,6049,,16.8
+-123.9021,3,ancient-groves,"Ancient Groves",4.7,romk,,47.9982,,,0.5
+-121.9548,0,ames-lake-forest,"Ames Lake Forest",0.0,rla,,47.6455,,,
+-120.9803,3,arrowhead-mountain,"Arrowhead Mountain",4.0,,,47.7711,,,
+-122.0921,5,ape-canyon,"Ape Canyon",2.8,omva,1400,46.1647,2800,,11.0
+-121.1680,5,american-ridge,"American Ridge",3.6,rlvped,2950,46.9695,6310,,12.0
+-121.4744,102,annette-lake,"Annette Lake",3.6,rlwomved,1800,47.3927,3600,http://wta.org/kml/annette-lake.kmz,7.5
+-119.9811,34,ancient-lakes,"Ancient Lakes",4.0,lwmaek!,625,47.1614,1200,,12.0
+-122.8039,1,anderson-lake-state-park,"Anderson Lake State Park",2.0,lomakd,80,48.0179,320,,8.0
+-120.8905,5,bear-canyon,"Bear Canyon",3.4,rfma,900,46.7064,,,4.0
+-121.4559,48,barclay-lake,"Barclay Lake",3.9,rlofmvek,500,47.7917,2423,http://wta.org/kml/barclay-lake.kmz,4.4
+-121.9030,4,bell-pass,"Bell Pass",3.0,mve,,48.6925,,,
+-117.1075,4,bead-lake,"Bead Lake",2.8,loekd,400,48.2897,,,11.4
+-121.2655,26,beckler-peak,"Beckler Peak",4.4,ofvsakd,2263,47.7268,5063,http://wta.org/kml/beckler-peak.kmz,7.4
+-120.7692,4,basalt-ridge,"Basalt Ridge",3.0,,,47.9516,,,
+-121.6746,3,baker-lake-maple-grove,"Baker Lake - Maple Grove",4.3,lekd,500,48.6456,1000,,8.0
+-121.5560,10,baker-lake,"East Bank Baker Lake",3.2,rlwovekd,500,48.7507,1000,,9.0
+-117.3513,5,bear-lake-1,"Bear Lake",3.4,,,47.9228,,,
+-121.2940,4,bald-eagle-mountain,"Bald Eagle Mountain",1.5,,,48.0012,,,
+-121.6105,1,banshee-peak,"Banshee Peak",1.0,rlwomvsape,,46.8879,7400,,
+-123.5860,1,bailey-range,"Bailey Range Traverse",5.0,,,47.8512,,,
+-121.9919,6,beaver-lake-preserve,"Beaver Lake Preserve",3.0,ofmakd,50,47.5974,460,,1.2
+-121.6924,6,baker-hot-springs,"Baker Hot Springs",4.2,,,48.8464,,,
+-123.7884,5,barnes-creek,"Barnes Creek",3.0,rwo,3300,48.0578,5090,,10.0
+-122.4914,0,battle-ground-lake-lower-lake-trail,"Lower Lake Trail",0.0,lmekd,120,45.8030,680,,1.0
+-123.1357,4,baldy,Baldy,3.2,mvsp,3700,47.8776,6550,,9.0
+-121.3753,6,bedal-creek,"Bedal Basin",2.0,romvd,1900,48.0701,4700,,5.2
+-121.7370,8,bear-lake-2,"Bear Lake",3.0,lkd,75,48.0598,,,0.8
+-121.3582,9,bear-creek-mountain,"Bear Creek Mountain",3.2,vs,4000,46.5768,7337,,15.0
+-121.6134,5,bessemer-mountain,"Bessemer Mountain",3.0,,4100,47.5159,5028,,13.0
+-120.8723,16,bean-creek,"Bean Creek Basin",3.2,mv,2000,47.3888,5300,,5.0
+-121.8257,10,bearhead,"Bearhead Mountain",3.5,omvspd,1800,47.0314,6089,,6.0
+-119.7809,9,beezley-hills-preserve,"Beezley Hills Preserve",2.1,mva,400,47.3243,1750,,3.0
+-121.2771,7,benchmark-mountain,"West Cady Ridge to Benchmark Mountain",3.4,md,3700,47.9267,5816,,14.4
+-121.6548,2,bagley-lakes-herman-saddle,"Bagley Lakes Snowshoe",4.5,vp,1152,48.8620,,,5.5
+-121.6423,11,berkeley-park,"Berkeley Park",3.4,lm,900,46.9146,6800,,7.0
+-122.5163,2,bay-to-baker-trail,"Bay to Baker Trail",3.0,rwmvkd,,48.7669,100,,3.0
+-121.4845,0,bearscout-peak,"Bearscout Peak",0.0,,,47.3326,5210,,
+-121.7370,3,bear-creek-falls,"Bear Creek Falls",3.3,,,48.6185,,,
+-121.4721,9,beaver-lake-1,"Beaver Lake",3.0,rlovkd,100,48.1706,1000,,4.0
+-119.2976,7,badger-mountain-1,"Badger Mountain - Skyline Loop",4.0,vsad,,46.2367,1579,,3.2
+-121.4744,6,asahel-curtis,"Asahel Curtis Nature Trail",2.5,ok,180,47.3927,2000,,0.5
+-121.6793,11,bagley-lakes,"Bagley Lakes",3.4,lfmvkd,150,48.8632,4300,,2.0
+-122.0219,12,beacon-rock,"Beacon Rock",2.9,r!,600,45.6291,848,,2.0
+-122.6626,1,baker-preserve,"Baker Preserve",4.0,v,1000,48.6948,1050,,3.2
+-121.3753,1,bedal-peak,"Bedal Peak",4.0,oms,4500,48.0701,6554,,7.3
+-122.3877,3,bells-mt,"Bells Mountain",3.3,vs,1100,45.8286,1500,,15.4
+-121.7142,16,ashland-lakes,"Ashland Lakes",3.4,loekd,800,48.0477,3000,,5.4
+-121.8889,5,badger-peak,"Badger Peak",2.2,v,700,46.2951,5664,,1.8
+-121.4429,10,barlow-point,"Barlow Point",3.3,va,800,48.0305,3200,,2.4
+-123.9893,4,aurora-creek,"Aurora Creek",3.0,of,3670,48.0536,4200,,6.8
+-122.0641,4,bear-ridge,"Bear Ridge",2.5,vd,,47.5269,,,3.0
+-121.7062,4,augspurger-trail,"Augspurger Trail",2.8,v,,45.6991,,,
+-123.9893,5,aurora-ridge,"Aurora Ridge",2.8,,,48.0536,,,
+-120.8757,3,bean-peak,"Bean Peak",3.7,s,,47.3946,7343,,
+-121.5560,9,baker-river,"Baker River",4.0,rvek,300,48.7507,900,,5.0
+-121.5283,15,bare-mountain,"Bare Mountain",3.9,lfmvsapd,3300,47.6395,5353,http://wta.org/kml/bare-mountain.kmz,8.6
+-120.3110,0,baldy-mountain,"Baldy Mountain",0.0,lvsd,2394,47.8204,6412,,6.2
+-121.7144,5,bald-mountain,"Bald Mountain via Ashland Lakes",2.0,,,48.0477,,,
+-121.4445,0,avalanche-mountain,"Avalanche Mountain",0.0,lvs,3000,47.4570,5400,,8.5
+-121.5836,67,bandera-mountain,"Bandera Mountain",4.2,wfmvspd,3400,47.4247,5240,http://wta.org/kml/bandera-mountain.kmz,8.0
+-121.7077,11,bench-lake,"Bench and Snow Lakes",4.2,lwmv,300,46.7677,4679,,2.6
+-121.7103,0,baker-lake-horseshoe-cove,"Baker Lake - Horseshoe Cove Snowshoe",0.0,,,48.6786,,,
+-119.8821,6,beaver-lake,"Beaver Lake",3.5,,400,48.4671,5500,,2.0
+-120.6742,24,blue-lake,"Blue Lake",4.2,lfmvakd,1050,48.5191,6254,,4.4
+-121.8024,6,big-lava-bed,"Big Lava Bed",3.5,,600,45.9080,4000,,13.0
+-117.2897,2,big-rock,"Big Rock",3.0,fmvsad,600,47.5720,3500,,2.5
+-120.6436,0,blackbird-island-waterfront-park,"Blackbird Island - Waterfront Park",0.0,rkd,100,47.5737,1100,,2.0
+-121.9961,5,big-tree-trail,"Big Tree Trail",3.4,ofakd,110,47.5296,530,,1.0
+-120.9707,4,big-tree-loop,"Big Tree Loop",3.2,,,47.8604,2000,,1.0
+-121.5107,73,big-four-ice-caves,"Big Four Ice Caves",3.9,rwovkd,220,48.0659,1938,http://wta.org/kml/big-four-ice-caves.kmz,2.2
+-120.6982,10,black-canyon,"Black Canyon",4.4,fma,1250,46.8581,,,7.0
+-121.7723,10,blue-lake-1,"Blue Lake",4.0,lfmvakd,300,48.6565,3984,,1.7
+-122.4829,0,blake-island-state-park,"Blake Island State Park",0.0,cofvaekd,190,47.5423,190,,8.0
+-124.2750,10,bogachiel-river,"Bogachiel River",3.1,roe,400,47.8822,500,,12.0
+-122.0713,4,big-tree-ridge,"Big Tree Ridge",3.2,vpkd,,47.5474,,,2.0
+-120.3179,4,billy-goat,"Billy Goat",2.8,la,,48.7825,,,
+-121.8736,4,bluff-trail,"Bluff Trail",2.0,,,46.1632,,,
+-123.9034,0,big-cedar-tree,"Big Cedar Tree",0.0,ok,80,47.4780,,,0.5
+-122.0932,4,bob-hierman-preserve,"Bob Heirman Wildlife Preserve",2.0,rm,,47.8615,,,
+-120.1521,4,blue-buck,"Blue Buck",3.2,,,48.4977,,,
+-123.3221,4,black-white-lakes,"Black & White Lakes",3.8,l,,47.5087,4200,,5.0
+-122.2976,3,big-gulch-mukilteo,"Big Gulch",3.3,fmakd,300,47.9150,460,,2.6
+-121.3124,104,blanca-lake,"Blanca Lake",4.4,lwovsed,3300,47.9154,4600,http://wta.org/kml/blanca-lake.kmz,7.5
+-119.3108,5,blythe-lake,"Chukar Lake - Blythe Lake",2.6,lma,100,46.9673,1000,,4.0
+-121.5050,1,bitter-creek-logging-road,"Tom Dick & Harry Lakes",4.0,,,47.8376,,,
+-120.1613,7,black-lake,"Black Lake",2.3,lmaek,780,48.7831,3982,,8.0
+-121.7561,8,bird-mountain-loop,"Bird Mountain Loop",3.0,lvsed,1875,46.0471,5230,,10.2
+-123.8351,6,bogachiel-peak,"Deer Lake and Bogachiel Peak",2.5,,3450,47.9552,5474,,16.0
+-119.2531,4,billy-clapp-lake,"Billy Clapp Lake",2.2,lwma,300,47.4525,1500,,5.0
+-122.7660,0,birch-bay-state-park,"Birch Bay State Park",0.0,covaekd,,48.9069,,,
+-120.7339,1,black-peak,"Black Peak",3.0,,5100,48.5182,8970,,12.0
+-120.8903,5,blackjack-ridge,"Blackjack Ridge",3.6,,,47.6098,,,
+-123.2110,14,big-creek,"Big Creek",3.6,roved,900,47.4933,1870,,4.5
+-121.5705,4,bluff-lake,"Bluff Lake",2.5,lk,1000,46.6532,3840,,3.0
+-121.9073,5,big-creek-falls-1,"Big Creek Falls",2.6,wok,300,46.0939,1900,,1.5
+-121.9836,4,big-slide,"Big Slide",4.0,,,45.8817,,,
+-117.5629,4,big-meadow-lake,"Big Meadow Lake",3.2,lfak,,48.7266,,,2.7
+-122.2368,2,big-finn-hill,"Big Finn Hill Park",4.0,fakd,100,47.7243,450,,9.5
+-121.6858,14,boardman-lake,"Boardman Lake",3.2,lvk,300,48.0337,3000,,2.0
+-122.3581,3,big-ditch-skagit-wildlife-refuge,"Skagit Wildlife Area",3.7,crvak,0,48.3372,0,,2.0
+-121.5314,5,big-creek-falls,"Big Creek Falls",3.6,rwokd,,47.5381,,,11.0
+-121.5068,6,big-four-ice-caves-snowshoe,"Big Four Ice Caves Snowshoe",3.8,rovk,250,48.0651,1800,,7.0
+-120.8725,6,beverly-turnpike,"Beverly Turnpike",2.3,,,47.3892,,,
+-121.6851,2,boardman-lake-snowshoe,"Boardman Lake Snowshoe",1.5,lvk!,1800,48.0336,3000,,11.9
+-122.1910,6,bluff-mountain,"Bluff Mountain",2.5,fmvspd,890,45.7423,4390,,12.0
+-121.7626,4,bishop-ridge,"Bishop Ridge",3.0,ma,3600,46.4323,5200,,9.0
+-121.2588,4,blue-lake-high,"Blue Lake High",3.5,lfvd,,48.0448,,,
+-122.1834,4,blue-lake-south-fork-toutle,"Blue Lake and Sheep Canyon via South Fork Toutle",3.2,lomvap,1000,46.1458,4700,,4.5
+-121.7561,6,blue-lake-2,"Blue Lake via Cultus Creek",2.2,lvp,700,46.0471,5200,,13.0
+-121.0664,6,big-beaver,"Big Beaver Trail",3.2,rlwovek,500,48.7241,1980,,24.6
+-121.4376,6,bird-creek-meadows,"Bird Creek Meadows",4.0,lmk,500,46.1393,6085,,3.0
+-121.9844,11,cable-line-trail,"Cable Line Trail",3.6,d,2022,47.5296,2522,,3.0
+-121.8172,88,boulder-river,"Boulder River",3.8,rwoekd!,700,48.2509,1550,http://wta.org/kml/boulder-river.kmz,8.6
+-121.4746,5,bullion-basin,"Bullion Basin",3.4,mvd,1500,46.9378,6300,,7.0
+-120.8579,5,buck-creek-pass,"Buck Creek Pass",3.8,mvap,,48.0771,,,
+-121.7556,6,boulder-garden-loop,"Boulder Garden Loop",4.0,akd,800,47.4874,1400,,2.5
+-122.1030,4,bypass-trail,"By Pass Trail",4.0,k,,47.5301,,,0.4
+-121.9405,4,bunker-hill,"Bunker Hill",3.5,vs,1250,45.8077,2383,,4.4
+-121.9957,4,brink-trail,"Brink Trail",3.8,kd,,47.5296,,,1.2
+-122.0558,5,bullitt-gorge,"Bullitt Gorge",2.4,vapkd,,47.5055,,,
+-120.9451,7,bootjack-mountain,"Bootjack Mountain",3.7,omvp,3900,47.6101,6789,,8.0
+-122.2717,6,boundary,"Boundary West",3.0,lvap,1800,46.2869,4390,,4.0
+-122.0087,4,bonneville-trail,"Bonneville Trail",3.0,,,47.5295,,,1.2
+-120.6541,5,boulder-butte,"Boulder Butte",2.8,,,48.3130,,,
+-121.9436,4,bootleg,"Bootleg Trail",3.2,,1300,47.5304,2200,,4.6
+-119.8667,4,boundary-trail-1,"Boundary Trail - Pasayten",3.2,rlvspd,9000,48.8848,7800,,80.0
+-121.6903,4,boulder-ridge,"Boulder Ridge",4.2,,2700,48.7140,,,
+-122.4820,1,camano-ridge-forest-preserve,"Camano Ridge Forest Preserve",4.0,,,48.2145,,,
+-121.9961,4,bus-trail,"Bus Trail",3.2,k,200,47.5297,500,,0.7
+-121.8702,6,burley-mountain,"Burley Mountain",3.2,vsk,400,46.3999,5304,,1.5
+-121.9474,2,busywild-overlook-snowshoe,"Busywild Overlook Snowshoe",3.0,,900,46.7735,3500,,6.5
+-122.0576,4,bullitt-access,"Bullitt Access Trail",2.8,kd,,47.5230,,,
+-122.2351,5,butte-camp,"Butte Camp",3.4,mvapek,1650,46.1435,4750,,7.6
+-123.6861,5,boulder-lake-1,"Boulder Lake (Olympics)",3.0,lofmve,2480,47.9775,4300,,10.2
+-120.8513,0,cabinet-peak,"Cabinet Peak",0.0,s,,48.6387,,,
+-121.9346,4,boundary-way,"Boundary Way",3.0,fvspd,1458,48.9869,5658,,8.2
+-121.4406,4,bryant-peak,"Bryant Peak",2.5,,,47.4171,,,
+-120.9634,5,boulder-creek,"Boulder Creek",3.0,,,48.0012,,,
+-121.5884,35,bridal-veil-falls,"Bridal Veil Falls",3.8,wvkd,1000,47.7818,1600,,4.0
+-120.6752,4,buckskin-ridge,"Buckskin Ridge",3.5,rlmvp,,48.7338,7300,,33.4
+-121.5786,5,burnt-rock,"Burnt Rock",2.8,ome,1400,46.2693,6100,,13.0
+-121.6362,5,box-canyon-of-the-cowlitz,"Box Canyon and Nickel Creek",3.2,roa,400,46.7653,3400,,2.0
+-120.5837,6,camas-meadows,"Camas Meadows",2.0,fmk,350,47.4755,3200,,2.0
+-121.3699,2,boulder-lake-2,"Boulder Lake",3.0,,,48.3206,,,
+-121.3199,4,bumping-lake,"Bumping Lake",2.8,lofmaed,300,46.8570,3700,,9.0
+-123.7426,4,butte-creek-sitka-spruce-grove,"Butte Creek Sitka Spruce Grove",2.8,oed,200,46.7161,425,,1.5
+-120.7312,4,bridge-creek,"Bridge Creek - McAlester Pass to Stehekin",3.8,rlwfmvae,2500,48.5075,4000,,38.0
+-120.6342,0,cairn-hill,"Cairn Hill",0.0,vsp,850,47.3348,4745,,5.0
+-122.0560,4,bullitt-fireplace,"Bullitt Fireplace Trail",1.8,vakd,,47.5211,,,
+-121.0874,6,cady-ridge,"Cady Ridge",3.2,mvpd,3015,47.9183,5551,,14.0
+-120.9242,5,boulder-de-roux,"De Roux Creek - Gallagher Head Lake",3.4,l,1900,47.3421,5600,,8.0
+-121.0864,5,boulder-cave,"Boulder Cave",3.6,oak,300,46.9597,2700,,2.0
+-122.1843,4,bridle-trails-state-park-bellevue,"Bridle Trails State Park",2.8,lmakd,450,47.6550,525,,3.5
+-119.1618,4,bonaparte,Bonaparte,2.5,,,48.7928,,,
+-121.4731,3,bullion-basin-snowshoe,"Bullion Basin Snowshoe",3.7,v!,1500,46.9386,5800,,4.5
+-120.7499,4,cady-pass,"Cady Pass",3.0,,,48.7269,,,
+-121.0676,5,boston-basin,"Boston Basin",4.0,v,,48.5021,,,
+-122.5031,2,cama-beach-state-park,"Cama Beach State Park",4.5,c,,48.1322,,,
+-122.4910,8,camano-island-state-park,"Camano Island State Park",2.6,ckd!,200,48.1220,200,,2.6
+-121.5560,4,boulder-lake,"Boulder Lake",2.5,loe,2140,47.9703,3700,,13.8
+-121.8306,4,boundary-trail,"Boundary Trail - Rainier",3.0,,,46.9766,,,
+-123.1166,2,buckhorn-mountain,"Buckhorn Mountain",4.5,mvsa,988,47.8268,6988,,13.5
+-122.5802,1,burnt-bridge-creek-trail,"Burnt Bridge Creek Greenway Trail",4.0,rfmakd!,200,45.6359,310,,16.2
+-121.6423,42,burroughs-mountain,"Burroughs Mountain",4.3,fmvsapk,2600,46.9146,7828,,9.0
+-120.9540,3,buck-creek-3,"Buck Creek",2.0,,,47.3675,,,
+-123.1930,4,cameron-creek,"Cameron Creek",2.8,,,47.9650,,,
+-122.3302,4,camp-2-lookout-mt,"Camp 2 - Lookout Mountain",3.2,lovad,2600,48.6446,2767,,8.0
+-120.3177,4,burch-mountain,"Burch Mountain",2.0,fmvp,3200,48.7844,7782,,10.0
+-123.1940,6,capitol-peak,"Capitol State Forest - Capitol Peak",3.3,vs,1300,46.9485,2659,,9.0
+-123.3259,1,camp-pleasant,"Camp Pleasant",4.0,rofk,800,47.5153,,,14.0
+-121.9076,16,cherry-creek-falls,"Cherry Creek Falls",3.7,wmkd,450,47.7457,705,,5.0
+-121.8355,4,camp-creek-falls,"Camp Creek Falls",3.5,rwomakd,40,46.4487,1360,,0.6
+-121.8315,13,carbon-glacier,"Carbon Glacier",3.5,rwomvek,1000,46.9771,3400,,21.4
+-121.7675,27,cedar-butte,"Cedar Butte",3.2,vspkd,900,47.4335,1880,http://wta.org/kml/cedar-butte.kmz,3.5
+-122.0557,2,cedar-downs,"Cedar Downs",4.5,ofakd,,47.3739,,,4.0
+-120.0461,6,chelan-butte,"Chelan Butte",3.7,rlmvad,,47.8048,,,
+-119.2865,6,chamna-natural-preserve,"Chamna Natural Preserve",3.0,rma,0,46.2577,350,,3.0
+-122.1285,5,cave-hole,"Cave Hole",3.6,kd,,47.5345,,,2.4
+-120.4787,8,cedar-creek,"Cedar Falls - Cedar Creek",3.0,rwomkd,500,48.5792,3500,,3.5
+-120.4820,3,cedar-falls-snowshoe,"Cedar Falls Snowshoe",4.0,rwoa!,800,48.5804,3600,,5.6
+-122.8548,6,cascade-lake,"Cascade Lake",3.0,,200,48.6562,480,,2.9
+-121.0970,11,cathedral-rock,"Cathedral Rock",3.1,lmvsape,2200,47.5435,5600,,9.0
+-121.3622,6,catherine-creek,"Catherine Creek - Universal Access Trail",3.0,rmvkd,120,45.7104,300,,1.5
+-121.7012,2,ccc-road-lower-trailhead,"CCC Road: Lower Trailhead",3.5,wo,550,47.4862,1650,,8.0
+-118.9852,0,candy-point-trail,"Candy Point Trail",0.0,rvsad,700,47.9688,,,1.5
+-122.2149,7,cedar-river-trail,"Cedar River Trail",3.7,rfmkd,50,47.5000,,,17.2
+-120.7914,2,cashmere-mountain,"Cashmere Mountain",3.0,,,47.5465,,,
+-121.9123,7,carbon-river,"Carbon River to Ipsut Falls",3.3,rofvek,,46.9949,,,10.8
+-121.7354,3,camp-muir-snowshoe,"Camp Muir Snowshoe",3.0,v,4400,46.7862,10000,,10.0
+-122.0183,4,cedar-flat,"Cedar Flats Nature Trail",2.5,oa,400,46.1116,1900,,1.0
+-121.7350,26,camp-muir,"Camp Muir",4.3,rva,4640,46.7860,10080,http://wta.org/kml/camp-muir.kmz,8.0
+-121.6581,0,camp-schurman,"Camp Schurman",0.0,,,46.9003,,,
+-121.4434,6,chair-peak-lake,"Chair Peak Lake",3.0,lvp,,47.4149,,,
+-121.6925,25,chain-lakes-3,"Chain Lakes Loop",4.4,lfmvaekd,1700,48.8469,5400,,8.0
+-121.6736,0,ccc-pleateau,"CCC Plateau",0.0,,,47.4866,,,
+-120.8920,4,chatter-creek,"Chatter Creek",4.0,rvped,3800,47.6098,6400,,11.0
+-120.4983,8,chelan-lakeshore,"Chelan Lakeshore Trail",3.2,lwfmvae,1600,48.1466,1700,,17.0
+-121.6134,2,ccc-road-blowout-creek-trailhead,"CCC Road: Blowout Creek Trailhead",2.5,rwovd,620,47.5159,1520,,7.0
+-122.0629,0,canyon-lake-community-forest,"Canyon Lake Community Forest",0.0,of,2400,48.8297,,,7.5
+-121.8106,15,carter-falls,"Carter Falls",3.8,rwok,900,46.7497,3650,,7.2
+-120.8350,15,carne-mountain,"Carne Mountain",4.1,fmvsd,3600,48.0829,7085,,8.0
+-124.6687,9,cape-alava,"Cape Alava",3.2,craek,100,48.1537,350,,9.4
+-122.3634,5,carkeek-park,"Carkeek Park",3.4,cmvakd,800,47.7033,240,,3.5
+-122.9634,0,cattle-point-lighthouse,"Cattle Point Lighthouse",0.0,ckd,25,48.4536,25,,0.5
+-121.4034,0,catherine-creek-the-labyrinth,"Coyote Wall - The Labyrinth Loop",0.0,rwmvd,1200,45.6997,1250,,7.7
+-123.0163,3,charlia-lakes-way-trail,"Charlia Lakes Way Trail",3.3,l,,47.8337,,,
+-124.7157,26,cape-flattery,"Cape Flattery",4.2,cakd,200,48.3844,250,,1.5
+-122.3753,1,camp-long,"Camp Long",3.0,ofmaekd,240,47.5554,350,,1.6
+-121.6736,1,change-peak,"Change Peak",2.0,,,47.4234,,,
+-123.5894,4,cascade-rock,"Cascade Rock",4.2,fk,,48.0273,,,4.2
+-123.6502,4,chehalis-river-sloughs,"Preacher's Slough",1.8,rakd!,0,46.9449,20,,7.0
+-121.2460,5,cherry-orchard-1,"Lyle Cherry Orchard",3.4,rmv,1050,45.6810,1100,,5.0
+-122.1787,8,cape-horn,"Cape Horn",3.4,rwofmva,1300,45.5890,1350,,7.7
+-123.1958,4,cedar-lake-way,"Cedar Lake Way",2.2,m,,47.9473,,,
+-120.1200,3,campbell-lake,"Campbell Lake",2.0,,,48.4560,,,
+-121.8440,5,chenuis-falls,"Chenuis Falls",3.4,wk,50,46.9906,2200,,1.0
+-121.8315,4,carbon-river-rain-forest-nature-trail,"Carbon River Rain Forest Nature Trail",3.2,oak,80,46.9771,1960,,0.5
+-121.1939,2,captain-point,"Captain Point",3.5,vs,,47.7669,,,
+-122.5696,6,chambers-bay-loop,"Chambers Bay Loop",4.8,cvakd,315,47.2117,234,,3.2
+-122.5992,0,cap-sante-park,"Cap Sante Park",0.0,cvakd,200,48.5136,300,,1.0
+-122.2087,2,cascade-trail,"Cascade Trail",2.5,rkd,60,48.5179,230,,45.0
+-122.3371,1,captain-william-clark-regional-park-at-cottonwood-beach-dike-trail,"Captain William Clark Regional Park at Cottonwood Beach - Dike Trail",1.0,raekd!,,45.5669,,,6.0
+-122.0532,4,central-peak,"Central Peak",3.0,vsad,,47.4817,2025,,1.8
+-122.8174,0,chadwick-hill,"Chadwick Hill",0.0,vakd,,48.4298,,,
+-120.9103,4,chancellor,Chancellor,3.0,m,,48.7029,,,
+-120.3385,2,chelan-summit-1261,"Chelan Summit",3.0,lmvsaped,6500,48.1071,,,38.0
+-121.5775,2,ccc-road-upper-trailhead,"CCC Road: Upper Trailhead",3.0,ro,400,47.5373,1450,,6.8
+-121.0751,21,cascade-pass,"Cascade Pass",3.8,lwfvapk,1800,48.4754,5392,http://wta.org/kml/cascade-pass.kmz,7.0
+-120.0198,6,cathedral-lake,"Cathedral Pass Loop",2.7,rlfvpe,4000,48.8220,7800,,44.7
+-122.3362,3,chesiahud-lake-union-loop,"Cheshiahud Lake Union Loop",3.7,lfvkd,,47.6460,,,6.0
+-117.0276,6,chief-joseph-wildlife-area-green-gulch,"Chief Joseph Wildlife Area - Green Gulch",3.3,ma,1500,46.0221,,,4.0
+-123.5196,5,church-creek,"Church Creek",3.0,rlwompd,2300,47.4240,3200,,6.4
+-120.6867,2,chihuly-trail,"Chihuly Trail",3.5,vs,,47.5502,,,
+-122.4795,1,clayton-beach,"Clayton Beach",2.0,ck,,48.6384,,,
+-120.0195,4,chewuch,"Chewuch River Trail",3.5,,,48.8263,,,
+-123.7932,0,colonel-bob-trail-colonel-bob-peak,"Colonel Bob Trail - Colonel Bob Peak",0.0,ovsae,4292,47.4974,4492,,14.0
+-121.3419,0,conboy-lake-national-wildlife-refuge,"Conboy Lake National Wildlife Refuge",0.0,lomakd,0,45.9731,1875,,3.0
+-122.1288,32,coal-creek-falls,"Coal Creek Falls",3.3,wmkd!,416,47.5348,1066,http://wta.org/kml/coal-creek-falls.kmz,2.5
+-121.4862,7,clear-fork,"Lily Lake",2.4,rlmak,200,46.6555,3600,,3.0
+-121.4459,5,clear-lost,"Clear Lost",2.6,lva,2600,46.6257,6376,,13.0
+-124.1771,5,copalis-river-spit,"Griffiths-Priday State Park - Copalis River Spit",3.8,crakd!,40,47.1141,25,,4.0
+-121.8526,2,church-lake,"Church Lake",4.0,,,48.9567,,,
+-121.9044,2,coal-pass,"Coal Pass Snowshoe",2.5,vp!,2400,48.8381,4500,,10.0
+-121.4323,4,chinook-pass,"Chinook Pass Snowshoe",3.2,v!,,46.8970,,,
+-121.8578,15,church-mountain,"Church Mountain",3.9,fmvspd,3750,48.9123,6100,,8.5
+-121.7339,4,clearwest-peak,"Clear West Peak",2.2,vakd,900,47.0241,5400,,2.0
+-120.7408,6,chiwaukum-creek,"Chiwaukum Creek",1.5,me,1550,47.6889,3350,,12.0
+-121.4134,8,commonwealth-basin,"Commonwealth Basin",3.4,ofmvd,2700,47.4287,5350,,10.0
+-121.5023,4,cold-springs,"Cold Springs",3.5,,,46.0847,,,
+-121.8526,4,cispus-braille,"Cispus Braille Trail",2.8,,0,46.4387,7337,,1.0
+-118.8588,4,columbia-mountain,"Columbia Mountain",3.0,fmvsaed,1400,48.6593,,,7.5
+-121.4199,7,cold-creek,"Cold Creek Loop via Tinkham and Silver Peaks",3.6,lfmvped,2600,47.3660,4500,,8.0
+-121.7049,6,cispus-lookout,"Cispus Lookout",2.7,,,46.4684,,,
+-122.0563,4,coal-mine,"Coal Mine",3.2,vad,,47.5119,,,0.2
+-124.6635,0,chilean-memorial,"Chilean Memorial",0.0,,,47.9643,,,
+-122.1666,16,coal-creek,"Coal Creek Trail",2.9,wkd,550,47.5542,600,,6.0
+-121.4124,7,commonwealth-basin-snowshoe,"Commonwealth Basin Snowshoe",3.7,v!,2300,47.4282,5300,,10.0
+-120.7864,4,copper-creek,"Copper Creek",3.5,,,48.2006,,,
+-121.5225,2,coal-creek-snowshoe,"Coal Creek Snowshoe",1.5,ov!,900,48.0731,2400,,6.0
+-117.7106,4,columbia-plateau-amber-lake,"Amber Lake",2.2,lfmak!,200,47.3512,2300,,15.0
+-121.5912,5,coal-lake,"Coal Lake",3.4,,,48.1019,,,
+-120.9443,0,coal-mines-trail-cle-elum,"Coal Mines Trail",0.0,kd,453,47.1961,2375,,11.0
+-120.8319,4,chiwawa-river,"Chiwawa River",3.2,,,48.1048,,,
+-120.8210,56,colchuck-lake,"Colchuck Lake",4.2,rlfvse,2280,47.5277,5580,http://wta.org/kml/colchuck-lake.kmz,8.0
+-121.0989,2,cooper-river-snowshoe,"Cooper River Snowshoe",2.0,a!,400,47.4042,2900,,8.0
+-119.4394,4,chopaka-mountain,"Chopaka Mountain",3.2,,,48.7050,,,
+-123.0530,5,constance-pass,"Constance Pass",4.4,,,47.7418,,,
+-118.9069,3,clackamas-mountain-trail,"Clackamas Mountain",4.3,vad,,48.6805,,,10.0
+-121.4267,0,cleveland-mountain,"Cleveland Mountain",0.0,s,,47.6937,5280,,12.0
+-120.7388,2,chiwaukum-creek-timothy-meadows,"Chiwaukum Creek-Timothy Meadows",3.0,,,47.6892,,,
+-120.3957,0,chopper-peak,"Chopper Peak",0.0,rs,1440,47.3993,2400,,3.0
+-122.4893,1,chuckanut-ridge-trail,"Chuckanut Ridge Trail",5.0,lwovpkd,,48.7008,1900,,10.4
+-121.5010,5,coleman-weedpatch,"Coleman Weedpatch",2.6,mv,1900,46.4229,5700,,9.0
+-120.7388,2,chiwaukum-creek-snowshoe,"Chiwaukum Creek Snowshoe",1.5,rlv!,1200,47.6892,3200,,10.4
+-121.0991,6,cooper-river,"Cooper River",3.0,rlofmvaekd,400,47.4044,2800,,7.8
+-120.7982,5,cleman-mountain,"Cleman Mountain - Waterworks Canyon Loop",2.4,mapd,2000,46.7486,3582,,6.0
+-122.1030,4,clay-pit-road,"Clay Pit Road",2.8,akd,,47.5301,,,3.0
+-123.7318,13,colonel-bob,"Pete's Creek - Colonel Bob Peak",4.4,rovsd,3500,47.4572,4510,,8.2
+-121.7823,26,comet-falls,"Comet Falls",4.2,rw,1250,46.7790,4875,http://wta.org/kml/comet-falls.kmz,3.8
+-121.0992,4,columbia-hills-state-park,"Columbia Hills State Park - Horsethief Butte",3.8,rmvsakd,1870,45.6507,1975,,12.4
+-122.0604,4,chybinski-loop,"Chybinski Loop",3.2,vd,,47.5127,,,
+-121.5308,5,cispus-basin-cispus-pass,"Snowgrass - Cispus Basin - Nannie Ridge Loop",3.6,rlwfmvped,3000,46.4587,6400,,19.6
+-121.9707,5,curly-creek-falls,"Curly Creek Falls",3.6,wk,0,46.0603,1285,,0.4
+-121.4808,4,cortright-creek,"Cortright Creek",3.0,,,46.6957,,,
+-120.6629,11,cowiche-canyon,"Cowiche Canyon",3.4,makd!,100,46.6299,1500,,6.0
+-121.0864,5,dalles-mountain,"Columbia Hills State Park - Dalles Mountain",2.6,rwmvsakd,2475,45.6569,2825,,8.0
+-120.6547,6,cutthroat-pass,"Cutthroat Pass via Cutthroat Lake",3.2,fmvpd,2300,48.5564,6800,,11.4
+-121.3771,7,cougar-lake,"Cougar Lakes",2.6,rlmvd,1700,46.8306,5400,,11.0
+-121.4765,4,crystal-mountain,"Crystal Mountain Loop",3.0,vpk,2450,46.9366,6552,,8.0
+-121.7972,0,couger-divide,"Couger Divide",0.0,omvsp,1300,48.8697,5800,,6.0
+-121.4896,4,cowlitz-trail,"Cowlitz Trail",3.8,,,46.7129,,,
+-121.9257,4,cussed-hollow,"Cussed Hollow",5.0,roa,600,46.1731,3400,,5.0
+-119.2557,4,crab-creek-wildlife-area,"Crab Creek (Columbia National Wildlife Refuge)",3.0,rlva!,40,46.9495,870,,2.6
+-121.3811,5,dark-meadows,"Dark Meadows",3.4,,,46.6450,,,
+-120.9771,4,crater-mountain,"Crater Mountain",2.2,lv,,48.7079,,,
+-124.1333,5,damon-point-state-park,"Damon Point ",3.0,cvakd!,,46.9464,10,,4.0
+-120.6025,6,cougar-mountain,"Cougar Mountain (Entiat)",2.8,rmvse,1200,47.8440,6700,,10.0
+-120.7070,5,county-line,"County Line",3.2,,,47.3511,,,
+-120.6547,9,cutthroat-lake,"Cutthroat Lake",3.8,lfvkd,400,48.5563,4900,,3.8
+-121.5336,19,crystal-peaks,"Crystal Peak",3.9,omvsa,3100,46.9227,6595,,8.0
+-121.5336,24,crystal-lakes,"Crystal Lakes",4.2,lomvae,2600,46.9227,5828,,6.0
+-117.2448,5,crowell-ridge,"Crowell Ridge",3.8,omvsaped,2700,48.8783,6880,,8.4
+-121.6791,6,copper-ridge,"Copper Ridge",3.7,,,48.9270,,,
+-121.4972,5,dalles-ridge,"Dalles Ridge",3.8,mvsd,200,47.0622,5700,,1.8
+-121.5612,7,crofton-butte,"Crofton Butte",2.7,omv,600,46.1216,4800,,4.0
+-121.2819,5,curry-gap,"Curry Gap",3.2,,,47.9251,,,
+-122.3144,1,cowen-and-ravenna-parks,"Cowen and Ravenna Parks",2.0,ofmakd,115,47.6720,200,,4.5
+-121.8520,7,covel-creek-falls,"Covel Creek Falls",2.4,wk,500,46.4388,2300,,4.5
+-122.6934,0,curry-preserve,"Curry Preserve",0.0,vk,,48.7308,,,1.0
+-121.5284,0,corral-pass-snowshoe,"Corral Pass Snowshoe",0.0,mvs,2800,46.9995,5700,,11.5
+-121.9752,0,danville-georgetown-trail-system,"Dansville-Georgetown Trail System",0.0,rfk,200,47.3728,800,,3.0
+-122.1973,0,crestwood-park-trail,"Crestwoods Park Trail",0.0,,,47.6931,,,
+-121.5335,6,crater-lake,"Crater Lake",3.8,l,550,47.6996,3500,,2.0
+-121.8276,0,copper-mountain-2,"Copper Mountain",0.0,vsp,3868,46.7973,6280,,
+-121.4479,6,cow-heaven,"Cow Heaven",3.7,ov,4000,48.5416,4400,,10.0
+-120.2678,13,crater-lakes,"Crater Lakes",3.8,lfved,2350,48.2204,6969,,8.6
+-121.7435,5,dark-meadow,"Dark Meadow",3.2,omvap,500,46.2756,5400,,7.0
+-120.5055,2,crow-hill,"Crow Hill",2.5,,950,48.0181,7366,,4.0
+-121.4743,0,crystal-mountain-resort,"Crystal Mountain Resort",0.0,v!,,46.9357,,,2.0
+-121.3590,2,cramer-lake-snowshoe,"Cramer Lake Snowshoe",4.0,lv,800,46.6551,5000,,9.0
+-121.9163,6,craggy-peak,"Craggy Peak",3.2,omvp,1800,46.2133,5275,,11.0
+-121.3684,2,crystal-lake-snowshoe,"Crystal Lake Snowshoe",2.0,rlv!,2800,48.1873,4485,,13.5
+-123.3243,10,copper-creek-2,"Copper Creek",3.6,rlwomvpd,2400,47.5026,3200,,5.0
+-121.3823,4,cramer-mountain-loop,"Cramer Mountain Loop",2.8,lfma,1800,46.6447,6000,,14.0
+-121.3697,5,crystal-lake-1,"Crystal Lake",3.2,l,2300,48.1878,4485,,9.0
+-121.7859,6,cougar-divide,"Cougar Divide",2.7,,,48.8616,,,
+-121.4980,5,crescent-glacier,"Crescent Glacier",2.8,rv,3800,46.1365,8500,,7.0
+-121.6329,6,council-bluff,"Council Bluff",2.8,lvsk,950,46.2629,5180,,3.0
+-120.7397,1,cowiche-segment-oak-creek-wildlife-area,"Oak Creek Wildlife Area - Cowiche segment",1.0,,,46.6254,,,
+-121.5115,4,crow-lake-way,"Crow Lake Way",2.0,v,,47.4652,,,
+-120.5675,6,copper-pass,"Copper Pass",3.0,romvaped,3160,48.4586,6760,,10.0
+-120.4431,0,courtney-peak,"Courtney Peak",0.0,vsp,,48.2604,8392,,
+-121.4743,0,crystal-mountain-silver-creek-silver-king,"Silver King",0.0,lvs,,46.9383,7000,,6.0
+-121.4034,4,coyote-wall,"Coyote Wall",2.8,rmvd,1630,45.7000,2074,,8.2
+-122.0233,3,copper-creek-hut-snowshoe,"Copper Creek Hut Snowshoe",3.3,vak!,1040,46.7784,4200,,8.8
+-120.9531,3,crescent-lake,"Crescent Lake",2.7,rlvpd,3732,47.7777,5489,,12.0
+-122.4087,4,dash-point-state-park,"Dash Point State Park",3.2,ck,,47.3165,,,
+-122.1288,12,de-leo-wall,"Wildside Trail-De Leo Wall",2.7,mvakd,489,47.5348,1122,,4.2
+-121.3602,4,dog-lake-to-cramer-lake-trail-1106,"Dog Lake to Cramer Lake (Trail 1106)",2.5,,,46.6579,,,
+-121.1934,6,deception-falls-nra,"Deception Falls National Recreation Area",2.7,wok,50,47.7146,,,0.5
+-120.7976,10,dirtyface-lookout-site,"Dirtyface Lookout and Peak",3.4,msd,3950,47.8379,5989,http://wta.org/kml/dirtyface-lookout-site.kmz,9.0
+-122.3863,0,dorothy-cleveland-trail,"Dorothy Cleveland Trail",0.0,cak,,47.9145,,,3.0
+-121.7066,18,dog-mountain,"Dog Mountain",4.4,rmsd,2800,45.6993,2948,,6.0
+-121.6327,1,dirty-harrys-museum,"Dirty Harry's Museum",3.0,,,47.4343,,,
+-121.9150,0,denman-falls,"Denman Falls",0.0,w,,46.9282,,,15.5
+-122.6475,18,deception-pass-goose-rock,"Deception Pass State Park - Goose Rock",3.9,comvkd!,484,48.4034,484,,4.3
+-121.4440,2,del-campo-peak,"Del Campo Peak",5.0,,,48.0265,,,
+-121.1471,4,domerie-peak,"Domerie Peak",2.0,v,,47.3464,,,18.0
+-121.0969,0,diptop-gap,"Dip Top Gap",0.0,,,47.5436,,,
+-121.5511,6,deep-lake,"Deep Lake",3.7,lmve,2150,47.5430,5500,,14.5
+-121.1216,10,diablo-lake,"Diablo Lake",3.2,lvd!,1400,48.7206,1950,,7.6
+-121.1936,12,deception-creek,"Deception Creek",3.8,rwoekd,1200,47.7120,3150,,11.0
+-121.5234,0,dog-mountain-north-fork-snoqualmie,"Dog Mountain (North Fork Snoqualmie)",0.0,rofmvsapd,3800,47.6365,5408,,9.0
+-120.6010,3,diamond-head-snowshoe,"Diamond Head  Snowshoe",2.3,va,1800,47.3307,5915,,5.0
+-120.9185,4,devils-dome,"Devils Dome Loop",3.0,wvsp,,48.7065,6980,,43.0
+-121.5650,6,divide-camp,"Divide Camp",2.2,mv,,46.2728,,,
+-123.5744,4,dodger-point,"Dodger Point",3.2,vse,4983,47.9609,5753,,27.0
+-121.0810,12,davis-peak,"Davis Peak",3.9,mvp,4000,47.4152,6400,,10.0
+-120.9396,0,deroux-peak,"DeRoux Peak",0.0,,,47.4195,,,
+-121.7840,9,dock-butte,"Dock Butte",3.8,lfv,1500,48.6538,,,4.4
+-120.4240,5,devils-gulch,"Devils Gulch",3.4,oa,1100,47.3126,2800,,9.0
+-121.7548,4,deep-lake-2,"Deep Lake",2.8,lovpekd,900,46.0480,5100,,5.0
+-121.0697,7,desolation-peak,"Desolation Peak",4.1,lvsap,4400,49.0400,6102,,6.8
+-121.5912,1,dirty-harrys-connector,"Dirty Harry's Connector",4.0,,,47.4299,,,
+-121.4552,5,dingford-creek-myrtle-lake,"Dingford Creek-Myrtle Lake",3.0,rlomved,2600,47.5172,3800,,11.0
+-121.6423,12,dege-peak,"Dege Peak",3.8,vapk,600,46.9146,7006,,4.0
+-121.6611,5,deception-crags,"Deception Crags",3.8,ak,250,47.4381,1450,,1.0
+-120.6278,5,domke-lake,"Domke Lake",4.2,lvaed,1100,48.1907,2200,,7.0
+-122.6620,2,deception-pass-state-park-north-beach,"Deception Pass State Park - North Beach",5.0,coak,100,48.4008,,,2.0
+-121.6708,0,dirtybox-peak,"Dirtybox Peak",0.0,s,,47.4634,,,
+-121.6327,10,dirty-harrys-peak,"Dirty Harry's Peak",3.0,mvs,3326,47.4343,4662,,8.2
+-121.5925,4,deer-creek-pass,"Deer Creek Pass",2.5,,,48.1154,,,
+-121.5197,18,dewey-lakes,"Dewey Lake",3.7,lmvekd,600,46.8694,5900,,6.0
+-121.4203,2,denny-mountain,"Denny Mountain",2.5,,,47.4407,,,
+-122.6486,0,deception-pass-state-park-fidalgo-island-side,"Deception Pass State Park - Fidalgo Island Side",0.0,,,48.4137,,,
+-121.5351,3,deer-creek-to-tipsoo-lake,"Deer Creek to Tipsoo Lake",2.3,,2100,46.8335,5296,,10.0
+-121.6325,17,dirty-harrys-balcony,"Dirty Harry's Balcony",2.7,vad,1300,47.4338,2600,,6.0
+-121.4542,7,dingford-creek-hester-lake,"Dingford Creek-Hester Lake",3.4,rlovd,2600,47.5174,3900,,11.0
+-121.1472,4,dishpan-gap,"Dishpan Gap",2.5,,,47.9770,,,
+-123.0889,4,dirty-face-ridge,"Dirty Face Ridge",3.8,mvspd,3000,47.8720,6280,,7.5
+-121.7416,5,dead-horse-creek,"Deadhorse Creek",4.2,vk,800,46.7852,5820,,3.2
+-121.0973,7,deception-pass,"Deception Pass",3.3,rlfvpd,1100,47.5443,4500,,28.0
+-121.7093,0,dixie-peak,"Dixie Peak",0.0,,,47.5279,,,
+-119.3557,4,deep-lake-1,"Deep Lake",3.8,,,47.5855,,,
+-122.6262,7,deception-pass-hoypus-point,"Deception Pass State Park - Hoypus Point",3.6,ckd,360,48.3977,380,,3.2
+-121.5237,4,deep-creek,"Deep Creek",1.5,rp,6920,47.0073,9800,,4.0
+-121.1930,4,deception-lakes,"Deception Lakes",2.2,,,47.7142,,,
+-121.5351,5,deer-creek-falls-to-owyhigh-lakes,"Deer Creek Falls to Owyhigh Lakes",3.8,rwom,2200,46.8335,5400,,10.0
+-121.5351,7,deer-creek-falls,"Deer Creek Falls",3.0,rwoaek,280,46.8335,3200,,1.0
+-122.9848,5,deadfall,Deadfall,2.6,vsd,2240,47.8926,4273,,7.6
+-122.6512,20,deception-pass-headlands,"Deception Pass State Park - Headlands / Rosario Head / Lighthouse Point",4.0,covkd,350,48.4169,110,,5.0
+-121.4433,41,denny-creek,"Denny Creek",4.0,rwomkd,1345,47.4154,3642,http://wta.org/kml/denny-creek.kmz,6.0
+-121.3266,5,doe-falls,"Doe Falls",2.8,d,1720,47.0304,4320,,7.2
+-121.3861,25,dorothy-lake,"Lake Dorothy - Lake Bear - Lake Deer",3.8,lwvpekd,1600,47.6089,3800,,11.5
+-123.8240,9,deer-lake-1,"Deer Lake",2.2,rlek,1650,47.9277,,,8.0
+-121.5579,7,east-side-trail,"East Side Trail",3.1,,,46.7591,,,
+-120.0419,3,echo-ridge,"Echo Ridge",2.0,mvpk,,47.9394,,,3.0
+-121.2968,2,east-fork-foss-river-snowshoe,"East Fork Foss River Snowshoe",4.0,rov,1200,47.6882,2400,,13.6
+-120.7914,3,eightmile-creek-snowshoe,"Eightmile Creek Snowshoe",2.7,rlv!,2600,47.5465,4600,,12.4
+-120.9650,5,elbow-peak,"Elbow Peak",2.8,mv,2800,47.2953,5673,,10.0
+-121.2229,6,downey-creek,"Downey Creek",2.7,roe,1280,48.2595,2400,,13.2
+-121.9436,5,dwights-way,"Dwight's Way",2.8,,,47.5304,,,1.0
+-120.8153,0,east-rim-waterworks-canyon,"East Rim Waterworks Canyon",0.0,fmakd,450,46.7502,,,3.0
+-121.5747,3,eastside-trail,"Eastside Trail",3.0,,,46.7512,,,
+-122.7060,29,ebeys-landing,"Ebey's Landing",3.9,cmvakd!,260,48.2049,260,http://wta.org/kml/ebeys-landing.kmz,5.6
+-122.2433,8,eds-trail,"Silver Star Mountain - Ed's Trail",3.9,fmvsp,1240,45.7673,4390,,5.0
+-122.0367,4,east-access,"Squak Mountain Access Trail",3.2,kd,,47.5179,,,2.0
+-121.7580,5,east-crater,"East Crater",3.4,med,900,45.9813,4900,,5.0
+-121.0523,6,edgar-rock,"Edgar Rock",2.5,,,46.9150,,,
+-120.8139,16,eightmile-lake,"Eightmile Lake",3.6,rlomv,1300,47.5360,4650,http://wta.org/kml/eightmile-lake.kmz,6.6
+-120.9608,3,east-bank-ross-lake-737,"East Bank Ross Lake",3.0,lk,800,48.7055,,,31.0
+-121.0425,0,eagles-nest,"Eagle's Nest",0.0,mvsp,,46.5062,,,
+-121.8057,7,eagle-peak-saddle,"Eagle Peak Saddle",3.7,omvap,2910,46.7575,5720,,7.0
+-121.1964,0,eldorado-peak,"Eldorado Peak",0.0,s,6716,48.5136,8876,,10.0
+-122.7043,1,eagle-cliff-cypress-island,"Eagle Cliff (Cypress Island)",5.0,,,48.6026,,,
+-121.3848,7,eagle-lake-fishermans-trail,"Eagle Lake Fisherman's Trail",4.0,lofmvaekd,712,47.7780,3888,,5.0
+-121.9582,4,east-tiger,"East Tiger",3.0,,2940,47.5076,3004,,10.6
+-118.5813,4,edds-mountain,"Edds Mountain",4.5,fmvsaped,1916,48.5615,6320,,11.1
+-121.4509,7,eagle-lake,"Eagle Lake",3.3,rlmve,1500,47.7842,3800,,4.0
+-121.6093,4,eight-mile-squire-creek-pass,"Squire Creek Pass via Eight-mile Trail",4.2,omvpd,2350,48.1573,4107,,5.4
+-120.8412,5,earl-peak,"Earl Peak",2.4,s,3600,47.3515,7036,,7.5
+-122.0960,4,east-fork,"East Fork",3.5,kd,,47.5282,,,1.4
+-121.9202,5,eagle-creek-1,"Eagle Creek",4.6,wofmed,1100,45.6383,1200,,12.0
+-121.8078,7,eagle-peak,"Eagle Peak",3.0,rv,2950,46.7485,5650,,7.0
+-121.8970,5,elbow-lake,"Elbow Lake",2.6,rlvpd,2100,48.6797,,,16.0
+-122.9145,2,elbo-creek,"Elbo Creek",3.5,o,1910,47.7740,3666,,10.0
+-120.8029,13,easy-pass,"Easy Pass",3.6,fmvp,2800,48.5879,6500,,7.0
+-122.0434,4,east-side,"East Side Trail",3.0,vad,,47.5106,,,2.6
+-120.5399,4,early-winters,"Early Winters",2.2,,,48.5643,,,
+-122.8999,6,dosewallips-river-state-park,"Dosewallips State Park - Steam Donkey Trail",2.7,croakd,400,47.6876,425,,3.5
+-120.2678,6,eagle-lakes,"Eagle Lakes",3.0,lfv,2480,48.2204,7110,,12.0
+-117.2932,1,eagle-peak-loop,"Eagle Peak Loop",4.0,,,47.6528,,,
+-120.8140,0,eightmile-mountain,"Eightmile Mountain",0.0,,,47.5359,,,
+-122.2496,5,east-fork-lewis-river,"East Fork Lewis River",1.8,vsd,2500,45.8072,4000,,8.0
+-121.1737,6,easton-ridge,"Easton Ridge",2.8,a,2270,47.2672,4470,,6.0
+-123.0850,5,dosewallips-river,"Dosewallips River",3.2,rm,,47.7349,,,
+-119.8769,5,douglas-creek-canyon-south,"Douglas Creek Canyon - South",3.0,rma,100,47.4581,1500,,5.0
+-122.4888,1,double-diamond-trail,"Double Diamond Trail",2.0,clwed,,48.6488,,,
+-121.5791,2,doubleeagle-mine-devils-lake,"Double Eagle Mine - Devils Lake",3.0,,,48.1136,,,
+-121.3824,5,dumbbell-lake-1,"Dumbbell Lake",1.8,,2210,46.6450,5150,,14.0
+-120.6434,5,duncan-hill,"Duncan Hill",3.2,mvsap,3000,48.0746,7819,,13.6
+-121.7092,6,dry-creek-1,"Dry Creek",3.0,v,2800,46.5628,3815,,7.0
+-121.7719,1,east-peak-rattlesnake-trail,"East Peak",3.0,lfvsad,2500,47.4354,,,8.6
+-122.0328,4,east-ridge,"East Ridge Trail",4.2,vapd,,47.5090,,,2.8
+-120.8205,1,dragontail-peak,"Dragontail Peak",5.0,lvspe,5833,47.5279,8840,,13.5
+-121.9801,4,dry-creek-2,"Dry Creek",4.0,rmaekd,350,45.8819,1500,,8.4
+-123.5699,5,east-fork-quinault-river,"East Fork Quinault River",3.6,,,47.5726,,,
+-122.5142,7,double-bluff,"Double Bluff",3.1,cvakd,,47.9826,,,4.0
+-123.1899,19,dungeness-national-wildlife-refuge,"Dungeness Spit",3.5,cvak,130,48.1413,130,,11.0
+-121.3495,4,dutch-miller-gap,"Dutch Miller Gap",3.5,,,47.5104,,,
+-122.6294,2,dupont-loop,"Dupont Loop",4.0,,,47.0983,,,
+-119.9117,4,doulgas-creek-canyon-north,"Douglas Creek Canyon - North",3.5,rma,100,47.4986,1700,,3.0
+-119.8980,5,doulgas-creek-canyon-badger-mountain,"Douglas Creek Canyon - Badger Mountain",2.8,rmva!,900,47.4851,2400,,6.0
+-120.5137,8,driveway-butte,"Driveway Butte",3.2,mvsae,3030,48.5983,5982,,8.0
+-123.1370,13,dungeness-river,"Marmot Pass via Upper Dungeness River Trail",4.2,romvped,3500,47.8779,6000,,16.2
+-123.3206,5,dry-creek,"Dry Creek",2.6,kd,800,47.5015,1600,,6.0
+-122.6472,6,dupont-sequalitchew-creek,"Sequalitchew Creek",4.0,cfvakd,,47.1064,,,3.0
+-119.9808,7,dusty-lake,"Quincy Lakes",3.6,lma!,350,47.1604,1000,,6.0
+-117.2802,1,feryn-ranch-conservation-area,"Feryn Ranch Conservation Area",5.0,mvakd,,47.7773,,,1.0
+-120.9244,4,flat-creek,"Flat Creek",2.8,rofve,500,48.4325,2000,,11.0
+-122.4160,0,foothills-trail,"Foothills Trail",0.0,rvakd,,47.2331,,,25.0
+-121.6822,5,fire-and-ice-trail,"Fire and Ice Trail",3.6,mvkd,100,48.8579,4400,,0.5
+-122.0043,1,elowah-and-upper-mccord-creek-falls,"Elowah and Upper McCord Creek Falls",4.0,,620,45.6124,660,,3.4
+-121.2029,4,escondido-lake,"Escondido Lake",2.2,,,47.4842,,,
+-122.0313,8,flaming-geyser-state-park,"Flaming Geyser State Park",2.0,rfmakd,450,47.2771,425,,4.0
+-120.6387,5,ferguson-lake,"Ferguson Lake Trail",3.8,lved,,48.7770,,,6.0
+-124.7060,4,ericsons-bay,"Ericsons Bay",4.0,,,48.1244,,,
+-122.2165,2,eruption-trail,"Eruption Trail",1.5,mvk,25,46.2765,4200,,0.5
+-120.8207,75,enchantment-lakes,"The Enchantments",4.5,rlwofmvsape,4500,47.5279,7800,,18.0
+-120.2613,4,foggy-dew-ridge,"Foggy Dew Creek",2.8,,4620,48.1751,8050,,14.0
+-120.9497,3,esmerelda-peak,"Esmeralda Peak (Esmerelda)",4.0,vs,,47.4273,6362,,
+-120.7692,0,finner-creek,"Finner Creek",0.0,,,47.9516,,,
+-123.7066,4,fletcher-canyon,"Fletcher Canyon",3.0,,1100,47.5283,1450,,4.0
+-121.0794,4,fifes-ridge,"Fifes Ridge",3.0,vd,3100,46.9518,6000,,8.0
+-122.0375,8,evans-creek-preserve,"Evans Creek Preserve",4.0,makd,325,47.6423,480,,4.2
+-121.9573,0,fort-cascades-loop,"North Bonneville Heritage Trails",0.0,rfvakd,20,45.6455,40,,12.0
+-121.7005,8,federation-forest,"Federation Forest State Park",3.0,rokd,150,47.1530,1800,,5.0
+-121.9421,0,florence-peak,"Florence Peak",0.0,vs!,3700,46.9819,,,8.0
+-121.6423,4,forest-lake,"Forest Lake",4.0,lma,1000,46.9146,6800,,5.0
+-120.1559,6,falls-creek-1,"Falls Creek Falls",3.2,wakd,,48.6346,,,4.0
+-122.2238,0,forest-loop-trail,"McCollum Park",0.0,,,47.8785,,,
+-120.0192,4,fish-creek,"Fish Creek",2.8,,,47.8402,,,
+-120.9399,0,esmeralda-peak-loop,"Esmeralda Peak Loop",0.0,,,47.4432,,,
+-122.7640,3,fort-ebey-state-park,"Fort Ebey State Park",3.7,cvekd,520,48.2226,570,,4.0
+-120.6230,5,entiat-river,"Entiat River",3.8,,,48.0120,,,
+-121.3771,4,fish-lake-way,"Fish Lake",2.0,ad,1200,46.8306,5400,,14.0
+-121.8032,7,excelsior-pass,"Nooksack River to Excelsior Pass",3.6,vsp,3500,48.9093,5699,,9.0
+-123.3276,10,flapjack-lakes,"North Fork Skokomish River and Flapjack Lakes",3.9,rle!,3200,47.5161,3900,,15.0
+-122.9283,4,fallsview-canyon-1,"Fallsview Canyon (Falls View)",3.5,rwfakd,300,47.7895,400,,1.5
+-121.2652,6,fisher-lake,"Fisher Lake",3.3,lmvaed,1580,47.6791,5171,,10.0
+-122.6830,2,fort-casey-state-park,"Fort Casey State Park",3.0,cekd,200,48.1725,200,,2.5
+-121.6437,6,emmons-glacier-view,"Emmons Moraine",3.2,lv,900,46.9021,5200,,3.0
+-120.5915,4,emerald-park,"Emerald Park",2.5,lm,,48.2002,,,
+-117.8423,4,fishtrap-lake-north,"Fishtrap Lake - North",1.5,lma,126,47.3206,,,4.0
+-121.2771,10,evergreen-mountain-lookout,"Evergreen Mountain Lookout",3.5,mvk,1425,47.8264,5587,,2.8
+-121.7240,4,faraway-rock,"Faraway Rock",2.5,lp,300,46.7689,5210,,2.0
+-121.8471,5,explorer-falls,"Explorer Falls",3.4,w,,47.9753,,,
+-120.6675,0,enchantment-park,"Enchantment Park",0.0,rmakd,,47.5890,,,2.0
+-123.1315,4,elk-lake,"Elk Lake",2.2,lomak,500,47.5712,1300,,4.0
+-123.5694,9,enchanted-valley,"Enchanted Valley",3.7,rwompek,1700,47.5730,,,26.0
+-122.7680,0,forest-park-ridge-trail-loop-hike,"Forest Park - Ridge Trail Loop Hike",0.0,,,45.5824,,,
+-121.9288,4,fifteenmile-creek-railroad-grade,"Fifteenmile Creek Railroad Grade",1.8,,,47.4885,,,4.8
+-120.9374,4,eldorado-turnpike-passes,"Eldorado and Turnpike Passes",2.8,ma,2200,47.4216,6100,,8.0
+-121.8070,9,excelsior-peak,"Damfino Lakes - Excelsior Peak",3.9,lmvsp,1500,48.9593,5699,,5.6
+-120.7909,4,estes-butte,"Estes Butte",2.0,mvpe,2900,47.9714,5400,,8.5
+-122.7228,7,fort-flagler,"Fort Flagler State Park",2.9,caekd,150,48.0948,150,,5.0
+-118.8995,4,fir-mountain,"Fir Mountain",2.5,vsa,2174,48.6753,5674,,5.2
+-121.8970,7,emerald-ridge,"Tahoma Creek Suspension Bridge - Emerald Ridge Loop",3.0,v,3100,46.8380,5600,,14.2
+-121.1889,4,fisher-creek,"Fisher Creek",2.2,rfmvpe,4000,47.6529,6560,,14.0
+-123.5824,6,elwha-river,"Elwha River and Lillian River",4.2,ra,700,47.9676,1600,,9.6
+-121.3230,4,evans-lake-1,"Evans Lake",3.0,akd,50,47.6589,3700,,1.0
+-117.7777,4,fishtrap-lake-scroggie-loop,"Fishtrap Lake - Scroggie Loop",2.5,makd!,200,47.3335,2260,,3.0
+-122.6919,5,fidalgo-head-loop-trail-washington-park,"Fidalgo Head Loop Trail",3.4,cvd,300,48.4982,300,,2.2
+-120.9372,18,esmerelda-basin,"Esmeralda Basin (Esmerelda)",4.3,mvped,1750,47.4361,5960,http://wta.org/kml/esmerelda-basin.kmz,7.0
+-123.5878,4,elwha-to-hurricane-hill,"Elwha To Hurricane Hill",3.0,rmvp,5250,48.0138,5650,,11.6
+-121.3036,24,foss-lakes,"West Fork Foss River and Lakes",3.9,rlwoved,3300,47.6349,4900,,14.6
+-123.3258,5,four-stream,"Four Stream",2.6,,,47.5160,,,
+-119.9765,6,freezeout-ridge,"Freezeout Ridge",2.7,,,48.6570,,,
+-117.3705,3,gardner-cave,"Gardner Cave",5.0,k,200,48.9946,2700,,1.0
+-121.5693,4,frog-lake-2,"Frog Lake",1.8,,,48.2191,,,
+-121.0409,0,glasses-lake,"Glasses Lake",0.0,lofvd,700,47.8762,4682,,10.0
+-121.7381,3,fuller-mountain,"Fuller Mountain",3.0,,,47.5754,,,
+-122.0700,8,goat-mountain-1,"Goat Mountain and Deadman's Lake",3.5,lmvs,2400,46.3563,5025,,11.2
+-120.9377,0,fortune-peak-via-esmeralda-basin-esmerelda-1394,"Fortune Peak via Esmeralda Basin (Esmerelda)",0.0,,,47.4292,,,
+-122.4902,26,fragrance-lake,"Fragrance Lake",3.6,lovkd,950,48.6534,1050,,5.5
+-121.5274,9,goat-lake-1,"Goat Lake",4.1,lmvp,2000,46.4669,6600,,12.0
+-121.7702,6,goat-flats,"Goat Flats",3.0,,,48.1937,,,
+-120.7266,5,garland-peak,"Garland Peak",2.8,mvp,3550,47.9786,7400,,10.4
+-121.9524,6,franklin-ghost-town,"Franklin Ghost Town",2.5,ofkd,200,47.3011,800,,2.5
+-120.9377,0,fortune-creek-pass,"Fortune Creek Pass",0.0,,,47.4292,,,
+-121.2237,5,goat-peak-2,"Goat Peak",3.8,,,47.1914,,,
+-121.0978,8,fourth-of-july-pass,"Fourth of July Pass via Thunder Creek",3.0,rovpe,2400,48.6925,3600,,11.2
+-121.2675,9,goat-peak-1,"Goat Peak",3.0,mvsapd,3200,46.9641,6473,,6.5
+-121.2309,3,goat-peak-snowshoe,"Goat Peak Snowshoe",3.3,vsa!,2600,46.9175,5900,,5.6
+-123.1427,1,goat-lake-3,"Goat Lake",5.0,,,47.9120,,,
+-123.3324,5,gladys-divide-primitive,"Gladys Divide",2.8,mvap,4000,47.5182,5050,,20.0
+-121.4416,57,franklin-falls,"Franklin Falls",4.1,rwkd,400,47.4130,2600,http://wta.org/kml/franklin-falls.kmz,2.0
+-121.5116,4,goat-falls,"Goat Falls",3.0,wkd,230,46.9930,3060,,1.0
+-119.2445,4,frog-lake,"Frog Lake",3.0,lma,235,46.9368,1055,,3.0
+-121.6523,10,goat-mountain,"Goat Mountain",3.5,omvsp,4100,48.8972,6650,,11.0
+-118.6757,1,gibralter-mountain,"Gibralter Mountain",2.0,,,48.5676,,,
+-121.6106,1,goat-island-mountain,"Goat Island Mountain",4.0,romvsp,3700,46.8882,7288,,13.0
+-120.4022,15,goat-peak,"Goat Peak Lookout",3.1,fmvsk,1400,48.6515,7001,http://wta.org/kml/goat-peak.kmz,5.0
+-123.5824,4,geyser-valley,"Elwha River & Geyser Valley",2.8,romae,600,47.9676,1300,,7.8
+-122.3132,2,gibbons-creek-wildlife-art-trail,"Steigerwald Lake National Wildlife Refuge",3.5,rlmak!,,45.5707,,,2.8
+-122.8108,4,gibbs-lake,"Gibbs Lake",3.8,loakd,160,47.9704,480,,2.5
+-121.4113,70,goat-lake,"Goat Lake",4.2,rlwoekd,1400,48.0537,3161,,10.4
+-121.8204,6,gifford-peak,"Gifford Peak",2.5,le,700,45.9371,5200,,11.0
+-121.7895,5,glacier-vista-snowshoe,"Glacier Vista Snowshoe",3.0,v!,700,46.7523,6300,,3.0
+-119.9805,8,frenchman-coulee,"Frenchman Coulee",2.6,rwm!,200,47.0259,1000,,4.0
+-121.9454,4,glacier-view-loop,"Glacier View Loop",3.0,,,46.7621,,,
+-122.5592,0,fort-steilacoom-park,"Fort Steilacoom Park",0.0,lmvkd,,47.1774,,,7.0
+-117.4849,4,frater-lake,"Frater Lake",4.0,,125,48.6546,3318,,1.8
+-121.9242,2,gas-line-trail,"Gas Line Trail",2.0,d,,47.4823,,,1.0
+-120.6558,0,freund-canyon,"Freund Canyon",0.0,v,1800,47.6286,3000,,7.3
+-121.1364,5,french-cabin-mountain,"French Cabin Mountain",3.6,ms,1750,47.3507,5580,,10.0
+-122.7551,5,fort-worden-state-park-point-wilson,"Fort Worden State Park - Point Wilson",2.4,ck,0,48.1438,,,2.5
+-121.2882,4,glacier-peak,"Glacier Peak",2.5,,,48.0578,,,
+-120.9497,5,french-ridge,"French Ridge",2.6,,,47.6134,,,
+-121.7943,4,french-creek,"French Creek",3.0,ra,700,46.2778,3800,,7.0
+-122.5637,9,gazzam-lake-close-beach,"Gazzam Lake Nature Preserve",4.3,clvad,500,47.6097,380,,6.8
+-120.0092,4,gingko-petrified-forest-backcountry,"Ginkgo Petrified Forest State Park Backcountry",2.0,rmad!,550,46.9493,1200,,5.0
+-120.0358,8,gingko-petrified-forest-interpretive-trails,"Ginkgo Petrified Forest Interpretive Trails",3.1,omakd,200,46.9477,2600,,3.0
+-122.6008,0,foulweather-bluff-preserve-trail,"Foulweather Bluff Preserve Trail",0.0,cvak,20,47.9255,20,,1.0
+-120.8386,0,freedom-peak,"Freedom Peak",0.0,,,47.4033,,,
+-121.9331,0,gillette-lake-and-greenleaf-overlook,"Gillette Lake and Greenleaf Overlook",0.0,rlmvae!,650,45.6505,875,,8.6
+-122.1030,4,freds-railroad,"Fred's Railroad",3.0,kd,,47.5301,,,1.0
+-121.6437,22,glacier-basin,"Glacier Basin",4.0,rlmvaek,1600,46.9021,5900,,6.5
+-121.2053,5,fortune-ponds,"Fortune Ponds",2.2,omd,2700,47.8230,4700,,13.0
+-121.2630,0,gilbert-peak,"Gilbert Peak",0.0,s,4600,46.5164,8184,,20.0
+-121.6222,10,glacier-lake,"Glacier Lake",2.7,lk,800,46.5457,2905,,4.0
+-121.7350,7,glacier-vista-panorama-point,"Glacier Vista-Panorama Point",4.0,,1300,46.7860,6700,,5.0
+-121.9446,16,glacier-view-1,"Glacier View",3.8,mvspk,900,46.7734,5450,,4.0
+-121.4235,20,gem-lake,"Gem Lake",4.3,lfmvkd,1800,47.4453,4857,http://wta.org/kml/gem-lake.kmz,10.0
+-121.3930,5,glacier-basin-1,"Glacier Basin",3.6,rwmvaed,2159,47.9870,,,4.2
+-121.8228,5,gee-point,"Gee Point",3.2,mvsp,700,48.4183,4974,,3.0
+-120.7374,4,glacier-creek,"Glacier Creek",3.2,,,47.6898,,,
+-121.1803,6,french-cabin-creek,"French Cabin Creek",2.3,fva,1400,47.3329,5500,,7.0
+-117.7662,4,gillette-ridge,"Gillette Ridge",2.0,,,48.6585,,,
+-122.2620,2,gold-mine-trail,"Gold Mine Trail",3.5,rokd,,48.9244,1330,,3.5
+-123.1911,5,hamma-hamma-beaver-pond,"Hamma Hamma Beaver Pond",2.6,mvak,,47.5883,,,
+-121.5265,8,goat-ridge,"Goat Ridge",3.1,,,46.4669,,,
+-121.5927,13,hannegan-pass-and-peak,"Hannegan Pass and Peak",4.0,vsaped,3100,48.9101,6200,,10.4
+-121.3677,11,gold-creek-pond,"Gold Creek Pond",4.2,lmvakd,10,47.4094,3000,,1.0
+-123.5693,5,graves-creek-primitive,"Graves Creek Primitive",2.2,,,47.5728,,,
+-122.3102,0,hamlin-park-shoreline,"Hamlin Park",0.0,,,47.7466,,,
+-122.1098,5,green-river,"Green River",2.6,,425,46.3501,800,,10.0
+-121.4425,54,gothic-basin,"Gothic Basin",4.5,rlwmv,2840,48.0261,5200,,9.2
+-122.0200,19,hamilton-mountain,"Hamilton Mountain",4.4,wofmvsapd,2000,45.6325,2400,,7.5
+-120.8811,6,goode-ridge,"Goode Ridge",3.5,vap,4400,48.4326,6600,,10.0
+-120.7362,7,golden-horn,"Golden Horn - Snowy Lakes (PCT)",3.6,lfmvpe,2700,48.5156,6900,,23.0
+-121.5576,12,grove-of-the-patriarchs,"Grove of the Patriarchs Loop",3.3,rok,50,46.7580,2200,,1.5
+-121.4446,3,gunn-peak,"Gunn Peak",3.7,,,47.8164,,,
+-121.4878,4,granite-mountain-snowshoe,"Granite Mountain Snowshoe",4.0,vs!,3750,47.3979,5629,,5.0
+-121.6413,15,grand-park,"Grand Park via Lake Eleanor",4.3,rmvae,1100,46.9963,5630,,8.0
+-121.6876,4,green-mountain-3,"Green Mountain",4.2,vsp,3600,47.4878,4700,,10.0
+-123.4255,17,grand-valley,"Grand Valley",4.2,omae,2400,47.9458,6450,,9.8
+-120.6726,13,grasshopper-pass,"Tatie Peak and Grasshopper Pass",3.1,mvspd,1750,48.7024,7386,,11.0
+-121.6179,4,hamilton-buttes,"Hamilton Buttes",3.0,v,700,46.3911,5722,,2.0
+-122.3401,3,green-lake-1,"Green Lake",3.3,lofakd,0,47.6690,164,,2.8
+-123.3757,7,grand-pass,"Grand Pass",3.7,,,47.9180,,,
+-121.2457,15,green-mountain,"Green Mountain",3.7,fmvsapekd,3300,48.2662,6500,,8.5
+-121.5795,20,greider-lakes,"Greider Lakes",3.1,love,1370,47.9747,2930,,8.6
+-123.0951,4,gold-creek,"Gold Creek",2.5,,,47.9426,,,
+-121.4751,1,greenwater-lakes-quinn-lost-lakes,"Greenwater Trail to Lost Lakes",5.0,rloaekd,2700,47.1059,5700,,12.0
+-122.5756,3,greenbank-farm,"Greenbank Farm",4.0,ckd,275,48.1113,300,,3.0
+-120.3985,0,goat-wall-trail,"Goat Wall Trail",0.0,,,48.5938,,,
+-120.5350,4,grass-camp,"Grass Camp",4.0,mvaed,,47.3135,,,6.2
+-117.8164,0,grizzly-bear-ridge-3103,"Grizzly Bear Ridge",0.0,mvk,1300,46.2001,5400,,8.2
+-120.5808,2,haney-meadow-loop-snowshoe,"Haney Meadow Loop Snowshoe",4.5,o,1600,47.3349,5700,,12.0
+-121.4467,5,goldmyer-hot-springs,"Goldmyer Hot Springs",4.0,roved,,47.5001,,,24.0
+-121.0965,4,grace-lakes,"Grace Lakes",4.5,lv,500,47.7443,,,4.0
+-121.7412,4,grassy-knoll,"Grassy Knoll and Big Huckleberry Mountain",2.8,,2430,45.7976,4209,,11.2
+-121.6657,4,granite-lake,"Granite Lakes",2.0,lm,,47.4713,,,
+-121.7350,4,golden-gate,"Golden Gate",3.5,wfmva,1000,46.7860,6400,,3.2
+-120.8845,0,grindstone-mountain,"Grindstone Mountain",0.0,,,47.6070,,,
+-122.9085,11,guillemot-cove,"Guillemot Cove",4.2,crovak!,360,47.6160,360,,2.5
+-121.6612,0,greenway-mountain,"Greenway Mountain",0.0,,,47.4364,,,
+-121.4751,26,greenwater-lakes,"Greenwater and Echo Lakes",3.5,rlomaekd,1900,47.1059,4100,,14.0
+-121.6685,3,granite-creek-road-trail,"Granite Creek Trail",2.3,ovad,,47.4699,,,12.0
+-122.8276,7,gold-mountain,"Gold Mountain",4.3,fmvsakd,1087,47.5521,1687,,4.0
+-122.5945,2,guemes-mountain,"Guemes Mountain",2.5,cvs,550,48.5445,,,2.3
+-123.3821,8,grand-ridge,"Grand Ridge",4.5,mvsape,3100,47.9184,6625,,15.0
+-121.7695,0,gold-basin-mill-pond-interpretive-trail,"Gold Basin Mill Pond Interpretive Trail",0.0,,,48.0877,,,
+-123.9512,8,hall-of-mosses,"Hall of Mosses",4.5,ok,100,47.8536,600,,0.8
+-121.8506,18,green-lake,"Green Lake",3.8,rlwovk,1150,46.9924,3270,,9.6
+-121.4136,3,gravel-lake,"Gravel Lake - Ridge Lake",3.7,lv,,47.4277,,,
+-121.8844,6,gobblers-knob,"Gobblers Knob",2.8,lomvpe,2565,46.7790,5485,,11.0
+-123.1274,15,gray-wolf-river,"Lower Gray Wolf River",3.8,romek!,800,47.9670,1500,,8.4
+-121.4860,78,granite-mountain-1,"Granite Mountain",4.3,fmvsd,3800,47.3979,5629,,8.6
+-117.2584,8,hall-mountain,"Hall Mountain",3.4,fmvsaed,4130,48.8075,6323,,14.0
+-122.8266,18,green-mountain-1,"Green Mountain - Gold Creek Trail",3.7,vsed,1000,47.5517,1639,,5.0
+-121.4800,3,gotchen-creek,"Gotchen Creek-Aiken Lava Bed East",2.7,rvp,2600,46.0932,6300,,11.0
+-123.5698,5,graves-creek,"Graves Creek",2.0,roa,1200,47.5728,1880,,7.0
+-122.5562,4,hansville-greenway,"Hansville Greenway",3.8,lakd!,100,47.9080,180,,2.6
+-120.4643,0,gray-peak,"Gray Peak",0.0,vs,,48.2674,8074,,
+-119.9042,4,golden-stairway-1,"Golden Stairway",2.5,rmvp,3550,48.5673,6850,,6.3
+-122.0248,5,green-to-cedar-river-trail,"Green to Cedar River Trail",3.8,fmakd,50,47.3614,,,5.6
+-123.9337,17,hoh-river,"Hoh River Trail to Five Mile Island",3.5,rovaek!,300,47.8597,800,,10.6
+-121.6358,5,high-pass-1,"High Pass",3.2,fv,,48.9523,,,
+-121.0914,10,hex-mountain,"Hex Mountain Snowshoe",3.9,vp!,2600,47.2850,5034,,7.0
+-121.0753,10,heather-lake,"Heather Lake (near Lake Wenatchee)",4.1,lofvkd,1350,47.8664,3950,,7.0
+-120.2034,4,hidden-lakes,"Hidden Lakes",4.8,,,48.7856,,,
+-123.4319,9,heather-park,"Heather Park",3.1,v,3800,48.0391,5740,,10.0
+-123.9512,2,hoh-river-elk-lake,"Hoh River Trail to Elk Lake",4.0,rlwomvape,,47.8536,,,33.0
+-117.7319,0,headquarters-trail,"Headquarters Trail",0.0,lak,,48.4617,,,0.5
+-121.4779,10,headlee-pass-and-vesper-lake,"Headlee Pass and Vesper Lake",3.5,rlmvp,2700,48.0251,4950,,7.0
+-122.0083,7,hazel-wolf-wetlands,"Hazel Wolf Wetlands",3.7,lofmak,60,47.5991,525,,1.7
+-121.8913,30,high-rock,"High Rock",4.3,vs,1365,46.6664,5685,,3.2
+-122.1042,7,harmony,"Harmony Falls",4.1,lw,650,46.2745,4060,,2.4
+-121.6849,5,heather-meadows,"Heather Meadows",3.2,v,,48.8498,,,
+-121.5306,0,harris-lake-trail,"Harris Lake Trail",0.0,vd,1300,47.3630,4100,,8.0
+-122.0298,3,high-school-trail,"High School Trail",3.7,fmakd,375,47.5193,480,,2.1
+-122.0200,4,hardy-rodney-falls,"Hardy and Rodney Falls",3.0,wm,1200,45.6325,1648,,3.5
+-121.9925,2,high-hut-mt.-tahoma-trails,"High Hut Snowshoe",3.0,v,2400,46.6998,4800,,7.8
+-117.8290,4,hog-lake,"Hog Canyon Lake",3.5,lma,670,47.3610,2200,,5.4
+-121.9663,4,hobart-middle-tiger-railroad-grade,"Hobart - Middle Tiger Railroad Trail",3.5,fmvakd,1550,47.4808,2180,,10.2
+-121.7740,78,heather-lake-1,"Heather Lake",3.8,lwomvkd,1034,48.0829,2430,,4.6
+-123.4245,1,heart-o-the-forest,"Heart O' the Forest",2.0,oek,,48.0350,,,4.6
+-121.9727,3,holder-knob,"Holder Knob",4.0,,,47.4325,,,
+-120.8064,13,hidden-lake,"Hidden Lake (Lake Wenatchee)",3.2,loek,220,47.8216,2320,,1.6
+-121.5352,33,heybrook-lookout,"Heybrook Lookout",3.4,vkd,850,47.8084,1700,,2.6
+-121.7371,8,high-lakes-loop,"High Lakes Loop",3.6,,,46.7762,,,
+-121.2840,3,hibox-mountain,"Hibox Mountain",4.0,mvs,3900,47.4008,6560,,10.0
+-121.9436,5,high-point-trail,"High Point Trail",2.8,d,,47.5304,1150,,2.0
+-121.7740,6,heather-lake-snowshoe,"Heather Lake Snowshoe",3.2,lwovk!,1100,48.0829,2440,,4.6
+-121.4026,4,heart-lake,"Heart Lake",2.0,lwvd,150,46.1607,500,,3.0
+-121.8957,27,heliotrope-ridge,"Heliotrope Ridge",4.2,wfmvekd,1400,48.8021,5100,,5.5
+-120.8579,5,high-pass,"High Pass",2.4,lmvape,4500,48.0771,7100,,26.0
+-120.7864,5,holden-lake,"Holden Lake",3.8,l,,48.2006,,,
+-121.5960,6,high-lakes,"High Lakes Ramble",3.0,lma,200,46.2930,4329,,5.4
+-123.7677,8,high-divide-1,"High Divide",3.1,,,47.9397,,,
+-120.9004,3,hex-mountain-1,"Hex Mountain",3.0,vsp,,47.2705,,,
+-120.7792,2,holden-to-heart-lake,"Holden to Hart Lake",2.0,lwfved,1000,48.1995,3982,,9.0
+-121.2152,32,hidden-lake-lookout,"Hidden Lake Lookout",4.5,lwfmvsp,3300,48.5148,6900,http://wta.org/kml/hidden-lake-lookout.kmz,8.0
+-121.5548,0,hegg-benson-trail,"Hegg-Benson Trail",0.0,wkd,,48.4929,,,1.2
+-123.1201,2,heather-creek-trail,"Heather Creek Trail via Upper Dungeness River",3.5,romved,1800,47.8948,4200,,15.8
+-122.0218,4,hidden-forest,"Hidden Forest Trail",4.2,fvd,2650,47.5000,2340,,7.4
+-120.6788,5,hatchery-creek,"Hatchery Creek",2.2,lmvap,4000,47.5692,6700,,13.0
+-122.2165,17,harrys-ridge,"Harry's Ridge",3.6,lfvp,970,46.2765,4752,,8.2
+-122.0218,3,hardy-ridge-connector,"Bridge Trail - (Hardy Ridge Connector)",2.3,kd,,45.6589,,,
+-121.0611,3,happy-panther,Happy-Panther,2.7,lwmvad,550,48.7268,2000,,12.5
+-120.8454,4,hardscrabble-creek,"Hardscrabble Creek",3.0,w,,47.4344,,,
+-120.7117,5,hardy-canyon,"Hardy Canyon",3.0,ma!,2500,46.8335,,,9.0
+-121.0417,2,hawkins-mountain,"Hawkins Mountain",3.5,lmvs,3360,47.4538,7160,,10.0
+-118.3104,0,hawk-creek-lake-roosevelt-nra,"Hawk Creek - Lake Roosevelt National Recreation Area",0.0,rwae,900,47.8109,,,4.5
+-122.0318,0,hardy-ridge,"Hardy Ridge",0.0,mped!,1860,45.6380,2700,,9.5
+-121.0628,5,happy-creek-nature-trail,"Happy Creek Nature Trail",3.6,,,48.7274,,,
+-122.8836,6,harstine-island-state-park,"Harstine Island State Park",3.5,crokd,200,47.2303,175,,1.5
+-123.6930,4,happy-lake-ridge,"Happy Lake Ridge",2.8,lmvae,4400,47.9776,5280,,18.0
+-122.0127,1,hardy-creek,"Hardy Creek",2.0,d,,45.6430,,,
+-120.3827,2,horse-lake-reserve,"Horse Lake Reserve",4.0,fmvsak,,47.4620,,,5.2
+-121.8130,7,indian-henrys-hunting-ground,"Indian Henry's Hunting Ground via Tahoma Creek",3.9,lmvap,2520,46.7500,5400,,12.0
+-120.8945,8,icicle-gorge-loop,"Icicle Gorge Nature Loop",3.8,rwfmakd,150,47.6086,2800,,4.2
+-120.4998,4,howard-creek,"Howard Creek",2.0,fmv,,47.3159,5600,,6.0
+-122.1779,5,horseshoe-ridge,"Horseshoe Ridge",2.6,map,3300,45.9465,3475,,11.9
+-120.7969,11,icicle-ridge,"Icicle Ridge via Fourth of July Creek",3.3,mvp,4370,47.5783,7020,,12.0
+-120.6834,12,icicle-ridge-1,"Icicle Ridge",3.4,rmvapd,1800,47.5830,3000,,6.0
+-122.8774,3,iceberg-point,"Iceberg Point",3.0,cmvkd,50,48.4247,,,3.0
+-120.9413,2,indian-creek-snowshoe,"Indian Creek Snowshoe",3.5,v!,1300,47.9610,3600,,14.0
+-122.5980,2,illahee-preserve,"Illahee Forest Preserve",3.0,d,210,47.5976,530,,2.7
+-121.9117,8,horseshoe-bend,"Horseshoe Bend",3.2,rofmkd,220,48.9023,1200,,2.4
+-120.8376,2,howard-lake,"Howard Lake",2.5,lofvak,600,48.3801,2180,,3.3
+-121.6910,4,huntoon-point,"Huntoon Point",5.0,vp!,1200,48.8467,5200,,6.0
+-121.6361,5,indian-bar,"Indian Bar - Cowlitz Divide",3.6,rwmvape,2900,46.7653,5914,,15.0
+-121.3573,10,huckleberry-mountain,"Huckleberry Mountain",2.7,ofvsp,4600,48.2707,5483,,12.0
+-120.8350,4,ice-creek-ice-lakes,"Ice Creek - Ice Lakes",4.0,rlwovsap,4200,48.0831,6900,,28.0
+-121.0984,7,hyas-lake,"Hyas Lake",2.0,rlovekd,100,47.5452,3500,,4.0
+-122.0819,5,independence-pass,"Independence Pass Loop",3.0,lvap,300,46.3045,4500,,8.0
+-121.9878,4,iron-creek-campground,"Iron Creek Campground",2.8,rofmek,0,46.4291,1200,,1.5
+-119.9041,10,horseshoe-basin-pasayten,"Horseshoe Basin",3.3,mvaped,1550,48.9086,7200,,12.0
+-121.6411,8,huckleberry-creek,"Huckleberry Creek",3.1,rokd,,46.9149,3200,,2.0
+-123.5856,6,humes-ranch,"Humes Ranch - Elwha River Loop",3.8,rfmvak,250,47.9741,,,6.5
+-122.2445,0,i-90-trail,"I-90 Trail",0.0,lvkd,,47.5927,,,20.0
+-121.5226,17,independence-and-north-lakes,"Independence and North Lakes",3.8,lomvpk,2200,48.1170,4950,,7.0
+-120.6732,18,ingalls-creek,"Ingalls Creek",3.6,rmvek,1450,47.4628,3450,,11.0
+-121.5843,61,ira-spring-memorial,"Ira Spring Trail - Mason Lake",4.2,lwmvped,2420,47.4257,4320,,6.5
+-123.5178,15,hurricane-hill,"Hurricane Hill",4.0,mvsapk,650,47.9766,5757,,3.2
+-122.2717,13,hummocks,"Hummocks Trail",3.6,rmvak,100,46.2869,2500,,2.3
+-121.7683,6,indian-heaven,"Indian Heaven",2.5,,,46.0938,,,
+-121.5162,5,humpback-mountain,"Humpback Mountain",3.6,ovsd,2500,47.3784,5174,,4.0
+-120.7187,16,iron-bear,"Iron Bear - Teanaway Ridge",3.8,mvp,1900,47.3542,5489,,6.5
+-118.2398,5,hoodoo-canyon,"Hoodoo Canyon",2.4,loed,1430,48.6242,3740,,6.5
+-121.6446,4,inter-glacier,"Inter Glacier",3.0,rwmvpe,2920,46.9019,7150,,4.6
+-120.4945,4,horton-butte,"Horton Butte",3.5,,,48.1460,,,
+-123.0413,5,home-lake,"Home Lake",4.0,lsp,3000,47.8280,5330,,19.4
+-122.1779,4,huffman-peak,"Huffman Peak",3.5,vs,3990,45.9465,3830,,1.6
+-120.8179,4,horseshoe-lake,"Horseshoe Lake",3.8,lwvp,,47.5300,,,16.0
+-120.9500,9,icicle-creek,"Icicle Creek",3.4,roek,,47.6124,,,4.0
+-121.8315,5,ipsut-pass,"Ipsut Pass",3.2,wom,2800,46.9771,5150,,8.0
+-121.1044,5,howson-creek,"Howson Creek",2.6,mvsp,3400,47.3514,5700,,7.0
+-121.8766,1,howard-peak,"Howard Peak",1.0,,,46.9374,,,
+-121.8315,7,ipsut-falls,"Ipsut Falls",3.1,woak,300,46.9771,2650,,11.4
+-123.4985,6,hurricane-hill-snowshoe,"Hurricane Ridge Snowshoe",3.0,vk!,800,47.9694,5757,,6.0
+-120.6888,0,icicle-river-road-snowshoe,"Icicle River Road Snowshoe",0.0,r,,47.5476,,,
+-121.8392,5,indian-racetrack,"Indian Racetrack",3.4,lmvk,700,46.1298,5200,,5.0
+-123.6553,5,irely-lake,"Irely Lake and Big Creek",3.0,k,200,47.5675,700,,2.2
+-122.5410,0,hope-island,"Hope Island",0.0,,,48.3982,,,
+-120.9455,6,indian-creek,"Indian Creek",2.7,rovae,800,47.9632,3100,,8.0
+-121.7582,2,indian-heaven-junction-lake,"Junction Lake",2.5,lome,700,45.9811,4780,,5.0
+-121.6753,0,huckleberry-snowshoe-route,"Huckleberry Snowshoe Route ",0.0,,,48.8946,,,
+-121.8392,5,ice-cave-natural-bridges-nature-trails,"Ice Cave - Natural Bridges Nature Trails",2.2,k,0,46.1298,2900,,0.2
+-120.8699,4,index-creek,"Index Creek",3.5,,,47.6793,,,
+-120.8945,2,icicle-gorge-view-trail,"Icicle Gorge View Trail",4.5,vek,200,47.6086,2900,,2.2
+-117.2808,18,iller-creek,"Iller Creek",3.9,fmvapkd!,1200,47.6053,3200,,5.0
+-121.5714,5,index-town-wall,"Index Town Wall",3.4,vs,1270,47.8174,,,2.6
+-121.6292,5,horseshoe-meadow,"Stagman Ridge, Horseshoe Meadow, Lookingglass Lake",3.8,omvape,1900,46.1701,6100,,11.0
+-120.3305,6,horan-natural-area-wenatchee-confluence,"Horan Natural Area",4.0,rak,0,47.4601,640,,2.5
+-120.7070,0,jester-mountain,"Jester Mountain",0.0,vsd,628,47.3511,5508,,4.5
+-122.1569,6,june-lake,"June Lake",3.5,lmvap,415,46.1373,3140,,2.6
+-121.4366,6,jug-lake,"Jug Lake",2.7,led,1485,46.7230,4480,,7.4
+-122.4710,4,island-center-forest,"Island Center Forest",3.0,fakd,200,47.4365,425,,10.0
+-120.9185,4,jack-creek,"Jack Creek",4.2,,,47.6060,,,
+-121.1803,1,jade-lake,"Jade Lake",5.0,lfd,,47.5989,4400,,21.0
+-122.2283,0,jetty-island,"Jetty Island",0.0,k,0,48.0039,5,,4.0
+-121.7874,2,iron-mountain-snowshoe,"Iron Mountain Snowshoe",2.5,o!,1800,48.4875,4000,,9.0
+-120.2952,5,john-wayne-trail-army-west,"John Wayne Trail - Army West",3.8,ma,500,46.9595,,,8.0
+-120.6425,0,kangaroo-temple,"Kangaroo Temple",0.0,,,48.5143,,,
+-121.2065,17,iron-goat-trail,"Iron Goat Trail",3.5,rwmvd,700,47.7292,2800,,6.0
+-121.9311,8,iverson-railroad-trail,"Iverson Railroad Trail",2.8,d,850,47.4676,1750,,3.0
+-121.6995,17,kamikaze-falls,"Teneriffe Falls (Kamikaze Falls)",3.8,wmvd,1420,47.4862,2370,,6.0
+-121.2460,6,kachess-lake-shore,"Kachess Lake",3.5,lok,50,47.3587,2300,,1.0
+-121.7707,7,iron-horse,"John Wayne Trail - Rattlesnake Lake",2.9,wfvakd,300,47.4341,1100,,11.0
+-122.1569,2,june-lake-snowshoe,"June Lake Snowshoe",2.5,rlwovk!,500,46.1352,3140,,4.8
+-120.9361,4,iron-peak-1,"Iron Peak",3.8,mvpd,2600,47.4174,6510,,7.0
+-120.8857,5,johnson-medra-creek,"Johnson Creek - Medra Pass",3.2,rmvp,2250,47.3812,5420,,8.0
+-121.0360,9,irving-pass,"Poe Mountain via Irving Pass",3.8,fmvsp,1800,47.8953,6000,,5.0
+-121.5022,0,jumpoff-ridge,"Jumpoff Ridge",0.0,fvp,1800,47.8538,2600,,8.0
+-121.2622,21,johnson-ridge,"Johnson Ridge",4.1,mvspd,2650,47.7966,5540,,4.0
+-121.4433,4,kaleetan-peak,"Kaleetan Peak",4.0,,,47.4152,,,
+-123.1315,4,jefferson-ridge,"Jefferson Ridge",3.8,rvkd,1832,47.5712,3832,,4.8
+-122.2921,0,japanese-gulch,"Japanese Gulch",0.0,rwovkd,174,47.9468,363,,4.0
+-122.0531,2,josephine-lake-1,"Josephine Lake (Skagit)",3.0,,,48.5429,,,
+-121.4878,3,kaleetan-lake,"Kaleetan Lake",3.3,rle,,47.3979,4200,,20.2
+-121.5806,4,jordon-creek,"Jordan Creek",2.8,,,46.5077,,,
+-121.8258,2,kautz-creek-snowshoe,"Kautz Creek Snowshoe",4.0,v!,2800,46.7698,5300,,8.0
+-120.9250,4,jackita-ridge,"Jackita Ridge",3.0,mvp,,48.7060,,,
+-119.0254,6,juniper-dunes-wilderness,"Juniper Dunes Wilderness",3.0,oma!,300,46.3246,1050,,15.0
+-121.8276,0,iron-mountain-1,"Iron Mountain",0.0,vsp,,46.7973,,,
+-120.9032,4,jungle-creek,"Jungle Creek",2.2,,,47.3414,,,
+-118.4776,4,jungle-hill,"Jungle Hill Loop",3.5,ofmvaed,2400,48.6066,,,12.0
+-120.8723,9,iron-peak,"Iron Peak Loop",3.3,mvsad,3600,47.3888,6387,,14.5
+-122.1018,4,jackpine-shelter,"Pine Creek",4.5,ok,200,46.1543,3125,,2.2
+-121.3923,2,keechelus-lake-john-wayne,"Lake Keechelus Snowshoe",3.5,lvsk!,200,47.3915,2500,,4.0
+-121.0991,5,jolly-mountain,"Jolly Mountain",2.0,vs,4000,47.4044,6440,,12.0
+-121.6835,1,island-lake-3,"Island Lake",4.0,,,48.0326,,,
+-120.8719,2,iron-horse-trail-ellensburg,"John Wayne Trail - Ellensburg Trailhead",2.5,,,47.1708,,,
+-121.7434,4,jumbo-peak,"Jumbo Peak",2.8,mvs,1300,46.3354,5801,,6.0
+-120.8938,4,jack-pine-trail,"Jack Pine Trail",2.8,,,47.6089,,,
+-119.9644,4,john-wayne-trail-army-east,"John Wayne Trail - Army East",2.5,m,500,46.8437,1500,,8.0
+-121.9486,4,k-3-trail,"K-3 Trail",2.5,d,,47.5128,,,0.6
+-121.1737,8,kachess-ridge,"Kachess Ridge / Kachess Beacon",3.2,lovp,2200,47.2672,4600,,5.8
+-122.7073,0,joseph-whidbey-state-park,"Joseph Whidbey State Park",0.0,,,48.3081,,,
+-121.1623,0,iron-goat-trail-snowshoe,"Iron Goat Trail Snowshoe",0.0,,,47.7120,,,
+-121.3225,4,keechelus-ridge-snowshoe,"Keechelus Ridge Snowshoe",1.5,v!,2100,47.3218,4900,,6.4
+-121.4610,2,iron-mountain-trout-creek,"Iron Mountain - Trout Creek",2.0,,,47.8758,,,
+-123.1908,3,jefferson-lake,"Jefferson Lake",2.3,,,47.6370,,,
+-121.1660,6,ironstone-mountain,"Burnt Mountain",3.2,mvsapd,500,46.7152,6586,,5.0
+-121.0625,4,jumpoff,"Jumpoff Joe Lookout",4.0,,,46.6216,,,
+-122.3610,4,kayak-point-park,"Kayak Point Park",3.2,cekd,,48.1388,,,
+-123.4364,5,julia-butler-hansen-nwr,"Julia Butler Hansen National Wildlife Refuge",2.2,ra,0,46.2565,20,,5.6
+-124.3762,7,kalaloch-browns-point,"Kalaloch - Browns Point",3.9,ckd,25,47.6129,25,,4.0
+-121.0865,8,josephine-lake,"Josephine Lake",3.4,lmvd,1800,47.7465,5150,,10.4
+-121.3928,9,iron-horse-tunnel,"John Wayne Trail - The Tunnel",3.3,k,0,47.3930,1100,,5.3
+-117.1360,9,kamiak-butte,"Kamiak Butte",3.6,mvsa,900,46.8905,3600,,3.5
+-121.0826,0,jove-peak,"Jove Peak",0.0,,,47.8112,6007,,
+-121.7653,9,juniper-ridge,"Juniper Ridge",3.9,mvspd,1900,46.3965,5611,,6.0
+-123.0480,0,jones-island-trail,"Jones Island Trail",0.0,ca,,48.6153,,,
+-121.6456,2,lake-philippa,"Lake Philippa",3.5,lwofve,,47.6493,,,9.0
+-123.2347,17,lake-of-the-angels,"Lake of the Angels",4.4,lwmva,3400,47.5836,4950,,7.0
+-121.2662,5,kennedy-hotsprings,"Kennedy Hotsprings",3.4,,,48.1549,,,
+-121.6861,16,lake-ann,"Lake Ann (Mount Baker Highway)",4.1,lmvekd,1900,48.8511,4900,,8.2
+-123.4524,2,klahhane-ridge-snowshoe,"Klahhane Ridge Snowshoe",2.0,v!,1500,47.9838,6080,,4.0
+-123.1385,3,kennedy-falls,"Kennedy Falls",4.7,w,,47.0496,,,6.0
+-123.3311,5,lacrosse-basin,"LaCrosse Basin",2.6,,,47.5162,,,
+-121.8732,4,klapatche-park,"Klapatche Park",3.8,rlmvae,3300,46.8346,6000,,21.4
+-121.0772,9,lake-janus-grizzly-peak,"Lake Janus and Grizzly Peak",3.0,mkd,1550,47.8023,4700,,7.2
+-122.4600,1,lacamas-heritage-trail,"Lacamas Heritage Trail",2.0,rlwmakd!,,45.6367,,,7.0
+-121.5525,8,killen-creek,"Killen Creek to High Camp",3.4,omvae,2300,46.2885,6900,,10.0
+-121.9479,7,lake-christine,"Lake Christine",3.7,lm,,46.7746,,,
+-121.2420,2,ladder-creek-falls,"Ladder Creek Falls",4.5,wok,,48.6749,660,,0.4
+-120.7362,14,lake-ann-maple-pass-loop,"Lake Ann (Rainy Pass)",4.3,lwofmvpekd,700,48.5156,5500,,3.4
+-121.8974,4,kraus-ridge,"Kraus Ridge",2.0,,1570,46.4649,2370,,8.8
+-120.8862,7,koppen-mountain,"Koppen Mountain",3.4,fvsap,2300,47.3821,6031,,7.0
+-122.1919,2,kirkland-cross-corridor-trail,"Cross Kirkland Corridor Trail",3.0,lfkd,,47.6807,,,11.5
+-120.8820,3,lake-edna,"Lake Edna",2.3,lmvd,4500,47.6086,6735,,12.5
+-122.2774,1,kloochman-butte-trail-180b,"Chinook Trail",4.0,fmvp,1340,45.7737,3780,,2.4
+-121.0813,4,kloochman-rock,"Kloochman Rock",3.5,vs,,46.6306,,,
+-120.9372,61,lake-ingalls,"Lake Ingalls",4.2,lwfmvape,2500,47.4367,6500,,9.0
+-121.0240,3,klickitat-rail-trail-swale-canyon,"Klickitat Rail Trail - Swale Canyon",2.7,fmakd,450,45.7282,1550,,13.0
+-122.1126,4,klondike-swamp,"Klondike Swamp",2.8,fkd,,47.5335,,,1.4
+-118.4935,9,kettle-crest-south,"Kettle Crest South ",3.4,mvd,900,48.6311,6500,,5.0
+-124.1083,5,kloshe-nanitch,"Kloshe Nanitch",3.4,mvsd,2200,48.0685,3160,,6.4
+-121.3582,8,lake-lillian,"Twin Lakes and Lake Lillian",3.2,lomad,2000,47.3642,5300,,9.0
+-121.7362,3,lake-hancock,"Lake Hancock ",1.7,,,47.5747,,,
+-119.8667,4,lake-creek-1,"Lake Creek",2.2,m,,48.8848,,,
+-121.4982,4,kincaid,Kincaid,2.5,,,46.7079,,,
+-123.6044,4,lake-mills,"Smokey Bottom (West Lake Mills)",3.8,rofvak,300,48.0019,800,,3.8
+-123.4319,8,lake-angeles,"Lake Angeles",2.9,le,2350,48.0391,4196,,7.4
+-121.5994,0,jumbo-mountain,"Jumbo Mountain",0.0,,4500,48.1958,5840,,8.0
+-121.5384,10,pratt-river-trail,"Pratt River Trail",3.4,rkd,100,47.5480,900,,6.0
+-122.3056,0,des-moines-creek-trail,"Des Moines Creek Trail",0.0,fkd,235,47.4227,250,,4.0
+-122.1528,4,goat-creek-loop,"Goat Creek Loop",2.8,rwofvpe,3200,46.4306,5250,,20.2
+-120.9185,5,canyon-creek,"Canyon Creek",3.2,rmk,700,48.7063,2600,,7.0
+-121.3940,2,diobsud-creek,"Diobsud Creek",4.0,rof,440,48.5893,900,,4.0
+-122.5051,4,south-bay-trail,"South Bay Trail",4.0,ckd,20,48.7255,20,,4.0
+-117.5628,0,chewelah-peak,"Chewelah Peak",0.0,mvsa,1851,48.3004,5773,,4.0
+-122.2165,3,boundary-trail-mount-st.-helens,"Boundary Trail",3.0,mvape,,46.2765,,,
+-121.7231,0,mount-si-creekside-loop,"Mount Si - Creekside Loop",0.0,rfvkd,,47.4880,,,
+-122.0273,0,che-che-op-tin-trail,"Che-che-op-tin Trail",0.0,rvkd,10,45.6192,25,,1.0
+-122.5457,1,banner-forest,"Banner Forest",3.0,fakd,50,47.4893,430,,4.0
+-123.0514,0,glacial-heritage-preserve,"Glacial Heritage Preserve",0.0,,,46.8657,,,
+-120.9031,1,mount-stuart,"Mount Stuart",5.0,,,47.4751,,,
+-120.7013,0,rainbow-falls-mist-trail,"Rainbow Falls Mist Trail",0.0,wofk,30,48.3422,1200,,0.2
+-122.1727,0,angels-rest,"Angel's Rest",0.0,rm,1500,45.5602,1600,,4.8
+-121.7362,2,golden-gate-loop,"Golden Gate Loop",4.0,rwmvp,1160,46.7863,6400,,4.0
+-119.9532,5,tiffany-lake,"Tiffany Lake",2.0,lek,200,48.7000,6750,,3.0
+-121.9712,0,big-bend-natural-area,"Big Bend/Landsburg Reach Natural Area",0.0,rfkd,,47.3751,,,2.0
+-121.6711,1,augspurger-mountain-north,"Augspurger Mountain - North",3.0,fmvspd,1100,45.7720,3667,,2.8
+-121.7716,7,tin-can-gap,"Tin Can Gap",3.9,,2800,48.1937,5800,,12.0
+-117.1027,0,mount-spokane-state-park-snowshoe-summit-route,"Mount Spokane State Park - Snowshoe Summit Route",0.0,vsd,1328,47.9047,5883,,4.0
+-122.4086,2,maury-island-marine-park,"Maury Island Marine Park",4.0,cakd,500,47.3818,500,,3.0
+-122.9017,1,burfoot-park,"Burfoot Park",3.0,ckd,150,47.1325,200,,3.0
+-121.0804,0,sahale-peak,"Sahale Peak",0.0,,,48.4820,,,
+-122.1781,1,bellevue-botanical-garden,"Bellevue Botanical Garden",5.0,wmak,,47.6100,,,1.7
+-120.2236,2,chelan-sawtooth-loop,"Sawtooth Lakes Loop",4.0,lfmvsaped,4200,48.2188,8000,,24.0
+-122.1077,0,tam-oshanter-viewpoint-open-space-trails,"Tam O'Shanter - Viewpoint Open Space Trails",0.0,fmakd,150,47.6244,320,,1.5
+-121.7414,5,nisqually-vista-loop,"Nisqually Vista Loop",3.4,mvak,200,46.7848,5400,,1.1
+-121.4433,0,melakwa-pratt-lakes-traverse,"Melakwa - Pratt Lake Traverse",0.0,lwvped,2300,47.4154,4700,,11.7
+-121.2843,12,alta-mountain,"Alta Mountain",4.6,rlwmvspe,3300,47.3980,6151,,12.0
+-122.8916,0,crescent-beach-preserve,"Crescent Beach Preserve",0.0,,40,48.6960,60,,1.5
+-121.8965,0,dry-creek-falls,"Dry Creek Falls",0.0,w,750,45.6624,875,,5.2
+-118.6641,0,curlew-lake-nature-trail,"Curlew Lake Nature Trail",0.0,,160,48.7178,2500,,1.6
+-121.4156,0,olallie-mountain-snowshoe,"Olallie Mountain Snowshoe",0.0,sd,,47.4265,,,
+-120.8403,0,upper-stehekin-valley-road-trail,"Upper Stehekin Valley Road Trail",0.0,rwofmve,1100,48.3807,2400,,11.4
+-117.1130,0,mica-peak,"Mica Peak",0.0,fvsad,2000,47.5824,4800,,
+-122.3743,1,point-robinson-park,"Point Robinson Park",4.0,ckd,100,47.3882,,,0.5
+-120.5673,0,irene-rinehart-riverfront-park,"Irene Rinehart Riverfront Park",0.0,,,46.9785,,,
+-122.9052,1,maple-valley-loop,"Dosewallips State Park - Maple Valley Loop",4.0,ofakd,,47.6905,,,1.5
+-121.9794,0,west-tiger-no-1-via-dwights-way,"West Tiger No. 1 via Dwight's Way",0.0,fmvsd,2500,47.5304,2948,,8.0
+-117.8337,0,folsom-farm-smick-meadows,"Folsom Farm - Smick Meadows",0.0,lakd,,47.3835,,,
+-119.9731,0,beebe-creek-wildlife-area,"Beebe Creek Wildlife Area",0.0,rmvakd,0,47.8194,,,2.0
+-122.4136,0,port-of-skagit-nature-trails,"Port of Skagit Trails",0.0,kd,,48.4575,,,10.0
+-117.1964,0,browns-lake,"Browns Lake",0.0,lak,20,48.4362,2440,,1.0
+-120.8223,0,upper-twin-lake,"Upper Twin Lake",0.0,rlakd,300,47.8960,,,5.0
+-121.4437,0,palmer-mountain,"Palmer Mountain",0.0,s,5051,47.7398,4206,,
+-122.4531,4,pine-marten-trail,"Pine Marten Trail",3.2,,,48.6913,,,
+-121.4904,1,lester-ghost-town,"Lester Ghost Town",5.0,rmvkd,300,47.2099,1640,,7.5
+-121.0925,0,stacker-butte,"Stacker Butte",0.0,,1150,45.6949,3200,,5.0
+-117.0624,0,roosevelt-grove-of-ancient-cedars,"Roosevelt Grove of Ancient Cedars",0.0,,300,48.7665,3600,,2.5
+-122.9771,0,turtleback-mountain-preserve-ship-peak-loop,"Turtleback Mountain Preserve: Ship Peak Loop",0.0,cvkd,860,48.6416,931,,2.9
+-122.6955,0,strawberry-bay-and-reef-point,"Strawberry Bay and Reef Point",0.0,,2180,48.5867,960,,10.0
+-121.5740,4,spring-creek-green-mountain,"Spring Creek - Green Mountain",3.5,oms,1200,46.3305,5107,,8.2
+-121.8458,2,langille-ridge-trail,"Langille Ridge Trail",2.5,,,46.3661,,,
+-118.7281,0,thirteenmile-via-bear-pot-trailhead,"Thirteenmile via Bear Pot",0.0,,,48.4813,,,
+-122.0867,15,margarets-way,"Margaret's Way",3.5,ofvd,1500,47.5066,1730,,5.5
+-124.6382,14,rialto-beach-hole-in-the-wall,"Rialto Beach and Hole-in-the-Wall",3.9,caek,0,47.9211,0,,4.0
+-123.9512,4,spruce-nature-trail-hoh,"Spruce Nature Trail (Hoh)",3.5,roak,,47.8536,,,1.2
+-117.1817,0,antoine-peak-robbins-road-loop,"Antoine Peak - Robbins Road Snowshoe Loop",0.0,vd,250,47.7214,,,2.0
+-117.1026,0,eight-peaks-tour,"Mount Spokane State Park - Eight Peaks Tour",0.0,ofmvsapd,,47.9047,5889,,25.0
+-117.1519,0,gypsy-peak,"Gypsy Peak",0.0,lvad,1750,48.9457,7309,,16.0
+-122.7614,1,frenchmans-bar,"Frenchman's Bar ",3.0,rlvd!,0,45.6855,210,,2.5
+-120.7570,0,cowiche-mountain,"Cowiche Mountain",0.0,mad,1140,46.6598,2970,,7.0
+-115.9360,1,pulaksi-tunnel-trail,"Pulaski Tunnel Trail",5.0,kd,,47.4586,,,4.0
+-121.1470,4,mount-baldy,"Mount Baldy",4.0,,,47.3465,,,9.0
+-122.9009,0,castle-rock-riverfront-trail,"Castle Rock Riverfront Trail",0.0,rfkd,,46.2649,150,,3.4
+-122.6085,0,yelm-tenino-trail,"Yelm-Tenino Trail",0.0,rkd,0,46.9420,0,,29.0
+-120.4584,0,baldy-mountain-1,"Baldy Mountain",0.0,rmvsd,,46.7952,3212,,5.0
+-122.2070,2,green-lantern-trail,"Green Lantern Trail",3.0,lakd,33,47.8895,463,,2.8
+-120.6306,0,silver-star-mountain-okanogan,"Silver Star Mountain (Okanogan)",0.0,vs,4500,48.5500,8876,,
+-121.2898,0,klickitat-rail-trail-1,"Klickitat Rail Trail",0.0,,200,45.6972,1550,,31.0
+-120.8261,0,box-spring-canyon,"Box Spring Canyon",0.0,,900,46.8710,,,9.5
+-117.5508,0,riverside-state-park-deep-creek-canyon,"Riverside State Park - Deep Creek Canyon",0.0,rofmvapkd,968,47.7539,2165,,5.5
+-122.0098,0,lake-tye,"Lake Tye",0.0,lfmkd,9,47.8625,45,,2.0
+-122.1167,5,multnomah-falls,"Multnomah Falls",3.6,rwfmkd,100,45.5774,611,,1.2
+-121.5917,4,copper-ridge-loop,"Copper Ridge Loop",4.0,rlvsape,8600,48.9102,6260,,34.0
+-121.6748,29,mailbox-peak,"Mailbox Peak",4.1,fvs,4000,47.4675,4822,http://wta.org/kml/mailbox-peak.kmz,9.4
+-122.6439,1,john-tursi-trail,"John Tursi Trail",4.0,coapkd,600,48.4170,,,2.2
+-122.6213,1,mccormick-forest-park,"McCormick Forest Park",2.0,ofakd,200,47.3512,400,,3.0
+-122.4081,0,fallen-leaf-lake-trail,"Fallen Leaf Lake",0.0,lakd,,45.5998,,,1.4
+-121.5842,0,dalles-ridge-snowshoe,"Dalles Ridge Snowshoe",0.0,rk,1800,47.0923,4000,,8.0
+-117.1685,2,puffer-butte,"Field Springs State Park - Puffer Butte",4.0,fvskd,,46.0801,,,4.4
+-117.1211,0,mckenzie-conservation-area,"McKenzie Conservation Area",0.0,lfmvakd,200,47.8013,2400,,5.0
+-122.2980,0,terrace-creek-park,"Terrace Creek Park",0.0,fmakd,80,47.7874,440,,2.0
+-122.9127,0,capitol-lake-north-basin-shoreline-trail-and-sidewalk-loop-marathon-park-heritage-park,"Capitol Lake Trails (Marathon Park and Heritage Park)",0.0,lvkd,,47.0369,,,5.7
+-120.7310,0,rainbow-mcalester-loop,"Rainbow-McAlester Loop",0.0,lmape,6650,48.5076,6300,,31.5
+-121.6304,0,granite-lakes-connector-trail,"Granite Creek Connector Trail",0.0,rfv,900,47.5047,,,2.6
+-122.9428,2,lake-sacajawea,"Lake Sacajawea",4.5,lofkd,,46.1292,,,3.5
+-121.6844,2,sultan-river-canyon-trail,"Sultan River Canyon Trail",3.5,rwk,850,47.9733,,,4.2
+-121.3604,0,mount-thomson,"Mount Thomson",0.0,,,47.4724,,,
+-120.6306,0,big-snagtooth,"Big Snagtooth",0.0,,4000,48.5480,8330,,
+-122.2614,0,kalama-river,"Kalama River",0.0,rloak,500,46.1695,2500,,8.0
+-122.6556,2,trail-of-ten-falls,"Silver Falls State Park",5.0,wofmak,800,44.8777,,,8.7
+-117.1315,0,burping-brook-smith-gap-loop,"Mount Spokane - Burping Brook-Smith Gap Loop",0.0,mvakd,500,47.8857,4400,,5.0
+-117.6562,2,quartzite-mountain,"Quartzite Mountain",4.0,mvsd,,48.2738,3714,,3.0
+-122.8460,0,sunrise-rock,"Sunrise Rock",0.0,,280,48.6480,660,,1.4
+-123.0413,0,boundary-bay-regional-park,"Boundary Bay Regional Park",0.0,,0,49.0159,10,,2.0
+-118.1412,0,sherman-point-loop,"Sherman Point Loop",0.0,rmapd,200,48.5852,1475,,3.0
+-122.3311,0,picnic-point,"Picnic Point",0.0,vsakd,,47.8805,,,1.0
+-122.8846,0,upright-head-preserve,"Upright Head Preserve",0.0,,300,48.5688,160,,1.2
+-123.0736,3,tunnel-creek-dosewallips-trailhead,"Tunnel Creek - Dosewallips Trailhead",5.0,rovpd,4550,47.7389,5050,,6.4
+-123.1369,1,upper-dungeness-river,"Upper Dungeness River",4.0,roekd,600,47.8776,3100,,6.8
+-122.8891,0,watershed-park,"Watershed Park",0.0,roakd,150,47.0285,300,,1.4
+-121.5884,0,philadelphia-mountain,"Philadelphia Mountain",0.0,,,47.7818,,,
+-122.6448,0,deception-pass-state-park-pass-lake,"Deception Pass State Park - Pass Lake",0.0,lakd,,48.4171,,,3.4
+-121.0971,4,mount-daniel,"Mount Daniel",4.0,vs,,47.5434,,,
+-123.4260,1,peabody-creek-trail,"Peabody Creek Trail",4.0,rmkd,800,48.0993,1100,,5.6
+-122.3858,0,lily-lizard-lake-loop,"Lily and Lizard Lake Loop",0.0,lwomvapekd,1400,48.6170,2120,,7.2
+-121.0386,5,"image-lake-via-miners ridge","Image Lake via Miners Ridge",4.0,lomvped,4400,48.1921,6000,,31.8
+-122.5455,0,columbia-springs,"Columbia Springs ",0.0,lmakd!,10,45.5994,20,,0.3
+-122.1525,6,goat-creek-1,"Goat Creek",4.2,rwokd,400,46.4305,2400,,11.0
+-124.0438,4,leadbetter-point-state-park-dune-forest-loop,"Leadbetter Point State Park - Dune Forest Loop",1.5,cakd,60,46.6070,35,,2.9
+-121.7365,1,moraine-trail,"Moraine Trail",5.0,rmvp,400,46.7864,5850,,2.2
+-120.7353,0,joe-watt-canyon,"Joe Watt Canyon",0.0,,1000,47.0711,3100,,6.0
+-121.4064,0,pyramid-peak,"Pyramid Peak",0.0,,1000,47.1157,5715,,6.5
+-123.0243,0,frazer-homestead-preserve,"Frazer Homestead Preserve",0.0,,80,48.4649,210,,2.6
+-123.5483,0,goldstream-provincial-park-grand-loop,"Goldstream Provincial Park: Grand Loop",0.0,,1110,48.4799,510,,5.6
+-123.7020,0,coast-trail-mount-maguire-loop,"Coast Trail: Mount Maguire Loop",0.0,,2600,48.3534,879,,10.2
+-123.1479,0,bell-point-and-english-camp,"Bell Point and English Camp",0.0,,50,48.5865,50,,1.7
+-121.7426,0,bear-lake-3,"Bear Lake",0.0,,475,45.6363,4100,,2.4
+-118.5216,0,midnight-mountain,"Midnight Mountain",0.0,,2250,48.7285,6150,,10.6
+-117.0586,1,split-creek-trail,"Liberty Lake Regional Park - Split Creek Trail",3.0,fmakd,,47.6311,,,4.1
+-120.8725,4,teanaway-peak-genes-peak,"Teanaway Peak/Gene's Peak",3.0,vs,,47.3892,6779,,
+-122.2601,6,blue-horse-trail,"Blue Horse Trail",2.5,lmvae,1250,46.1691,4000,,10.4
+-117.1076,1,john-wayne-trail-tekoa,"John Wayne Trail - Tekoa Trailhead",4.0,fmkd,,47.2227,,,
+-116.9589,0,mccroskey-memorial-state-park,"McCroskey Memorial State Park",0.0,kd,,47.0752,,,
+-122.3554,4,lookout-mountain-forest-preserve,"Lookout Mountain Forest Preserve",3.0,rlwmkd,,48.7191,,,2.2
+-121.6349,1,indian-bar-summerland-traverse,"Indian Bar - Summerland Traverse",5.0,wmvape,4400,46.7656,6800,,34.0
+-121.8654,1,blue-lake-3,"Blue Lake",3.0,lfmvkd,,46.2303,5200,,5.2
+-122.4422,0,iverson-spit,"Iverson Spit",0.0,cfmvakd,,48.2111,,,1.0
+-122.1310,0,phantom-lake-loop,"Phantom Lake Loop",0.0,lfkd,130,47.5924,370,,3.2
+-121.7351,0,wonderland-trail-thru-hike,"Wonderland Trail",0.0,rlwomvape,22000,46.7849,6750,,93.0
+-121.6748,99,mailbox-peak-old-trail,"Mailbox Peak - Old Trail",4.3,omvsd,4000,47.4674,4822,,5.2
+-120.6936,1,hock-mountain,"Hock Mountain",3.0,ofmvsap,5000,48.5091,7750,,16.0
+-122.3609,1,yost-park,"Yost Park",2.0,fmakd,220,47.8085,360,,1.5
+-122.0085,6,adventure,"Adventure Trail",2.2,lkd!,300,47.5264,800,,1.4
+-120.4787,8,abernathy-pass,"Abernathy Pass via Cedar Creek",3.8,wfped,3400,48.5792,6400,,18.0
+-122.3400,7,alger-alp-south-route,"Alger Alp (South Route)",3.1,vskd,1000,48.6200,1350,,4.0
+-121.9607,0,aldrich-butte,"Aldrich Butte",0.0,rmvkd!,1129,45.6554,3400,,3.6
+-121.8434,6,allen-mountain,"Allen Mountain",4.0,,,46.6564,,,
+-121.9421,2,alki-crest,"Alki Crest",2.5,sp!,,46.9819,,,
+-122.1361,7,abraham,"Windy Ridge and Plains of Abraham",3.9,mvp,1400,46.2489,4850,,8.8
+-121.4703,0,abiel-peak,"Abiel Peak",0.0,,,47.3528,,,
+-121.5528,9,adams-creek-meadows,"Adams Creek Meadows",3.8,rwmv,2300,46.2884,6840,,8.0
+-121.1755,3,1308.2,"Domerie Divide Trail",3.3,,,47.2669,,,
+-121.1500,0,1063-surprise-mtn,"Surprise Mountain",0.0,lspe,,47.7065,6330,,
+-121.3738,11,alaska-lake,"Gold Creek - Alaska Lake",2.5,rlwved,2024,47.4011,4624,,14.0
+-122.5865,1,ala-spit,"Ala Spit",4.0,cvakd,10,48.3987,,,1.0
+-124.6824,6,allens-bay,"Allens Bay",1.8,,,48.0389,,,
+-120.8207,2,aasgard-pass,"Aasgard Pass",3.5,rlwfvp,4400,47.5279,7800,,12.2
+-120.7733,5,agnes-creek,"Agnes Creek",3.2,,,48.2007,,,
+-121.3736,3,alaska-lake-snowshoe,"Alaska Lake Snowshoe",3.3,rl!,1600,47.4017,4200,,12.0
+-121.7350,5,alta-vista-loop,"Alta Vista Loop",3.0,mvak,560,46.7860,5960,,1.5
+-120.8403,5,agnes-gorge,"Agnes Gorge",3.0,rfmvak,300,48.3807,2000,,5.5
+-121.3894,5,45-mile-sheep-drive,"45 Mile Sheep Drive",4.0,,,47.3847,,,
+-121.2889,3,amabilis-mt,"Amabilis Mountain Snowshoe",3.0,vsa,2100,47.2965,4570,,9.5
+-117.5208,7,abercrombie,"Abercrombie Mountain Trail",2.6,mvsd,2350,48.9060,7300,,7.3
+-120.7944,7,alpine-lakes-high-route,"Alpine Lookout",3.3,mvapd,2600,47.7923,6235,,10.0
+-120.5195,0,abernathy-peak,"Abernathy Peak",0.0,,,48.4352,,,
+-123.4195,2,grand-valley-via-grand-pass,"Grand Valley via Grand Pass",4.0,lmvsp,4070,47.9396,6450,,12.0
+-123.1905,0,dungeness-recreation-area,"Dungeness Recreation Area",0.0,cvaekd,0,48.1413,,,3.0
+-117.1247,1,three-peaks-loop,"Mount Spokane State Park - Three Peaks Loop",4.0,ofmvsad,2858,47.9046,5883,,12.6
+-121.3273,4,kettle-creek,"Kettle Creek",4.5,,,46.9437,,,
+-121.5924,5,kelcema-lake,"Kelcema Lake",3.8,lakd,29,48.1154,3040,,1.2
+-121.0859,4,lake-creek,"Lake Creek",2.5,,,47.9182,,,
+-120.8918,3,lake-donald-central-cascades-stevens-pass-west,"Lake Donald",2.3,lwfmved,,47.7331,,,
+-121.4133,4,kendall-peak,"Kendall Peak",3.0,,2800,47.4279,5784,,9.2
+-121.3761,3,kendall-peak-lakes,"Kendall Peak Lakes",2.3,rlwvd,2030,47.4285,4500,,7.0
+-121.5523,2,kelcema-lake-snowshoe,"Lake Kelcema Snowshoe",3.0,lva!,1600,48.0849,3182,,10.0
+-121.4134,47,kendall-katwalk,"Kendall Katwalk",4.0,ofmvpd,2600,47.4287,5400,,12.0
+-120.2317,0,keystone-ridge,"Keystone Ridge",0.0,mvs,,47.6475,,,8.4
+-122.4531,2,lake-padden-park,"Lake Padden Park",4.0,loakd,400,48.7021,800,,7.7
+-124.6679,34,lake-ozette,"Cape Alava Loop (Ozette Triangle)",4.1,cae!,100,48.1536,350,,9.4
+-118.3800,1,king-mountain,"King Mountain",3.0,,,48.7424,,,
+-120.8210,15,lake-stuart,"Lake Stuart",3.5,love,1665,47.5277,5065,,9.0
+-121.5738,239,lake-serene,"Lake Serene - Bridal Veil Falls",4.5,lwmvkd!,2000,47.8090,2521,,8.2
+-121.2918,5,klickitat-rail-trail,"Klickitat Rail Trail - Klickitat River",4.0,rfmad,200,45.6947,350,,10.5
+-121.0943,4,lake-clarice,"Lake Clarice",2.0,,,47.5421,,,
+-120.7658,4,klonaqua-lakes,"Klonaqua Lakes",3.0,,,47.5502,,,
+-121.0303,4,labyrinth-mountain,"Labyrinth Mountain",2.8,,,47.8279,,,
+-121.3952,7,kendall-peak-lakes-snowshoe,"Kendall Peak Lakes Snowshoe",4.1,lvd!,1700,47.3978,4400,,9.0
+-118.4845,8,kettle-crest-north,"Kettle Crest North",3.5,ofmvsaped,5200,48.6091,7135,,29.0
+-121.0876,2,kodak-peak,"Kodak Peak",4.0,mvsp,420,47.9184,6121,,18.0
+-121.6146,8,lake-isabel,"Lake Isabel",3.1,l,,47.8486,,,7.0
+-123.1523,10,lake-constance,"Lake Constance",3.2,,3300,47.7333,4650,,4.0
+-121.8876,7,lake-george,"Lake George",2.7,rlwovek,930,46.7834,,,9.2
+-121.2395,4,kindy-creek,"Kindy Creek",2.5,,,48.4697,,,
+-120.7914,9,lake-ann-1,"Lake Ann",3.4,lmvpe,2200,47.5465,6500,,8.2
+-121.4805,13,kelly-butte,"Kelly Butte",3.8,fmvsa,900,47.1625,5409,,3.4
+-121.8645,5,knapsack-pass,"Knapsack Pass",3.0,lfmvp,1300,46.9332,6200,,2.9
+-123.4609,11,klahhane-ridge,"Klahhane Ridge",4.5,mvsap,1700,47.9871,6050,,5.0
+-121.3474,3,lake-laura-backdoor,"Lake Laura Backdoor",3.0,rlwomvpe,1000,47.3906,4800,,3.0
+-120.8139,6,lake-caroline,"Lake Caroline",2.7,la,3100,47.5360,6300,,11.5
+-121.7457,176,lake-22,"Lake Twentytwo - Lake 22",4.2,rlwomvakd,1350,48.0770,2400,,5.4
+-121.5196,6,lake-elizabeth,"Lake Elizabeth",2.7,mkd,50,47.8011,2900,,0.7
+-120.8330,7,lake-ethel,"Lake Ethel",3.3,lofmvaed,3500,47.7722,5735,http://wta.org/kml/lake-ethel.kmz,9.5
+-121.1825,5,knox-creek,"Thorp Mountain via Knox Creek",2.2,,,47.3566,,,
+-121.2079,4,kelley-creek,"Kelley Creek",3.2,lomv,,47.7323,,,
+-123.5526,1,lake-aldwell-overlook-trail,"Lake Aldwell Overlook Trail",4.0,crkd,,48.0977,,,
+-122.3920,1,lacamas-lake-park,"Lacamas Park - Lacamas Creek",5.0,rlwfmakd!,350,45.5894,400,,4.5
+-120.8207,1,little-annapurna,"Little Annapurna",5.0,,,47.5280,,,
+-120.1795,2,little-bear-trail,"Little Bear Trail",4.0,lmaekd,250,47.8670,1350,,2.3
+-121.7372,6,lakes-trail,"Lakes Trail",3.8,lwvap,1550,46.7858,5800,,5.2
+-117.5316,6,little-pend-oreille,"Mill Butte - Little Pend Oreille",2.3,rosakd,600,48.6238,2619,,4.5
+-121.6049,0,little-mason-lake,"Little Mason Lake",0.0,,,47.4560,,,
+-121.7748,5,lemei-lake,"Lemei Lake",2.8,lmakd,500,46.0184,5100,,5.0
+-121.8693,6,layser-cave,"Layser Cave",2.2,ovkd,100,46.4597,2400,,0.2
+-121.2486,5,little-kachess,"Little Kachess",3.0,,,47.3593,,,
+-121.7469,4,lake-twentytwo-snowshoe,"Lake Twentytwo / Lake 22 Snowshoe",2.8,lv,1200,48.0776,2440,,5.0
+-122.0403,0,lake-wilderness-park,"Lake Wilderness Park",0.0,,,47.3799,,,
+-123.5940,6,lake-sylvia-state-park,"Lake Sylvia State Park",2.5,laekd,30,46.9973,170,,5.0
+-121.5369,6,little-ranger-peak,"Little Ranger Peak via Ranger Creek",3.2,ofvakd,2500,47.0243,5010,,12.0
+-123.3821,5,lillian-ridge,"Lillian Ridge",3.8,vpk,200,47.9180,6100,,4.0
+-121.9325,42,lime-kiln,"Lime Kiln Trail",3.5,rofkd!,625,48.0774,750,http://wta.org/kml/lime-kiln.kml,7.0
+-121.1206,3,little-bald-mountain,"Little Bald Mountain",2.7,,,46.9815,,,
+-121.6874,5,lake-wapiki,"Lake Wapiki",3.8,lmped,100,46.0303,5100,,7.0
+-122.1172,0,larch-mountain,"Larch Mountain",0.0,mvsekd,4000,45.5776,4050,,14.4
+-122.3176,4,little-mashel-falls,"Pack Forest - Little Mashel Falls",4.0,rwoa,500,46.8432,1100,,5.0
+-121.0651,1,lichtenberg-mountain,"Lichtenberg Mountain",5.0,,,47.7989,,,
+-121.5571,6,laughingwater-creek,"Laughingwater Creek to Three Lakes",3.0,le,2800,46.7516,4880,,12.0
+-121.7063,6,little-huckleberry,"Little Huckleberry Mountain",3.5,fvs,1800,45.9042,4781,,5.0
+-123.8641,7,little-divide,"Mink Lake to Little Divide",3.0,rlwomvape,2500,47.9693,4130,,15.6
+-119.4938,6,lenore-lake-caves,"Lenore Lake Caves",3.5,ma!,200,47.5174,1300,,1.5
+-122.1756,1,langus-riverfront-park,"Langus Riverfront Park",2.0,rakd,,48.0002,,,3.0
+-121.5080,1,lennox-5894-attempt,"Lennox Mountain",4.0,rlvs,,47.6744,5894,,
+-120.6470,1,larch-lakes-entiat,"Larch Lakes (Entiat)",4.0,lfsp,2600,48.0238,5750,,16.0
+-122.2671,11,lakes-trail-1,"Lakes Trail",3.3,lva,500,46.2915,3000,,8.0
+-120.2197,0,lewis-butte,"Lewis Butte",0.0,mvd,1000,48.5071,3346,,3.0
+-124.0456,0,leadbetter-point-state-park-hines-marsh,"Leadbetter Point State Park - Hines Marsh",0.0,,,46.5979,,,
+-122.3028,3,little-mountain-park,"Little Mountain Park",3.3,fvkd,300,48.3985,934,,10.0
+-120.3179,4,larch-creek,"Larch Creek",3.2,rve,,48.7825,,,
+-121.9436,2,lingering-trail,"Lingering Trail",2.0,d,400,47.5304,1250,,1.0
+-121.2810,4,lemah-meadow,"Lemah Meadow",3.0,,,47.4623,,,
+-122.4186,4,lily-lake-trail,"Lily Lake and Lizard Lake",2.8,lved,1080,48.5715,1980,,8.2
+-122.6449,5,little-cranberry-lake-anacortes-community-forest-lands,"Little Cranberry Lake",3.0,clfmad,125,48.5042,250,,1.5
+-121.0136,4,lanham-lake,"Lanham Lake",2.2,lv,1140,47.7716,4140,,3.2
+-121.0125,9,lanham-lake-snowshoe,"Lanham Lake Snowshoe",3.4,lf!,1100,47.7727,4100,,3.2
+-120.8497,0,lake-victoria,"Lake Victoria",0.0,,,47.6076,,,
+-121.7563,96,little-si,"Little Si",3.5,vkd!,1300,47.4878,1550,http://wta.org/kml/little-si.kmz,4.7
+-123.0419,6,little-quilcene-river,"Little Quilcene River",3.3,mvsap,2180,47.8866,6200,,6.8
+-121.9065,8,lewis-river-falls,"Lewis River Falls",4.0,rkd,450,46.1022,1300,,8.8
+-121.5291,3,little-saint-helens,"Little Saint Helens",2.7,vs!,1200,47.3691,4582,,
+-121.3790,6,little-joe-lake,"Joe Lake",4.5,lomve,2235,47.3958,4625,,16.0
+-121.5999,6,lilly-basin,"Johnson Peak-Lily Basin",3.5,m,1900,46.5641,6100,,12.0
+-122.0890,11,lava-canyon,"Lava Canyon",3.8,rwkd,1600,46.1654,2800,,5.0
+-123.1512,47,lena-lake,"Lena Lake",4.1,lwomvekd,1300,47.5997,2000,,7.2
+-120.8096,4,lake-wenatchee-state-park-shore-trail,"Lake Wenatchee State Park",2.8,rlvekd,75,47.8238,1950,,2.5
+-121.9353,4,lava-butte,"Lava Butte",3.2,rm,1100,45.9487,2400,,2.5
+-122.1119,4,licorice-fern,"Licorice Fern Trail",3.5,womad,200,47.5028,700,,3.8
+-120.8286,5,little-giant,"Little Giant Pass",3.2,rmvp,4000,48.0258,6409,,10.0
+-122.3927,2,lincoln-park,"Lincoln Park",4.0,cokd,160,47.5315,160,,1.9
+-121.0323,1,lichtenwasser-lake-snowshoe,"Lichtenwasser Lake Snowshoe",3.0,,,47.7845,,,
+-124.0521,5,leadbetter-state-park-leadbetter-point,"Willapa National Wildlife Refuge - Leadbetter Point",3.2,ck,50,46.5970,35,,10.6
+-120.2900,7,libby-lake,"Libby Lake",3.1,lfvp,3320,48.2759,7618,,11.0
+-121.0883,27,lake-valhalla,"Lake Valhalla",4.3,rwfsk,1500,47.7479,5050,,7.0
+-122.2177,1,latourell-falls,"Latourell Falls",2.0,w,540,45.5387,600,,2.3
+-118.7412,4,lakeview-ranch,"Lakeview Ranch",3.8,la,600,47.4138,1800,,13.0
+-123.5011,5,little-river,"Little River",2.2,romvp,,48.0571,5600,,16.0
+-120.8437,10,larch-lake,"Larch Lake",3.5,lwmvp,2450,47.7283,6078,,12.0
+-121.0343,2,lake-valhalla-snowshoe,"Lake Valhalla Snowshoe",4.0,lv!,1700,47.7847,4800,,13.0
+-117.4211,3,little-spokane-river,"Riverside State Park - Little Spokane River",1.7,rak,1010,47.7713,2459,,6.8
+-121.5511,4,lake-vicente,"Lake Vicente",3.0,l,,47.5430,,,
+-123.1502,3,lime-kiln-state-park,"Lime Kiln State Park",3.7,ck,50,48.5158,,,1.2
+-123.1456,4,lena-lake-valley-of-silent-men-snowshoe,"Lena Lake - Valley of Silent Men Snowshoe",2.8,o,2000,47.6009,2800,,10.0
+-122.3090,5,lake-whatcom-trail,"Lake Whatcom Trail",3.6,lwofvakd,100,48.7302,,,6.2
+-122.3175,13,lunds-gulch-meadowdale-county-park,"Lunds Gulch / Meadowdale Beach Park",3.4,crvd,425,47.8558,425,,2.5
+-121.3803,12,lower-gold-creek-basin-snowshoe,"Lower Gold Creek Basin Snowshoe",3.4,lvkd!,400,47.3895,3000,,4.0
+-122.1363,13,loowit,"Loowit Trail",3.4,rwmvpe,6000,46.2497,4800,,28.0
+-120.9406,5,manastash-lake-1350,"Manastash Lake",3.6,lfmaekd,2100,47.0248,5063,,8.0
+-123.7326,4,lower-petes-creek,"Lower Pete's Creek",2.5,rokd,1000,47.4570,1500,,2.0
+-121.4424,3,lower-tuscohatchie-lake-1011,"Lower Tuscohatchie Lake ",4.7,,,47.4133,,,
+-123.1764,7,main-fork-dosewallips-river,"Main Fork Dosewallips River",4.7,,,47.7378,,,
+-120.5127,5,lost-river,"Lost River",2.8,rmad,300,48.6562,2700,,8.0
+-121.0148,6,little-wenatchee-river,"Little Wenatchee Gorge",3.3,rek,250,47.8749,2500,,3.0
+-120.8404,0,little-wenatchee-river-road-snowshoe,"Little Wenatchee River Road Snowshoe",0.0,!,,47.8391,,,
+-120.4271,4,lower-mad-river,"Lower Mad River Valley",3.2,romae,300,47.7589,2000,,6.5
+-120.3113,4,louie-trail,"Louie Trail",2.2,,,46.5702,,,
+-120.9406,12,manastash-ridge,"Manastash Ridge",3.7,mvp!,1700,47.0248,,,4.0
+-120.9272,5,lost-lake,"Whitepine Creek",2.4,rov,400,47.7706,3200,,5.0
+-122.2270,2,luther-burbank-park,"Luther Burbank Park",3.5,clfmkd,120,47.5890,120,,3.0
+-120.8437,6,loch-eileen,"Lake Julius and Loch Eileen",2.5,lwfm,1400,47.7283,5508,,7.0
+-121.5792,2,little-tahoma,"Little Tahoma",2.5,,,46.8938,,,
+-121.4036,3,maintenance-shed-road,"Maintenance Shed Road",2.3,vspkd!,400,46.6343,4700,,7.0
+-118.2337,4,log-flume,"Log Flume",3.2,,0,48.5817,,,0.4
+-120.6270,4,lone-fir,"Lone Fir",4.5,rk,,48.5799,,,2.0
+-123.0946,7,lower-dungeness-river,"Lower Dungeness River",3.6,rod,1000,47.9307,2500,,12.6
+-123.8358,4,lunch-lake,"Lunch Lake",3.5,lmve,,47.9553,,,
+-121.4693,0,low-mountain,"Low Mountain",0.0,s,3300,47.4348,5420,,6.0
+-123.3297,9,lower-south-fork-skokomish-river,"Lower South Fork Skokomish River",3.2,rwvaed!,800,47.4190,900,,8.5
+-119.2017,5,madison-falls,"Madison Falls",2.4,wofmk,,35.2243,,,0.2
+-120.1846,5,lookout-mountain-lookout-okanogan,"Lookout Mountain Lookout - Methow",4.2,mvs,1100,48.3241,5518,,3.0
+-121.2938,3,lookout-mountain-1,"Lookout Mountain Lookout",3.7,mvs,4500,48.5372,5719,,9.4
+-121.4751,5,lost-lake-1,"Lost Lake",3.4,,,47.1054,,,
+-121.3492,7,lost-creek-ridge,"Lost Creek Ridge",4.6,,,48.0958,,,
+-123.1229,4,living-legacy-interpretive-trail,"Living Legacy Interpretive Trail",2.8,k,,47.5954,,,1.5
+-122.9649,6,lower-big-quilcene-river,"Lower Big Quilcene River",3.7,rome,800,47.7835,2000,,10.0
+-122.3324,3,lynndale-loop,"Lynndale Loop",2.0,kd,,47.8302,,,1.0
+-122.1925,3,lowell-riverfront-park-trail,"Lowell Riverfront Park Trail",3.7,rfvakd,0,47.9478,,,3.0
+-120.3108,4,lower-railroad-creek,"Lower Railroad Creek",3.5,,,47.9869,,,
+-122.1442,3,loowit-falls,"Loowit Falls",5.0,lwmv,800,46.2376,,,9.2
+-120.6578,5,magnet-creek,"Magnet Creek",2.8,mvpd,2300,47.4104,4400,,6.0
+-122.0771,0,maple-falls-trail,"Maple Falls Trail",0.0,,,48.9245,,,
+-120.5312,9,louis-lake,"Louis Lake",3.6,lomve,2300,48.4395,5351,,10.5
+-121.6323,2,mallardy-ridge-snowshoe,"Mallardy Ridge Snowshoe",3.0,vp!,1900,48.0654,3500,,10.0
+-120.9372,9,longs-pass,"Longs Pass",4.1,mvk,2100,47.4367,6250,,5.0
+-121.4204,13,lodge-lake,"Lodge Lake",3.8,lkd,500,47.4273,3500,,3.0
+-121.9475,8,lower-falls-creek,"Lower Falls Creek Trail",3.5,rwok,800,45.9080,2200,,5.0
+-124.0625,5,long-beach-boardwalk,"Long Beach Boardwalk",2.8,,,46.3306,,,
+-123.8499,6,lovers-lane-loop,"Lover's Lane Loop",3.3,rwofek,,47.9622,,,5.8
+-121.7240,5,louise-lake,"Louise Lake",2.8,lpk,300,46.7689,4880,,2.0
+-121.3866,2,lundin-peak-trail,"Lundin Peak",3.5,mvsp,700,47.4560,6000,,
+-123.7884,13,marymere-falls,"Marymere Falls",3.7,rwok,500,48.0578,1100,,1.8
+-121.7350,7,mazama-ridge,"Mazama Ridge Snowshoe",4.3,lvp!,900,46.7860,5700,,6.0
+-121.9467,2,middle-fork-nooksack-river-snowshoe,"Middle Fork Nooksack River Snowshoe",1.5,rova!,900,48.7462,3000,,7.0
+-120.8380,2,mcgregor-mountain-trail,"McGregor Mountain Trail",2.0,lmvs,6200,48.3801,8122,,16.0
+-120.6669,6,middle-fork-pasayten-river,"Middle Fork Pasayten River",3.0,rvsped,,48.7326,,,46.0
+-121.6067,4,marten-creek-snowshoe,"Marten Creek Snowshoe",2.5,o,1300,48.0719,2800,,7.5
+-121.9333,5,middle-tiger,"Middle Tiger",4.0,osad,1127,47.4669,2607,,9.0
+-120.9186,4,miller-creek-falls,"Miller Creek Falls",3.2,,,48.7068,,,
+-120.8848,11,merritt-lake,"Merritt Lake and Lost Lake",3.7,lofvpd,2100,47.7912,5023,,5.5
+-121.8124,5,mildred-point,"Mildred Point",4.6,womvp,3135,46.7517,5900,,7.0
+-120.7858,5,miller-peak,"Miller Peak",2.4,ma,3200,47.3685,6400,,8.0
+-122.8366,9,mary-e-theler-wetlands-nature-preserve,"Mary E. Theler Wetlands Nature Preserve",3.1,fak!,50,47.4381,50,,3.5
+-119.4383,0,mclaughlin-canyon-trail,"McLaughlin Canyon Trail",0.0,rfmak,200,48.6513,,,3.0
+-122.0782,7,meta-lake,"Meta Lake",3.3,lvk,0,46.2960,3625,,0.6
+-123.0408,45,marmot-pass-upper-big-quilcene,"Marmot Pass - Upper Big Quilcene",4.3,rwomvapekd,3489,47.8278,6000,,11.5
+-121.0515,4,meadow-creek,"Meadow Creek",3.0,,,47.5610,,,
+-123.0042,11,mclane-creek,"Capitol State Forest - McLane Creek",4.1,lfakd,50,47.0008,60,,1.5
+-122.0399,5,melmont-ghost-town-hike,"Melmont Ghost Town",3.4,romvapek,100,47.0420,1360,,6.0
+-121.4148,1,maui-falls-co5,"Coyote Wall - Moab/Maui Loop ",4.0,rmkd,850,45.6993,900,,3.8
+-118.2179,5,marmes-pond-lyons-ferry-park,"Lyons Ferry State Park - Marmes Pond",2.8,rlmad,150,46.5961,750,,4.0
+-121.8841,4,mcdonald-mountain,"McDonald Mountain",4.0,vapd,3500,47.3568,3750,,15.0
+-117.8087,0,middle-point-ridge-3116,"Middle Point Ridge",0.0,,1730,46.1359,5130,,5.5
+-121.1910,4,milk-creek,"Milk Creek",3.5,romvae,2100,48.2457,3900,,34.7
+-121.7936,5,mccoy-peak,"McCoy Peak",3.2,vs,3200,46.3332,5856,,8.4
+-121.4432,59,melakwa-lake,"Melakwa Lake",4.2,lwoped,2500,47.4151,4600,http://wta.org/kml/melakwa-lake.kmz,8.5
+-122.1087,1,mcgarvey-park,"McGarvey Park",3.0,kd,,47.4468,,,5.0
+-121.0874,6,meander-meadows-spur,"Meander Meadows",3.2,rmvaed,1980,47.9183,4992,,12.5
+-121.0766,7,meander-meadow-dishpan-gap-cady-ridge-loop,"Meander Meadow - Dishpan Gap - Cady Ridge Loop",4.0,rofmvape,,47.9016,5600,,16.0
+-120.8823,5,massie-lake,"Massie Lake",2.2,,,48.1224,,,
+-120.9624,4,middle-fork-teanaway-river,"Middle Fork Teanaway River",4.2,oma,300,47.2978,3000,,7.0
+-121.2076,6,meadow-creek-1,"Meadow Creek",3.8,,,47.8274,,,
+-117.7322,0,mcdowell-marsh-environmental-education-trail,"McDowell Marsh Environmental Education Trail",0.0,lak,,48.4617,,,1.2
+-121.1298,1,meeks-table,"Meeks Table",3.0,fmv,,46.8125,,,3.4
+-121.1943,7,marmot-lake,"Marmot Lake",3.7,rlfvped,,47.6529,4500,,28.0
+-122.7509,0,maple-hollow-park,"Maple Hollow Park",0.0,crf,,47.2955,,,
+-121.4209,4,mesatchee-creek,"Mesatchee Creek",3.0,rlwmd,1300,46.9064,5900,,10.4
+-121.3582,15,margaret-lake,"Margaret Lake",2.8,lvpd,1500,47.3642,5100,,6.0
+-121.4593,3,merchant-peak,"Merchant Peak",4.7,,,47.7923,,,
+-123.2612,13,mildred-lakes,"Mildred Lakes",3.3,,2300,47.5753,4100,,9.0
+-120.7354,50,maple-pass,"Heather - Maple Pass Loop",4.7,lofmvap,2000,48.5162,6650,,7.2
+-122.1141,4,military-road,"Sky Country",2.5,kd,,47.5311,,,0.8
+-121.5328,4,marten-lake,"Marten Lake",3.0,l,,47.5597,,,
+-121.5884,21,mcclellan-butte,"McClellan Butte",3.8,omvs,3700,47.4142,5162,,9.0
+-120.3686,4,middle-fork-entiat-river,"Middle Fork Entiat River",2.2,,,47.7436,,,
+-121.9017,4,mcclellan-meadows,"McClellan Meadows to Indian Racetrack Snowshoe",4.2,rlovsape,1250,46.0097,4350,,15.0
+-121.4950,6,marten-creek,"Marten Creek",2.3,o,1400,48.0709,2800,,6.6
+-121.5384,19,middle-fork-snoqualmie-upstream,"Middle Fork Snoqualmie River",3.7,rwovakd,200,47.5480,1100,,12.0
+-121.3709,4,meadow-mountain,"Meadow Mountain",2.0,romvaped,3850,48.1894,5850,,35.0
+-122.1933,4,mercer-slough-nature-park-trails,"Mercer Slough Nature Park Trails",3.0,rlakd,,47.5915,,,6.0
+-121.1073,7,mig-lake,"Hope and Mig Lakes",2.9,lkd,1550,47.7128,4650,,5.0
+-120.3987,13,marion-and-clara-lakes,"Clara and Marion Lakes",3.9,lakd,900,47.2942,5475,,3.2
+-121.8492,1,marckworth-forest,"Marckworth Forest",2.0,la,530,47.7754,760,,
+-121.7336,1,mazama-ridge-narada-falls-trail-loop,"Mazama Ridge - Narada Falls Trail Loop",4.0,,,46.7867,,,
+-121.4873,1,mosier-twin-tunnels,"Mosier Twin Tunnels",2.0,rmkd,730,45.7034,540,,9.4
+-121.5741,4,monte-carlo,"Monte Carlo",1.8,omvs,800,45.8919,4078,,4.0
+-121.4443,23,mount-catherine,"Mount Catherine",4.0,mvskd,1330,47.3701,5052,,3.0
+-121.3992,0,miller-river-road-backcountry-ski,"Miller River Road Snowshoe",0.0,rok,700,47.7146,2200,,7.4
+-121.2373,4,mineral-creek,"Mineral Creek",3.0,,,47.4176,,,
+-121.8504,0,moss-lake,"Moss Lake",0.0,lkd,,47.6928,,,2.5
+-121.8973,3,mount-baker,"Mount Baker",2.3,,,48.8072,10778,,
+-122.6294,6,mount-erie,"Mount Erie",4.7,clvsad,1000,48.4690,1300,,5.0
+-121.4012,0,mosier-creek-falls,"Mosier Plateau",0.0,rwmk,540,45.6861,581,,2.5
+-121.5577,5,mount-gardner,"Mount Gardner",2.8,vad,1500,47.3912,3800,,12.0
+-122.9506,9,mount-jupiter,"Mount Jupiter",3.0,mvs,3600,47.6866,5701,,14.4
+-121.5429,6,mount-adams-highline,"Mount Adams Highline",3.5,lmv,1550,46.3095,7750,,22.2
+-117.7144,4,mount-misery,"Mount Misery",2.8,mvsapekd,1000,46.1182,6401,,16.0
+-119.6678,4,moses-coulee-preserve,"Moses Coulee Preserve",3.8,rwma,0,47.6533,1750,,4.0
+-121.5614,0,moss-lake-loop,"Moss Lake Loop",0.0,lok,0,47.0351,2400,,0.8
+-121.8315,4,moraine-park,"Moraine Park-Mystic Lake",3.0,lm,3650,46.9771,6000,,15.6
+-124.0131,13,mount-muller,"Mount Muller",3.5,mvp,3200,48.0761,3748,,13.0
+-121.3018,8,mount-aix,"Mount Aix",4.6,vspd,3700,46.8126,7400,,14.8
+-121.2940,5,monogram-lake,"Monogram Lake",3.8,lmvsp,4675,48.5370,5719,,9.8
+-122.8180,13,mount-constitution,"Mount Constitution and Mountain Lake",4.2,lovsk!,1500,48.6569,2410,,6.7
+-120.5076,4,mission-ridge,"Mission Ridge",3.0,omva,3200,47.4058,4963,,14.0
+-121.6046,1,mount-kent,"Mount Kent",4.0,,,47.4065,,,
+-121.5654,1,mount-phelps-5535-attempt,"Mount Phelps ",4.0,,,47.6884,,,
+-121.9736,12,mount-peak-pinnacle-peak,"Mount Peak (Pinnacle Peak)",3.1,wvsd,1000,47.1788,1800,,1.8
+-121.6788,2,mine-road-trail,"Mine Road Trail",3.0,rfvkd,650,48.2617,,,4.0
+-122.8188,0,mount-pickett,"Twin Lakes and Mount Pickett",0.0,,915,48.6550,1749,,7.6
+-121.7831,3,mount-pilchuck-snowshoe,"Mount Pilchuck Snowshoe",3.3,vs!,2600,48.0837,4000,,11.0
+-121.8107,102,mount-pilchuck,"Mount Pilchuck",4.4,mvsd,2300,48.0621,5327,,5.4
+-123.4525,6,mount-angeles,"Mount Angeles",3.5,cmvsp,1254,47.9838,6454,,6.2
+-121.6423,21,mount-fremont-lookout,"Fremont Lookout",4.3,lvak,800,46.9146,7200,,5.6
+-120.5724,5,miners-ridge,"Miners Ridge (Entiat)",3.8,mvpd,850,47.8002,5750,,4.0
+-122.0987,3,mine-shaft-trail,"Mine Shaft Trail",4.0,kd,,47.5297,,,0.6
+-120.9177,0,mount-ballard,"Mount Ballard",0.0,,,48.7064,,,
+-121.3923,0,mohawk-falls-and-mohawk-mine,"Mohawk Falls and Mohawk Mine",0.0,wokd,200,47.6753,1500,,0.6
+-123.0480,12,mima-mounds,"Mima Mounds",2.7,mvk,10,46.9051,225,,2.8
+-121.4359,0,monte-cristo-wagon-road,"Monte Cristo Wagon Road",0.0,fakd,,48.0381,,,
+-121.4246,13,mirror-lake-1,"Mirror and Cottonwood Lakes",4.2,lfmekd,870,47.3441,4200,http://wta.org/kml/mirror-lake-1.kmz,2.2
+-120.9455,6,mount-david,"Mount David",3.7,rwmvs,5800,47.9632,7420,,14.0
+-121.4900,57,mount-dickerman,"Mount Dickerman",4.4,ofmvsed,3950,48.0538,5760,,8.2
+-121.5741,4,monte-cristo,"Monte Cristo",4.5,rsp,400,45.8919,3000,,5.0
+-121.4536,0,mount-price,"Mount Price",0.0,rvsp,4500,47.5171,5000,,13.5
+-123.0640,8,mima-falls,"Mima Falls",3.5,rwofed,,46.9019,650,,6.5
+-121.8415,5,mirror-lakes,"Mirror Lakes",3.0,lmvap,3900,46.7957,5400,,14.0
+-121.4161,16,mount-pugh,"Mount Pugh",3.9,lofmvsap,5300,48.1454,7201,,11.0
+-120.5266,9,monument-creek,"Monument Creek",3.3,m,,48.6583,,,
+-121.9446,7,mount-beljica,"Mount Beljica",4.0,lmvad,1100,46.7734,5478,,4.0
+-122.1949,0,mitchell-peak,"Mitchell Peak",0.0,mvspd,2100,46.0462,4000,,5.0
+-121.3581,2,mount-margaret-snowshoe,"Mount Margaret Snowshoe",3.0,vs!,2800,47.3706,5200,,9.0
+-122.9379,9,miller-peninsula-thompson-spit,"Miller Peninsula-Thompson Spit",3.0,ckd,360,48.0769,360,,5.0
+-121.3615,5,mosquito-meadows,"Mosquito Valley",3.4,lad,600,46.7520,5400,,9.0
+-123.2676,21,mount-rose,"Mount Rose",3.7,lvs,3500,47.4956,4301,,6.4
+-121.3582,4,mount-margaret,"Mount Margaret",4.2,lovp,1500,47.3623,5100,,6.0
+-121.6818,0,mount-ann,"Mount Ann",0.0,vsp,4000,48.8533,,,10.5
+-120.8357,0,mount-fernow,"Mount Fernow",0.0,,,48.0823,,,
+-123.0985,1,mount-molly,"Capitol State Forest - Mount Molly",3.0,rv,908,46.9460,1950,,3.0
+-121.5436,12,mount-adams-south-climb,"Mount Adams South Climb",4.6,rvsed,6700,46.1605,12276,,12.0
+-121.4447,8,monte-cristo-143,"Monte Cristo Ghost Town",3.9,rmk,700,48.0270,2800,,8.0
+-121.4664,1,mount-crosby,"Mount Crosby",4.0,,,47.7019,,,
+-121.7615,5,mount-rainier,"Mount Rainier Summit",3.0,s,,46.8499,,,
+-121.5835,24,mount-defiance,"Mount Defiance",4.2,lmvs,3584,47.4247,5584,http://wta.org/kml/mount-defiance.kmz,11.0
+-121.4923,8,mount-forgotten,"Mount Forgotten",4.1,rwomvs,4300,48.0573,6005,,13.0
+-123.2321,74,mount-ellinor,"Mount Ellinor",4.5,ofmvsapd,3300,47.5066,5944,,6.2
+-120.5322,5,mount-lillian,"Mount Lillian",2.4,fmvsed,1100,47.3115,6100,,4.1
+-123.8638,6,mink-lake,"Mink Lake",3.0,rlmk,1450,47.9688,3100,,5.2
+-121.0297,15,minotaur-lake,"Minotaur Lake",3.5,lm,1905,47.8278,5580,,3.5
+-122.9991,6,mount-finlayson,"Mount Finlayson",4.3,!,350,48.4637,290,,3.5
+-122.3918,2,moulton-falls,"Moulton Falls",4.0,rwfkd!,90,45.8326,570,,4.0
+-122.9113,12,millersylvania-state-park,"Millersylvania State Park",3.9,lofmekd!,105,46.9113,395,,6.0
+-121.8506,8,mount-higgins,"Mount Higgins",2.8,lofmvsap,3400,48.3106,4849,,9.0
+-121.4482,6,mount-baring,"Mount Baring",4.3,ovsa,3500,47.7884,6129,,7.0
+-121.6722,41,mount-washington-1,"Mount Washington",3.9,omvsed,3250,47.4420,4450,,8.5
+-121.6863,1,mt-shuksan,"Mount Shuksan",5.0,s,,48.8496,9127,,
+-123.2352,6,mount-washington,"Mount Washington",3.0,,,47.5204,,,
+-122.0384,3,mount-tahoma-ski-trails,"Mount Tahoma Ski Trails",5.0,,,46.7603,,,
+-120.8028,8,navaho-peak,"Navaho Peak",4.4,mvspd,4223,47.3662,7223,,12.0
+-121.9160,6,mowich-lake,"Mowich Lake Snowshoe",3.2,lve!,1400,46.9271,5000,,10.0
+-122.2607,2,narbeck-wetland-sanctuary,"Narbeck Wetland Sanctuary",3.5,lak,0,47.9328,0,,2.0
+-123.1773,5,ned-hill,"Ned Hill",1.8,mvs,850,47.9730,3450,,2.2
+-121.6755,0,mount-ruth,"Mount Ruth",0.0,,,46.8977,,,
+-121.5176,30,naches-peak-loop,"Naches Peak Loop",4.4,lfmvk,600,46.8674,5850,,3.2
+-121.7009,14,mount-teneriffe-road-trail,"Mount Teneriffe",3.4,wmvd,3800,47.4860,4788,,13.8
+-121.3062,6,nelson-ridge,"Nelson Ridge and Mount Aix",3.7,v,4200,46.8141,7766,,12.0
+-122.8190,4,mountain-lake,"Mountain Lake",3.0,lmakd,50,48.6570,950,,3.9
+-117.0833,0,mount-spokane-hay-ridge-loop,"Mount Spokane - Hay Ridge Loop",0.0,sak,,47.8851,,,7.0
+-120.8276,4,napeequa-river,"Napeequa River",2.2,,,48.0254,,,
+-122.1835,21,mount-saint-helens,"Mount St. Helens Summit - Monitor Ridge",4.1,fmvsp,4500,46.1461,8365,,10.0
+-122.7548,2,newberry-hill-heritage-park,"Newberry Hill Heritage Park",4.5,rloakd!,250,47.6345,350,,13.0
+-123.0261,16,mount-zion,"Mount Zion",3.2,,1300,47.9228,4274,,4.6
+-121.4713,9,nannie-ridge,"Nannie Ridge-Sheep Lake",3.4,lvpe,1800,46.4231,5800,,9.0
+-122.1030,3,nike-horse-trail,"Nike Horse Trail",4.3,kd,,47.5301,,,0.6
+-123.0360,2,mount-townsend-snowshoe,"Mount Townsend Snowshoe",1.0,vs!,2500,47.8559,5500,,13.5
+-123.0205,13,murhut-falls,"Murhut Falls",3.5,wok!,250,47.6764,1050,,1.6
+-121.7009,10,mount-si-via-mount-teneriffe-road-trail,"Mount Si via Mount Teneriffe Road Trail",3.1,wv,2950,47.4861,3900,,9.0
+-121.5058,5,muddy-fork-lava-bed,"Muddy Fork Lava Bed",3.0,rvsakd,500,46.3255,4900,,5.0
+-120.6743,0,natapoc-mountain,"Natapoc Mountain",0.0,vs,2124,47.7486,4204,,10.0
+-117.1245,2,mount-spokane-trail-100,"Mount Spokane State Park - Trail 100",3.0,ofmad,650,47.9044,4526,,7.0
+-122.9137,16,mount-walker,"Mount Walker",3.0,mvsad,2000,47.7756,2804,,4.0
+-117.0864,2,mount-spokane,"Mount Spokane State Park - Upper Trail 140",3.5,ofmvsakd,1341,47.8859,5867,,3.0
+-121.2881,17,necklace-valley,"East Fork Foss - Necklace Valley",3.1,rlomve,3400,47.6659,5000,,18.0
+-121.0781,11,mt.-mccausland,"Mount McCausland",4.6,lmvsd,1800,47.8020,5747,,7.0
+-120.8027,20,navaho-pass,"Navaho Pass",3.8,mvaped,3000,47.3664,6000,,11.0
+-121.5401,5,muddy-meadows,"Muddy Meadows/Foggy Flat",2.8,mvkd,1710,46.3084,,,11.6
+-123.0946,1,mount-townsend-backdoor,"Mount Townsend - Silver Lakes Traverse",4.0,rlovse,3200,47.8576,6280,,14.0
+-121.8636,5,mowich-river,"Mowich River",3.0,rloma,2400,46.9327,5000,,7.0
+-117.2910,1,nimbus-knob,"Nimbus Knob",3.0,mvakd,400,47.6503,2350,,3.0
+-121.7063,4,niederprum,"Neiderprum Trail",3.2,,2400,48.2615,3200,,2.6
+-121.4736,1,nannie-peak,"Nannie Peak",4.0,ofmvd,1800,46.4228,5800,,12.0
+-121.4234,7,mount-snoqualmie,"Snoqualmie Mountain",4.6,vs,3105,47.4453,6278,,3.8
+-118.1829,3,mouth-of-the-tucannon,"Mouth of the Tucannon",2.3,ra,350,46.5522,1000,,4.0
+-121.5163,4,naches-peak,"Naches Peak",4.5,vsp,1000,46.8754,6452,,
+-121.6623,0,mt.-christoff-1171,"Mount Christoff ",0.0,,,47.1603,,,
+-121.8560,0,mt-ararat,"Mount Ararat",0.0,romvs,4000,46.7362,6010,,12.5
+-123.7884,13,mount-storm-king,"Mount Storm King",3.5,,1700,48.0578,2400,,3.8
+-120.7923,6,nason-ridge,"Nason Ridge",3.3,spd,3800,47.7882,6200,,21.9
+-121.7231,159,mount-si,"Mount Si",4.0,ovsad!,3150,47.4880,3900,http://wta.org/kml/mount-si.kmz,8.0
+-122.0825,3,mt.-margaret,"Mount Margaret",4.3,mvspe,2820,46.3049,5780,,11.0
+-120.6512,5,myrtle-lake,"Myrtle Lake",2.8,rlvae,650,48.0244,3765,,8.0
+-121.6423,6,mystic-lake,"Mystic Lake",2.7,lmvape,1870,46.9139,6800,,18.0
+-120.6673,5,negro-creek,"Etienne Creek",2.8,rd,1400,47.3899,6100,,4.0
+-123.0359,35,mount-townsend,"Mount Townsend",4.1,wofmvsd,3010,47.8564,6260,http://wta.org/kml/mount-townsend.kmz,8.0
+-121.6253,16,mount-si-old-trail,"Mount Si - Old Trail",4.6,wofmvsad,3420,47.4408,3980,,7.4
+-121.6908,0,mt-defiance-starvation-ridge-loop-columbia-gorge,"Mount Defiance (Oregon)",0.0,,4890,45.6883,4960,,12.9
+-118.6900,5,odessa-craters,"Odessa Craters",2.8,mak,0,47.4204,1700,,2.0
+-122.2188,1,north-creek-park-boardwalk,"North Creek Park Boardwalk",3.0,akd,0,47.8355,,,2.0
+-122.5509,0,north-kitsap-heritage-park,"North Kitsap Heritage Park",0.0,kd,,47.7800,,,
+-121.5117,1,olallie-lake-via-pratt-lake-trail,"Olallie Lake via Pratt Lake Trail",5.0,laekd,,47.4219,,,6.0
+-120.8114,0,oak-creek-road-bethel-ridge,"Oak Creek Road - Bethel Ridge",0.0,rofakd,800,46.7267,2500,,6.5
+-120.9534,5,north-fork-taneum-river,"North Fork Taneum River",3.2,,,47.1156,,,
+-123.9110,7,north-fork-sol-duc-river,"North Fork Sol Duc River",3.0,ek,1200,48.0108,2400,,12.4
+-121.9333,6,northwest-timber-trail,"Northwest Timber Trail",2.3,wofmakd,150,47.4669,1500,,4.4
+-122.2583,16,north-trail-saint-edward-state-park,"Saint Edward State Park",3.9,lfmakd,400,47.7329,400,,3.0
+-120.5330,4,old-ellensburg,"Old Ellensburg",2.5,fm,500,47.3114,5700,,3.6
+-124.6672,1,norwegian-memorial,"Norwegian Memorial",1.0,,,48.1548,,,
+-120.3030,4,north-navarre-peak,"North Navarre Peak",4.5,fmvs,1550,48.1199,7963,,5.0
+-121.6299,5,northern-loop,"Northern Loop",3.8,,,46.9030,,,
+-120.5335,5,north-yakima-skyline,"Durr Road and North Yakima Skyline",2.0,rmap,1250,46.8421,,,9.0
+-122.0888,4,no-name,"No Name",3.5,,,47.5379,,,0.4
+-118.7439,4,odessa-lake-creek-trail,"Lake Creek ",3.2,le,340,47.4042,1840,,26.0
+-121.8653,1,observation-rock,"Observation Rock",1.0,wmvsape,3435,46.9329,8364,,13.0
+-123.4767,0,obstruction-point-road-snowshoe,"Obstruction Point Road Snowshoe",0.0,,,47.9738,,,
+-120.8537,4,north-fork-teanaway-river,"North Fork Teanaway River",2.0,,,47.3308,,,
+-121.3958,6,nordic-pass-hyak,"Nordic Pass - Hyak",3.7,rlv,660,47.3930,3516,,3.2
+-120.5763,4,north-fork-entiat-river,"North Fork Entiat River",2.5,rlfmvaed,4000,48.0058,7150,,26.0
+-119.0833,6,northrup-canyon,"Northrup Canyon",3.5,lma!,384,47.8657,2134,,3.0
+-121.4829,6,norse-peak,"Norse Peak",3.7,mvsad,2900,46.9644,6856,,10.0
+-120.5558,2,north-lake,"North Lake",5.0,lv,,48.4533,,,
+-120.1050,3,north-twentymile-peak,"North Twentymile Peak",3.3,,4387,48.7029,7437,,13.0
+-121.1274,4,north-ridge,"North Ridge",2.5,,,47.1741,,,
+-122.9361,5,notch-pass,"Notch Pass",3.8,rfpk,1700,47.8200,2300,,7.6
+-117.2987,0,north-fork-asotin-creek,"North Fork Asotin Creek to Pinkham Butte",0.0,omaed,1750,46.2615,3080,,20.0
+-122.7129,23,nisqually-nwr,"Billy Frank Jr. Nisqually National Wildlife Area",3.9,crmak!,0,47.0688,,,5.0
+-121.9373,1,nolte-state-park,"Nolte State Park",5.0,lakd,,47.2702,,,1.4
+-124.6828,5,north-coast-beach-travelway,"North Coast Route",3.8,crloae,200,48.2588,200,,20.0
+-124.6651,52,north-shi-shi-access,"Shi Shi Beach and Point of the Arches",4.4,crek,200,48.2937,200,,8.0
+-121.3709,7,north-fork-sauk-falls,"North Fork Sauk Falls",3.9,rwokd,200,48.0985,1500,,0.4
+-121.4440,5,old-government,"Old Government",2.4,,,48.0265,,,
+-124.4085,4,oil-city,"Oil City",3.5,cr,,47.7493,,,
+-121.6749,4,nooksack-cirque,"Nooksack Cirque",3.0,ovd,640,48.8899,2840,,9.0
+-122.1030,3,old-man-trail,"Old Man's Trail",2.0,k,,47.5301,,,0.6
+-121.2731,5,north-fork-skykomish-river,"North Fork Skykomish River",2.6,rsp,1000,47.9279,4000,,10.0
+-122.0819,11,norway-pass,"Norway Pass",4.2,lmvp,860,46.3045,4500,,4.4
+-121.2866,7,north-fork-sauk-river,"North Fork Sauk River",2.9,romv,1000,48.0584,2800,,11.0
+-121.5693,5,ohanapecosh-hot-springs,"Ohanapecosh Hot Springs",4.2,rek,50,46.7330,1900,,1.0
+-120.5526,3,north-tommy-ridge,"North Tommy Trail",2.3,,,47.9392,,,
+-122.0476,4,old-griz,"Old Griz",3.0,vakd,,47.5054,,,
+-117.2876,4,north-fork-sullivan,"North Fork Sullivan",3.5,fvspd,,48.8541,,,5.3
+-122.0829,7,observation-peak,"Observation Peak",3.6,mvsd,500,45.8785,4207,,5.0
+-122.0894,6,ogrady,"Green River Natural Area - O'Grady Trail",1.8,rfkd,,47.2764,,,6.5
+-122.8264,7,obstruction-pass,"Obstruction Pass State Park",3.1,,305,48.6085,225,,1.9
+-121.3582,5,north-fork-tieton-river,"North Fork Tieton-Tieton Pass",2.2,ma,2500,46.5768,5800,,11.7
+-122.4893,1,north-lost-lake-trail,"North Lost Lake Trail",4.0,rwvkd,,48.7008,,,4.6
+-121.6111,0,north-mountain-lookout,"North Mountain Lookout",0.0,,,48.3088,,,
+-121.4657,22,noble-knob,"Noble Knob",3.9,mvkd,500,47.0136,6011,,5.0
+-123.3295,6,north-fork-skokomish-river,"North Fork Skokomish River",3.5,rvpe,3568,47.5157,4688,,15.2
+-122.0819,8,paradise-valley-conservation-area,"Paradise Valley Conservation Area",3.1,rfmakd,150,47.7898,450,,5.0
+-120.7352,6,pacific-crest-trail-section-l-rainy-pass-to-manning-park,"Pacific Crest Trail (PCT) Section L - Rainy Pass to Manning Park",3.5,fvp,13649,48.5180,7100,,70.3
+-121.5627,3,ollalie-creek-camp,"Ollalie Creek Camp",2.7,,1600,46.7562,3900,,5.6
+-121.5323,37,otter-falls-taylor-river,"Otter Falls - Taylor River",4.0,rlwfkd,650,47.5609,1750,http://wta.org/kml/otter-falls-taylor-river.kmz,10.0
+-121.0890,6,pacific-crest-trail-section-k-stevens-pass-east-to-rainy-pass,"Pacific Crest Trail (PCT) Section K - Stevens Pass - East to Rainy Pass",4.0,rmvsape,26351,47.7454,6600,,117.5
+-121.0826,9,paddy-go-easy-pass,"Paddy-Go-Easy Pass",3.2,mv,2700,47.5329,6100,,7.0
+-120.2441,6,patterson-mountain,"Patterson Mountain",3.5,fmvkd,1070,48.4621,3520,,4.0
+-121.0919,6,peggys-pond,"Peggy's Pond",3.2,lmvpe,2300,47.5365,5600,,11.0
+-121.4135,7,pacific-crest-trail-section-j-snoqualmie-pass-to-stevens-pass-east,"Pacific Crest Trail (PCT) Section J - Snoqualmie Pass to Stevens Pass - East",4.4,rlofmvape,16000,47.4278,,,74.7
+-121.9325,4,pacific-crest-trail-section-h-bridge-of-gods-to-white-pass,"Pacific Crest Trail (PCT) Section H - Bridge of Gods to White Pass",3.8,rlwofmvsaped,27996,45.8026,7800,,147.5
+-119.0876,4,old-wagon-road-trail,"Old Wagon Road Trail",2.8,ma!,550,47.8654,2300,,3.0
+-121.4489,4,pass-lake,"Pass Lake",3.8,,300,48.1231,3900,,1.0
+-121.8263,0,panther-creek-falls,"Panther Creek Falls",0.0,rwkd,100,45.8674,0,,0.5
+-121.5588,18,old-sauk,"Old Sauk River Trail",2.7,rofakd,150,48.2154,800,,6.0
+-121.8356,4,panther-creek-experimental-forest,"Panther Creek Experimental Forest",2.0,ovap,1200,45.8282,4000,,7.0
+-121.6282,2,packwood-lake-snowshoe,"Packwood Lake Snowshoe",4.5,lva,500,46.6079,3200,,9.0
+-121.2520,4,pear-loop,"Pear Loop",2.2,,,46.8893,,,
+-121.0589,4,paris-creek,"Paris Creek",2.5,,,47.4132,,,
+-121.5772,0,old-sauk-new-trail,"Old Sauk ADA Loop",0.0,rovkd!,200,48.2217,800,,1.0
+-122.2942,3,pack-forest-hugo-peak,"Pack Forest - Hugo Peak",4.0,fmakd,880,46.8402,1790,,4.5
+-123.6925,10,olympic-hot-springs,"Olympic Hot Springs",3.6,,,47.9775,,,
+-121.8122,45,park-butte,"Park Butte",4.4,rlwfmvsaed,2200,48.7067,5450,,7.5
+-122.7043,0,paradise-point-state-park,"Paradise Point State Park",0.0,rokd,,45.8653,,,1.0
+-122.4731,7,padilla-bay,"Padilla Bay",2.6,cakd,30,48.4803,30,,4.4
+-122.6745,1,otto-preserve,"Otto Preserve",2.0,,130,48.6981,250,,1.2
+-121.0978,4,park-creek-pass,"Thunder Creek - Park Creek ",2.8,rwomvape,9800,48.6925,6100,,55.2
+-121.5968,9,owyhigh-lakes,"Owyhigh Lakes",3.0,lomvak,1650,46.8905,5400,,8.0
+-120.9732,3,panther-creek-1,"Fourth of July Pass via Panther Creek",2.3,rve,2000,48.7060,3500,,11.5
+-121.5878,15,palisades-lakes,"Palisades Lakes",3.5,lmvak,1800,46.9175,6150,,7.0
+-121.7284,5,panorama-point-snowshoe,"Panorama Point Snowshoe",3.2,v!,1900,46.7829,7070,,5.0
+-122.4334,90,oyster-dome,"Oyster Dome",4.0,cvsad!,1900,48.6086,2025,http://wta.org/kml/oyster-dome.kmz,5.0
+-121.8558,18,old-robe-canyon,"Old Robe Canyon",3.5,rkd,350,48.1101,1050,,2.4
+-120.6423,0,old-pass-hill,"Old Pass Hill",0.0,vs,,47.3317,4885,,
+-121.7354,7,paradise,Paradise,2.7,lwmvak,,46.7862,10080,,25.0
+-121.0711,4,pear-lake,"Pear Lake",3.2,lmed,2600,47.8681,5200,,12.0
+-121.4906,6,peek-a-boo-lake,"Peek-a-boo Lake",3.0,lomvekd,1500,48.1577,4350,,5.0
+-122.0685,2,oneonta-gorge,"Oneonta Gorge",4.0,wod,375,45.5908,385,,2.7
+-121.4267,6,pacific-crest-trail-section-i-white-pass-to-snoqualmie-pass,"Pacific Crest Trail (PCT) Section I - White Pass to Snoqualmie Pass",3.2,rlofmvsape,17771,46.6315,6530,,99.0
+-120.3362,4,oval-peak,"Oval Peak",4.0,,,48.3115,8795,,
+-122.0270,4,one-view-trail,"One-View Trail",3.5,,,47.5230,,,1.4
+-120.6643,2,pct-harts-pass-to-holman-pass,"PCT - Harts Pass to Holman Pass",4.0,fvpe,,48.7277,6900,,28.8
+-121.9033,2,paul-peak-snowshoe,"Paul Peak Snowshoe",3.5,le!,1800,46.9362,4800,,5.6
+-121.9768,1,paw-print-connector,"Paw Print Connector",5.0,okd,100,47.4430,2200,,1.1
+-121.8381,0,old-mine-trail,"Old Mine Trail",0.0,,,46.9832,,,
+-121.9068,7,paul-peak,"Paul Peak",3.1,osa,1050,46.9350,4200,,5.6
+-122.3563,2,pacific-northwest-trail,"Pacific Northwest Trail",3.5,crlwofmvsape,,48.6451,7580,,1200.0
+-121.5731,6,palisades,Palisades,4.7,rwomvd,2680,47.0580,5300,,15.9
+-120.4071,5,oval-lakes,"Oval Lakes",3.8,,,48.3526,,,
+-121.5060,7,old-snowy-mountain-elk-pass,"Old Snowy Mountain - Elk Pass",3.7,wfmvsaped,3100,46.4577,7800,,17.0
+-121.8123,4,paradise-river,"Paradise River",3.5,,,46.7501,,,
+-117.7468,4,oregon-butte,"Oregon Butte",3.5,mvsape,987,46.1127,6387,,6.0
+-118.2281,18,palouse-falls,"Palouse Falls",3.5,rwmaekd!,0,46.6636,803,http://wta.org/kml/palouse-falls.kmz,1.0
+-122.7456,6,penrose-point-state-park,"Penrose Point State Park",3.8,ovd,140,47.2583,140,,2.0
+-122.0551,4,perimeter-loop-trail,"Perimeter Loop Trail",3.5,vakd,,47.5000,,,
+-121.4967,13,perry-creek,"Perry Creek",4.1,wofmvspe,3400,48.0705,5250,http://wta.org/kml/perry-creek.kmz,10.5
+-121.6271,21,packwood-lake,"Packwood Lake",3.8,rlvek,600,46.6084,3200,,10.0
+-123.4255,6,pj-lake,"PJ Lake",2.5,lma,1000,47.9458,5050,,1.8
+-120.5722,5,pugh-ridge,"Pugh Ridge",3.2,mvap,2833,48.0113,6783,,12.4
+-120.8349,6,phelps-creek,"Phelps Creek",3.5,rmvpekd,3500,48.0830,5500,,7.2
+-121.9479,6,puyallup,Puyallup,2.2,,,46.7746,,,
+-120.6112,0,pipe-creek-loop,"Pipe Creek Loop Snowshoe",0.0,,,47.3311,,,
+-121.6779,5,picture-lake,"Picture Lake",2.8,lfmvkd,,48.8666,4200,,0.5
+-122.8223,0,point-colville,"Point Colville",0.0,cmvkd,,48.4327,,,
+-121.5060,6,potato-hill,"Potato Hill",2.8,mvsk,550,46.3254,5387,,3.0
+-121.4886,2,pratt-balcony,"Pratt Balcony",3.5,,,47.3982,,,
+-122.0219,29,poo-poo-point-chirico-trail,"Poo Poo Point - Chirico Trail",4.0,fvskd,1760,47.5000,1850,http://wta.org/kml/poo-poo-point-chirico-trail.kmz,3.8
+-121.3809,5,poodle-dog-pass,"Poodle Dog Pass",2.2,l,,47.9835,4800,,
+-121.8327,5,purcell-lookout,"Purcell Lookout",3.0,vs,2600,46.5814,5442,,8.2
+-122.0963,0,protector-trail,"Protector Trail",0.0,,,47.5410,,,0.8
+-122.0804,4,precipice-trail,"Precipice Top Trail",3.2,vak,,47.5429,,,0.2
+-121.0991,9,polallie-ridge,"Polallie Ridge",3.0,mva,3000,47.4044,5300,,8.0
+-121.6991,2,pinnacle-saddle-snowshoe,"Pinnacle Saddle Snowshoe",3.5,v,1400,46.7666,6100,,6.0
+-118.9816,4,pipsissewa,"Pipsissewa Trail",2.8,fa,860,48.7329,4420,,4.2
+-120.2790,5,pot-peak,"Pot Peak",1.6,,,47.9819,,,
+-122.0541,5,phils-trail-thrush-gap-loop,"Phils Trail - Thrush Gap Loop",2.4,ovsd,1606,47.4818,2037,,7.0
+-122.5168,8,point-defiance-park,"Point Defiance Park",4.4,cofmvakd,200,47.3050,300,,5.0
+-122.4529,9,pine-and-cedar-lakes,"Pine and Cedar Lakes",3.6,lvkd,1400,48.6907,1600,,5.0
+-120.6793,0,purple-pass,"Purple Pass",0.0,lmvsap,5700,48.3261,6884,,15.0
+-122.3654,0,port-susan-bay-preserve,"Port Susan Bay Preserve",0.0,crak,0,48.2083,,,2.0
+-122.0422,4,phils-creek,"Phil's Creek",3.2,vakd,,47.5028,,,
+-121.7360,8,pinnacle-lake,"Pinnacle Lake",3.0,lmvd,1200,48.0587,3800,,3.8
+-121.7297,11,pinnacle-peak,"Pinnacle Peak",2.7,s,,46.7686,,,
+-122.0299,62,poo-poo-point,"Poo Poo Point ",3.7,mvad!,1858,47.5195,2021,,7.2
+-121.8106,4,pyramid-creek-camp,"Pyramid Creek Camp",4.0,rop,1060,46.7497,3880,,6.6
+-121.1855,17,pete-lake,"Pete Lake",3.4,rlomvaekd,400,47.4350,3200,,9.0
+-121.6927,19,ptarmigan-ridge,"Ptarmigan Ridge",4.3,mvpd,1350,48.8463,6100,,9.0
+-121.4860,14,pratt-lake,"Pratt Lake Basin",3.7,lwomvped,2300,47.3979,4100,,11.0
+-120.6565,3,purple-creek,"Purple Creek",2.7,,,48.3093,,,
+-122.4628,0,putney-woods,"Putney Woods, Saratoga Woods and Metcalf Trail System",0.0,fmakd,,48.0427,,,
+-121.7832,3,pompey-peak,"Pompey Peak",4.3,vsd,2000,46.4998,5180,,14.0
+-121.2588,5,pilot-ridge,"Pilot Ridge",2.8,,,48.0448,,,
+-123.4444,4,pine-lake,"Pine Lake",1.8,,,47.4366,,,
+-122.2229,0,pioneer-park-mercer-island,"Pioneer Park",0.0,,,47.5404,,,
+-122.0554,6,pretzel-tree-trail,"Pretzel Tree Trail",3.3,oakd,0,47.4808,350,,0.3
+-122.0231,4,puget-power,"Puget Power",2.8,lkd,,47.5298,,,2.4
+-120.5202,4,peshastin-pinnacles,"Peshastin Pinnacles",2.8,md,400,47.5400,1450,,1.5
+-120.2055,0,ptarmigan-ridge-abandoned-trail,"Ptarmigan Ridge ",0.0,vpd,,48.7507,,,6.0
+-121.4775,2,pratt-mountain,"Pratt Mountain",5.0,s,,47.3958,,,
+-121.3273,6,pleasant-valley-loop,"Pleasant Valley Loop",3.5,,,46.9437,,,
+-119.3486,4,potholes-wildlife-area,"Potholes Wildlife Area",3.0,lmak,0,46.9709,1050,,4.0
+-121.7314,14,pinnacle-saddle,"Pinnacle Saddle",4.2,mvap,1000,46.7683,5920,,2.5
+-120.0612,1,pipestone-canyon-rim-trail,"Pipestone Canyon Rim Trail",4.0,ma,1700,48.4297,,,9.0
+-120.4270,4,pyramid-mountain,"Pyramid Mountain",3.0,,,48.1814,,,
+-121.7340,5,plummer-peak,"Plummer Peak",3.8,s,,46.7629,,,
+-119.9582,4,priest-rapids-wildlife-area,"Priest Rapids Wildlife Area",2.5,rma!,50,46.7364,,,5.0
+-121.9255,4,preston-railroad-grade,"Preston Railroad Grade",2.5,,900,47.4988,,,2.6
+-123.2744,1,porter-falls,"Capitol State Forest - Porter Falls",4.0,woakd,100,46.9714,,,2.0
+-121.0874,6,poe-mountain,"Poe Mountain",3.5,mvse,3000,47.9183,6015,,6.0
+-121.1452,7,pyramid-lake,"Pyramid Lake",3.4,lovad,1500,48.7098,2600,,4.5
+-121.9436,3,preston-trail,"Preston Trail",3.0,!,,47.5304,,,5.0
+-122.7795,2,point-whitehorn,"Point Whitehorn",3.0,cfmvak,0,48.8872,0,,4.0
+-122.0270,1,poo-top,"Poo Top",3.0,kd,,47.5230,2948,,0.8
+-121.3018,4,pleasant-valley-lake,"Pleasant Valley Lake",3.0,,,46.9487,,,
+-122.8943,4,priest-point-park,"Priest Point Park",3.0,covakd,150,47.0697,200,,5.0
+-117.6709,0,potters-pond-fishing-and-observation-platform,"Potters Pond Fishing and Observation Platform",0.0,lak,,48.4269,,,0.2
+-122.1834,5,ptarmigan,"Ptarmigan Trail",3.4,mvsp,1000,46.1458,4700,,4.5
+-123.8634,4,quinault-rainforest-nature-loop,"Quinault Rainforest Nature Loop",4.0,wokd,40,47.4598,,,0.5
+-121.6991,3,reflection-and-louise-lakes-snowshoe,"Reflection and Louise Lakes Snowshoe",3.0,lvp!,560,46.7666,5100,,7.0
+-121.6997,8,rainbow-ridge,"Rainbow Ridge",2.9,vap,1700,48.7634,5300,,
+-121.2839,5,quartz-creek-1,"Quartz Creek",2.4,romv,1500,47.9245,4000,,8.4
+-121.8113,2,red-mountain-lookout,"Red Mountain Lookout",3.5,rmvskd,,45.9085,4968,,8.0
+-119.4708,5,rattlesnake-slope-wildlife-area,"Rattlesnake Slope Wildlife Area",3.4,rmapd,1600,46.3479,2000,,5.0
+-123.2319,6,rainbow-falls-state-park,"Rainbow Falls State Park",2.7,romkd,200,46.6302,450,,3.0
+-120.6941,4,rainbow-loop,"Rainbow Loop",3.5,lwekd,1000,48.3379,2200,,4.4
+-121.9059,5,rasar-state-park,"Rasar State Park",3.6,rovaekd,20,48.5167,125,,3.0
+-121.8126,4,ridley-creek,"Ridley Creek",3.2,ovped,2600,48.7071,,,7.0
+-124.0143,10,queets-river,"Queets River",3.8,,200,47.6245,425,,10.0
+-121.2843,15,rampart-ridge-1,"Rampart Ridge - Rampart Lakes",3.7,rlwvpe,2200,47.3980,5100,,11.0
+-122.1288,4,redtown-meadow,"Red Town Meadow & Trails",2.8,omk,150,47.5348,800,,1.5
+-122.1285,6,red-town-creek,"Red Town Creek",3.0,wmk,,47.5345,,,0.5
+-121.6272,5,riley-camp,"Riley Camp",3.0,mv,2280,46.2323,5800,,10.0
+-123.8621,6,quinault-rain-forest-loop,"Quinault National Recreation Trails",2.2,kd,300,47.4599,450,,3.9
+-120.7355,5,rainy-lake,"Rainy Lake",3.0,lwfvkd,70,48.5150,4800,,2.0
+-121.4642,8,rainier-view,"Rainier View",4.2,mvapk,300,47.0129,6000,,2.4
+-124.0655,4,queets-campground-loop,"Queets Campground Loop",4.5,,,47.6055,,,
+-122.9923,7,ranger-hole,"Ranger Hole - Interrorem Nature Trail",4.4,rok,200,47.6807,320,,2.1
+-121.4866,8,rainbow-lake-1,"Island Lake - Rainbow Lake",3.6,lv,2000,47.3979,4400,,10.0
+-120.5039,0,rattlesnake-dance-ridge-trail,"Rattlesnake Dance Ridge Trail",0.0,mvsapd,1250,46.8973,2646,,2.0
+-121.8434,29,rattle-snake-mountain,"Rattlesnake Mountain",3.4,vsp,2520,47.5092,3500,,10.2
+-121.4147,5,red-pass,"Red Pass",3.4,,2300,47.4290,5300,,
+-123.5698,9,quinault-river,"Quinault River-Pony Bridge-Enchanted Valley",3.7,roak,900,47.5728,1200,,5.0
+-122.0515,2,redmond-watershed-preserve,"Redmond Watershed Preserve",3.0,rfak,400,47.6968,580,,4.5
+-120.7596,17,red-top-lookout,"Red Top Lookout",3.3,omvskd,350,47.2970,5360,,1.5
+-121.7466,10,reflection-lakes,"Narada Falls to Reflection Lakes",3.0,rlwomvak,1150,46.7753,5400,,5.0
+-121.8096,16,railroad-grade,"Railroad Grade",3.8,rmvpd,2000,48.7061,6000,,7.0
+-117.0833,6,quartz-mountain-1,"Mount Spokane State Park - Quartz Mountain",3.8,mvsd,,47.8851,,,5.0
+-121.3474,2,rampart-ridge-back-door,"Rampart Ridge Backdoor",4.5,,,47.3947,,,
+-121.1156,4,raven-roost,"Raven Roost",2.8,,,47.0089,,,
+-121.7675,216,rattle-snake-ledge,"Rattlesnake Ledge",4.0,lmvspkd!,1160,47.4335,2078,,4.0
+-117.7058,7,rattlesnake-trail,"Rattlesnake Trail",3.4,mvsped,2900,46.2043,5700,,10.0
+-120.7310,4,rainbow-lake,"Rainbow Lake",2.8,,,48.5076,,,11.5
+-121.5410,11,rainy-lake-1,"Rainy Lake",3.5,rlwoad,2700,47.5475,3750,,13.0
+-121.8107,13,rampart-ridge-loop,"Rampart Ridge Loop",3.1,romvpk,1300,46.7497,4080,,4.5
+-120.6941,0,rainbow-creek-trail,"Rainbow Creek Trail",0.0,,,48.3378,,,33.0
+-122.4897,3,raptor-ridge-chuckanut-mountain,"Raptor Ridge Trail",3.3,sakd,1500,48.6999,,,8.0
+-123.8591,8,pyramid-mountain-1,"Pyramid Mountain / Pyramid Peak",4.0,lovs,2400,48.0659,3089,,7.0
+-121.8137,3,rampart-ridge-snowshoe,"Rampart Ridge Snowshoe",3.3,va!,1200,46.7498,4050,,4.5
+-121.2899,5,red-mountain,"Red Mountain (Painted Mountain)",3.0,vs,4875,48.0588,6975,,8.0
+-121.0941,4,quick-creek-camp,"Quick Creek Camp",2.8,rlsped,,47.3860,,,12.0
+-121.9865,2,rim-trail-202,"Rim Trail",3.0,,100,45.8813,3620,,0.9
+-122.7466,5,ridgefield-national-wildlife-refuge,"Ridgefield National Wildlife Refuge",3.8,roak!,100,45.8310,100,,2.0
+-121.6686,0,revolution-peak,"Revolution Peak",0.0,lfmvs,5454,47.4698,4654,,16.0
+-121.3827,7,red-mountain-1,"Red Mountain (Commonwealth Basin)",3.6,mvs,2900,47.4474,5890,,11.0
+-121.5329,5,quartz-creek-lake-blethen,"Quartz Creek/Lake Blethen",2.2,,,47.5666,,,
+-122.0802,2,red-cedars,"Red Cedars",2.5,k,,47.5429,,,0.6
+-121.8489,4,quartz-creek,"Quartz Creek",2.0,re,500,46.1827,2500,,8.0
+-121.2848,51,rachel-lake,"Rachel Lake",3.9,lwofmvped,1600,47.4012,4600,,8.0
+-121.1111,0,red-mountain-2,"Red Mountain Snowshoe",0.0,lovsd,3560,47.4028,5880,,8.0
+-124.6027,4,quillayute-river,"Quillayute River Slough",2.5,rk,30,47.9181,30,,1.8
+-122.8834,4,rainbow-canyon,"Rainbow Canyon",2.2,rw,,47.8219,,,1.0
+-122.1151,7,quarry,Quarry,4.0,kd,,47.5241,,,2.0
+-122.0123,5,round-lake-wetland,"Wetlands Trail",4.2,lfmakd,90,47.5270,570,,1.3
+-118.4349,3,ryan-cabin,"Ryan Cabin",4.3,,1365,48.7612,5600,,6.4
+-117.4941,1,riverside-state-park,"Riverside State Park - Bowl & Pitcher",3.0,rkd,166,47.6962,2165,,2.1
+-123.1117,0,rock-candy-mountain,"Capitol State Forest - Rock Candy Mountain",0.0,ovsad,1000,47.0058,1500,,5.5
+-121.0813,2,sasse-ridge-snowshoe,"Sasse Ridge Snowshoe",3.0,va,2700,47.3847,5400,,15.0
+-122.6594,5,rosario-head,"Rosario Head",4.0,,,48.4167,,,
+-121.8608,4,sauk-lake,"Sauk Lake",1.8,,,48.4586,,,
+-121.0750,37,sahale-arm,"Cascade Pass and Sahale Arm",4.1,lwofmvape,4000,48.4755,7570,http://wta.org/kml/sahale-arm.kmz,12.0
+-122.6658,0,salmon-creek-trail,"Salmon Creek Trail",0.0,rfakd,30,45.7075,60,,5.0
+-124.4136,11,ruby-beach,"Ruby Beach",3.3,ckd,80,47.7099,80,,6.0
+-123.9210,4,scarborough-hill,"Scarborough Hill",2.8,rov,650,46.2542,767,,2.8
+-120.7054,6,robinson-canyon-ainsley-canyon,"Robinson Canyon - Ainsley Canyon",3.2,rmakd,1200,47.0142,3400,,10.0
+-121.0970,16,robin-lakes,"Tuck and Robin Lakes",4.1,lomvsped,2900,47.5443,6300,,16.0
+-121.5328,5,rooster-mountain,"Rooster Mountain",4.2,vs,4100,47.5597,5340,,8.0
+-121.4523,4,rock-creek-2,"Rock Creek",4.5,rlpd,2500,47.5163,4100,,8.6
+-117.1263,1,saltese-uplands,"Saltese Uplands",3.0,,,47.6422,,,3.6
+-121.3823,8,sand-lake,"Deer and Sand Lake",2.6,lk,960,46.6447,5315,,5.2
+-121.0744,4,sasse-mountain,"Sasse Ridge",3.5,mv,2400,47.3892,5730,,9.0
+-121.3813,3,sand-lake-snowshoe,"Sand Lake Snowshoe",3.3,lp!,900,46.6449,5300,,6.6
+-121.6071,25,sauk-mountain,"Sauk Mountain",4.1,mvsd,1200,48.5213,5500,http://wta.org/kml/sauk-mountain.kmz,4.2
+-120.7890,5,rock-creek,"Rock Creek",4.0,omva,1850,47.9699,4350,,14.0
+-120.9581,9,rock-mountain,"Rock Mountain via Rock Lake",2.8,lfvsd,4175,47.7757,6852,,11.0
+-117.0775,8,salmo-priest-loop,"Salmo - Priest Loop",3.2,romvsaped,3400,48.9586,6480,,19.0
+-121.7752,4,saddle-lake,"Saddle Lake",4.5,,,48.1966,,,
+-124.1654,5,rugged-ridge,"Snider-Jackson Traverse",2.6,rope,3400,47.9377,3200,,19.5
+-121.2190,5,russell-ridge,"Russell Ridge",2.4,mvsp,,46.6617,,,
+-121.0741,4,ruby-mountain,"Ruby Mountain",2.5,vsped,6300,48.7176,7408,,17.0
+-122.0337,0,ring-hill-forest,"Ring Hill Forest",0.0,fvkd,,47.7501,,,2.6
+-122.4646,5,rock-trail,"Rock Trail",4.4,lovsd,1200,48.6293,1300,,2.4
+-119.4462,4,saddle-mountain-east,"Saddle Mountain East",3.2,rma,76,46.7919,2050,,4.0
+-121.3033,6,round-mountain,"Round Mountain",3.7,msad,1700,46.6344,5970,,5.2
+-122.0637,5,ryan-lake,"Ryan Lake",3.2,lvk,165,46.3518,3465,,0.7
+-123.1370,22,royal-basin,"Royal Basin - Royal Lake",3.9,rlwofmve,2650,47.8779,5700,,16.0
+-120.5990,7,sauer-mountain,"Sauer's Mountain",3.9,mvsp,2000,47.5883,3116,,6.0
+-120.5405,8,robinson-creek,"Robinson Creek - Robinson Mountain",3.1,rfm,,48.6650,,,
+-117.8441,2,sawtooth-ridge-blue-mtns,"Sawtooth Ridge",2.5,mvpk,500,46.0618,5500,,8.0
+-121.6941,0,salmon-ridge-snowshoe,"Salmon Ridge Snowshoe",0.0,rakd,300,48.9076,2400,,5.4
+-120.9949,4,rock-mountain-1531-via-snowy-creek,"Rock Mountain via Snowy Creek",4.0,fmvsad,3600,47.8098,,,9.0
+-121.5927,5,ruth-arm,"Ruth Arm",2.4,,,48.9101,,,
+-122.4255,1,samish-overlook,"Samish Overlook",2.0,,,48.6774,,,
+-122.0534,0,sams-walker-nature-trail,"Sams Walker Nature Trail",0.0,rmakd!,50,45.6152,100,,1.1
+-121.7662,6,sawtooth-1,Sawtooth,3.8,,,46.0917,,,
+-121.3368,6,round-lake,"Round Lake",4.5,,4300,48.0936,5600,,11.0
+-121.5614,4,sauk-mountain-snowshoe,"Sauk Mountain Snowshoe",3.5,vs!,3500,48.5810,5500,,11.0
+-121.5912,1,ruth-mt,"Ruth Mountain",4.0,,,48.9102,,,
+-121.4542,4,rock-creek-falls,"Rock Creek Falls",4.0,rv,210,47.5174,3400,,11.0
+-121.6142,8,rockport-state-park,"Rockport State Park",3.6,okd!,250,48.4880,750,,3.0
+-124.6690,6,sand-point,"Sand Point",2.7,,,48.1540,,,
+-120.6316,4,rock-creek-1,"Rock Creek",2.2,,,48.9175,,,
+-120.3295,7,saddle-rock,"Saddle Rock",3.4,vd,920,47.3968,2000,,2.0
+-120.9169,4,ruby,Ruby,1.5,,,48.7064,,,
+-120.1855,1,sa-teekh-wa-trail,"Sa Teekh Wa Trail",4.0,rfmvakd,0,48.4802,,,2.0
+-120.3684,7,sage-hills,"Sage Hills",2.9,mvak,650,47.4293,800,,5.5
+-121.3005,1,rowena-plateau,"Rowena Plateau and Tom McCall Point",5.0,rmv,1200,45.6828,1750,,3.4
+-124.0321,5,sams-river,"Queets Campground Loop",3.6,rofmvaek,50,47.6164,300,,2.8
+-122.9205,5,rocky-brook-falls,"Rocky Brook Falls",2.8,wk,0,47.7092,,,0.1
+-121.3027,6,round-mountain-1,"Round Mountain",3.3,vsd,1700,46.6362,5970,,5.2
+-122.0837,0,river-meadows-park,"River Meadows Park",0.0,rakd!,,48.1797,,,
+-120.5201,4,scatter-lake,"Scatter Lake",4.0,lfvspd,3850,48.4348,7047,,8.5
+-121.0592,5,scatter-creek-1,"Scatter Creek",3.4,mvp,2200,47.5065,5500,,9.0
+-121.0593,5,shorthorn,Shorthorn,3.8,mvd,1400,46.1989,6100,,5.6
+-121.3801,5,shellrock-lake,"Shellrock Lake",3.0,l,1900,46.6438,5930,,10.0
+-122.0964,7,shangri-la,"Shangri La",3.9,mvkd,643,47.5409,,http://wta.org/kml/shangri-la.kmz,3.4
+-121.5671,2,silver-gulch-trail,"Silver Gulch Trail",1.0,,,48.0784,,,
+-121.5551,11,shriner-peak,"Shriner Peak",3.5,lfvp,3434,46.8018,5834,,8.5
+-121.5790,3,shuksan-lake,"Shuksan Lake",3.3,,,48.7558,,,
+-121.9761,4,seattle-view-trail,"Seattle View Trail",2.5,vd,,47.4840,,,1.2
+-122.6641,3,sharpe-park-sares-head,"Sharpe Park - Sares Head",4.0,cvsakd,150,48.4306,450,,0.8
+-119.8623,0,sentinel-mountain,"Sentinel Mountain",0.0,rms!,,46.8182,2372,,
+-122.2677,6,sheep-canyon,"Sheep Canyon",3.5,rov,1200,46.2022,4600,,9.3
+-121.9462,6,section-line-trail,"Section Line Trail",2.8,ovs!,2022,47.4883,2522,,1.6
+-123.0359,9,silver-lake-2,"Silver Lakes",4.2,lvped,3400,47.8564,5700,,11.0
+-120.4291,5,selah-butte,"Selah Butte",3.2,mvap!,350,46.7371,3024,,4.0
+-121.6423,8,shadow-lake-sunrise-camp-loop,"Shadow Lake - Sunrise Camp Loop",4.1,lmvaek,200,46.9146,5400,,3.7
+-122.9373,3,shark-reef-sanctuary,"Shark Reef Sanctuary",2.3,,40,48.4627,60,,1.0
+-122.9279,0,shaw-island,"Shaw Island",0.0,,,48.5849,,,
+-124.6238,18,second-beach,"Second Beach",4.2,ck,350,47.8982,250,,4.0
+-121.3792,7,shoe-lake,"Shoe Lake",3.9,lmvapd,2200,46.6431,6600,,14.0
+-120.5345,4,silver-falls-interpretive-trail,"Silver Falls Interpretive Trail",2.0,,,47.9558,,,
+-121.9662,0,sedum-point,"Sedum Point",0.0,omvd,,45.8150,,,
+-122.2577,3,seward-park,"Seward Park",3.7,lfakd,,47.5499,,,2.4
+-122.5078,0,seeley-lake-park,"Seeley Lake Park",0.0,lmakd,,47.1735,,,1.3
+-117.5260,4,sherlock-peak,"Sherlock Peak",3.2,rfmvsd,1580,48.8841,6200,,7.0
+-121.9102,7,silent-swamp,"Silent Swamp Loop",3.1,fmvak,600,47.4729,1780,,8.8
+-117.1533,7,shedroof-divide,"Shedroof Divide",3.0,fmvsaped,,48.8672,,,
+-118.4699,7,sherman-pass,"Sherman Pass Snowshoe Loop",2.6,v,1000,48.6049,,,6.0
+-122.6744,3,sharpe-park-montgomery-duban-headlands,"Sharpe Park - Montgomery - Duban Headlands",3.7,cvakd,300,48.4320,400,,1.5
+-121.5177,13,sheep-lake,"Sheep Lake",3.3,lwmvapkd,400,46.8760,5750,,3.6
+-122.4846,3,sehome-arboretum,"Sehome Arboretum",2.7,ckd,,48.7330,,,6.0
+-123.3229,8,shady-lane,"Shady Lane",3.5,rak,,47.5153,,,1.8
+-121.4199,21,silver-peak,"Silver Peak",4.4,lmvsp,2100,47.3660,5605,,5.6
+-121.5692,2,silver-falls-grove-of-the-patriarchs-snowshoe,"Silver Falls - Grove of the Patriarchs Snowshoe",3.5,rwoe!,400,46.7326,2500,,5.0
+-118.4734,4,sherman,"Sherman Peak Loop",3.8,mvspd,1800,48.6019,6998,,5.9
+-122.3414,3,sierra-park-for-the-blind,"Sierra Park",2.3,ofmkd,0,47.8264,0,,1.0
+-121.4456,1,silver-lake-3,"Silver Lake - Monte Cristo",5.0,rlwmvpe,2000,48.0349,4350,,11.0
+-123.1130,6,sherman-creek,"Capitol State Forest - Sherman Creek Loop",4.0,rod,800,46.9194,1150,,9.0
+-121.5967,5,shannon-ridge,"Shannon Ridge",3.8,vp,2800,48.7544,5400,,8.2
+-121.5163,5,silver-creek-mineral-city,"Silver Creek - Mineral City",3.8,,,47.8259,,,
+-121.6423,5,silver-forest-emmons-vista,"Silver Forest - Emmons Vista",3.6,mv,200,46.9146,6400,,2.4
+-121.7237,4,shadow-of-the-sentinels,"Shadow of The Sentinels",2.8,,,48.6395,,,
+-120.6682,8,silver-lake-1,"Silver Lake",2.9,lom,2800,48.7323,6950,,9.2
+-123.8152,11,seven-lakes-basin,"High Divide - Seven Lakes Basin Loop",4.1,rlvae,4000,47.9506,5120,,19.0
+-120.5358,6,silver-falls,"Silver Falls",3.7,wvekd,700,47.9588,3100,,1.8
+-121.5693,15,silver-falls-loop,"Silver Falls Loop",3.3,rwe,200,46.7330,3200,,3.0
+-121.8315,6,seattle-park,"Seattle Park",3.0,om,2850,46.9771,5200,,12.0
+-121.8122,12,scott-paul-trail,"Scott Paul Trail",3.7,wofmva,2000,48.7067,5200,,8.0
+-122.4065,16,seattle-magnolia-area-beach-discovery-park,"Discovery Park Loop Trail",3.5,cfmvakd,140,47.6576,325,,2.8
+-120.7726,6,schaefer-lake,"Schaefer Lake",3.5,lofmv,3200,47.9529,5195,,9.0
+-121.8096,2,schriebers-meadow-snowshoe,"Schriebers Meadow Snowshoe",4.0,ve,1200,48.7061,5200,,14.0
+-119.6944,4,schalow,Schalow,3.2,,,48.5875,,,
+-122.2428,4,seaquest-state-park-silver-lake,"Silver Lake-Seaquest",1.8,lomvak,100,45.7682,4390,,3.0
+-121.5195,0,scout-patrol-peak,"Scout Patrol Peak",0.0,,2724,47.3556,4693,,
+-121.5107,4,scout-lake-snoqualmie-pass,"Scout Lake",3.2,lm,,47.3683,,,
+-123.9545,8,south-fork-hoh-river,"South Fork Hoh River - Big Flat",2.6,rofvaek,150,47.7993,850,,7.0
+-121.0388,7,smithbrook,Smithbrook,2.6,,,47.7842,,,
+-120.7556,4,snow-mountain-ranch,"Snow Mountain Ranch",3.2,vakd,1140,46.6593,3376,,9.2
+-121.9927,2,snow-bowl-hut-snowshoe,"Snow Bowl Hut Snowshoe",5.0,v,2000,46.7059,4300,,9.0
+-122.0434,5,south-access,"South Access Road",2.0,vsad,,47.4841,,,5.4
+-120.8137,5,south-fork-tieton-river,"South Fork Tieton River",3.2,rfkd,,46.7279,1860,,4.0
+-121.2669,5,skagit-river,"Skagit River",3.2,roekd,100,48.6658,575,,1.8
+-121.2065,0,martin-creek-1,"Martin Creek Connector",0.0,,,47.7293,,,5.0
+-121.4225,9,guye-peak,"Guye Peak",4.0,ovsape,2100,47.4418,5168,,6.0
+-117.6910,0,mclellan-conservation-area,"McLellan Conservation Area",0.0,rakd,,47.8746,,,
+-122.2043,1,everett-arboretum-grand-ave-park-evcc-legion-park,"Everett Arboretum, Grand Ave Park, Everett Community College, Legion Park",3.0,cva,,48.0119,,,
+-121.2836,8,lila-lake,"Lila Lake",4.5,rlwmvpe,2800,47.4008,5400,,11.0
+-120.6702,0,liberty-ghost-town,"Liberty Ghost Town",0.0,fkd,50,47.2530,2682,,1.0
+-122.3984,0,golden-gardens-park,"Golden Gardens Park",0.0,cfvakd,300,47.6906,300,,2.5
+-122.3891,2,swan-creek-park,"Swan Creek Park",5.0,rofkd,,47.2268,,,2.4
+-121.9363,0,middle-tiger-loop,"Custer's Bridge - Middle Tiger Loop",0.0,fmvsad,1600,47.4683,2607,,11.0
+-122.0589,5,lord-hill-regional-park,"Lord Hill Regional Park",3.0,lofmvakd,200,47.8611,,,10.0
+-123.2648,2,deer-park-to-maiden-peak,"Deer Park to Maiden Peak",4.0,fmvsape,900,47.9497,6200,,9.0
+-118.4005,0,z-lake,"Z Lake",0.0,,275,47.6129,2310,,3.5
+-122.7896,0,fort-townsend-historical-sp,"Fort Townsend Historical State Park",0.0,cofekd,,48.0747,,,6.5
+-122.3285,0,nisqually-state-park,"Nisqually State Park",0.0,rofakd,,46.8638,,,
+-122.3308,0,interurban-trail-snohomish-county,"Interurban Trail - Snohomish County",0.0,kd,,47.7928,,,18.8
+-124.0755,2,cape-disappointment-state-park,"Cape Disappointment State Park",4.0,ckd,160,46.2881,200,,3.4
+-121.1908,0,mac-peak,"Mac Peak",0.0,,,47.6515,6859,,
+-123.0775,0,waddell-basin-west,"Capitol State Forest - Waddell Basin West",0.0,d,,46.9391,,,9.2
+-117.9001,0,douglas-falls-grange-park-nature-loop-trail,"Douglas Falls Grange Park - Nature Loop Trail",0.0,ekd,,48.6149,,,1.5
+-121.0929,1,thunder-woods-nature-trail,"Thunder Woods Nature Trail",3.0,lovkd,305,48.6852,1620,,1.2
+-122.5397,0,anderson-point,"Anderson Point",0.0,cfvakd,250,47.4385,250,,1.4
+-117.4966,1,little-spokane-river-natural-area-knothead-loop,"Little Spokane River Natural Area: Knothead Loop",4.0,rfmsa,1000,47.7828,3200,,8.0
+-122.1854,0,siouxon-peak-loop,"Siouxon Peak Loop",0.0,rwsd,5120,45.9430,4170,,15.3
+-117.4625,0,finch-arboretum,"Finch Arboretum",0.0,fmk,,47.6432,,,1.2
+-122.9641,0,patos-island,"Patos Island",0.0,cvaek,30,48.7846,30,,1.5
+-122.2168,2,coldwater-peak,"Coldwater Peak",3.5,,2000,46.2767,5727,,12.0
+-122.7300,0,morgan-tidelands,"Morgan Tidelands",0.0,cakd,0,48.2828,0,,2.5
+-121.5372,0,middle-fork-to-salmon-la-sac-traverse,"Middle Fork to Salmon La Sac Traverse",0.0,romvapd,3200,47.5480,5000,,31.0
+-122.5876,0,port-gamble-forest-forbidden-forest-trail-loop,"Port Gamble Forest - Forbidden Forest Trail Loop",0.0,rfad,350,47.8400,,,8.5
+-117.5367,0,misery-mountain-loop,"Misery Mountain Loop",0.0,fmvapd,4000,46.1192,6387,,48.5
+-120.7239,0,nason-ridge-snowshoe,"Nason Ridge Snowshoe",0.0,vkd!,750,47.8000,2720,,3.6
+-122.5071,0,salmon-morgan-creek,"Salmon-Morgan Creek",0.0,ofakd,,45.7557,,,1.5
+-118.4079,0,kettle-crest-trail,"Kettle Crest Trail",0.0,msaed,8000,48.4960,7140,,44.0
+-122.9724,2,evergreen-beach-trail,"Evergreen Beach Trail",3.5,cfakd,,47.0774,,,2.0
+-123.4195,1,moose-lake,"Moose Lake",4.0,lmvpe,1500,47.9396,,,8.2
+-123.1753,9,deer-ridge,"Deer Ridge",2.2,,2800,48.0063,5360,,10.4
+-117.4950,1,riverside-state-park-bowl-and-pitcher-snowshoe,"Riverside State Park - Bowl and Pitcher Snowshoe",5.0,akd,500,47.6964,,,6.0
+-120.0806,0,rocky-top,"Rocky Top",0.0,mvp,,48.2613,,,
+-122.4781,1,hemlock-trail,"Hemlock Trail",3.0,ovakd,,48.6979,,,4.0
+-122.4895,0,chuckanut-falls,"Chuckanut Falls",0.0,wfvakd,640,48.7005,540,,2.6
+-120.7331,11,cutthroat-pass-via-pacific-crest-trail,"Cutthroat Pass",3.5,mvpd,2000,48.5181,6800,,10.0
+-121.7694,4,john-wayne-trail-thorp,"John Wayne Trail - Thorp Trailhead",3.0,,,47.4294,,,
+-117.7212,4,panjab-trail,"Panjab Trail",3.5,rmvaped,2500,46.1716,,,5.6
+-122.6621,0,burnt-bridge-creek-western-section,"Burnt Bridge Creek - Western Section",0.0,fmakd!,60,45.6534,,,5.0
+-121.0866,0,columbia-hills-state-park-crawford-oaks,"Columbia Hills State Park - Crawford Oaks",0.0,rmkd,,45.6568,,,4.0
+-122.0233,0,river-to-rock-trail,"River To Rock Trail",0.0,rkd,200,45.6214,280,,1.0
+-122.1726,1,angels-rest-devils-rest,"Angel's Rest-Devil's Rest Loop",5.0,rwsd,2770,45.5603,2308,,10.7
+-116.7827,0,tubbs-hill,"Tubbs Hill",0.0,lsakd,300,47.6715,0,,2.2
+-123.0830,0,monument-park,"Monument Park",0.0,cak,135,48.9754,135,,0.2
+-123.0816,0,lighthouse-marine-park,"Lighthouse Marine Park",0.0,cak,,48.9734,,,
+-123.0616,0,lily-point-park,"Lily Point Park",0.0,coak,,48.9765,,,1.5
+-122.9741,0,willapa-hills-trail,"Willapa Hills Trail",0.0,rfvakd,,46.6475,,,56.5
+-120.7324,0,tumwater-campground-snowshoe,"Tumwater Campground Snowshoe",0.0,rkd,0,47.6780,2050,,
+-122.5876,0,port-gamble-forest-ewok-trail-loop,"Port Gamble Forest - Ewok Trail Loop",0.0,kd,,47.8400,,,3.5
+-122.3540,0,duwamish-trail,"Duwamish Trail",0.0,crad,0,47.5679,10,,6.0
+-123.3209,2,elk-mtn-to-maiden-peak,"Elk Mountain to Maiden Peak",4.5,mvape,840,47.9345,6625,,8.0
+-121.8643,1,spray-park-ipsut-pass-loop,"Spray Park Loop",4.0,lwfmvpe,5100,46.9331,6375,,16.0
+-122.3857,0,lily-lake-loop,"Lily Lake Loop",0.0,clofvekd,1200,48.6169,2225,,5.5
+-117.1249,2,mount-kit-carson-trail,"Mount Spokane State Park - Mount Kit Carson Trail",4.0,fmvsakd!,1500,47.8882,5282,,7.5
+-117.0833,0,trail-110-140-loop,"Mount Spokane - Trail 110/140 Loop",0.0,!,1100,47.8851,5000,,6.0
+-119.3457,0,badger-mountain-trail-4,"Badger Mountain - The Langdon Trail",0.0,fmakd,,46.2423,,,6.0
+-121.2893,0,glacier-peak-meadows,"Glacier Peak Meadows",0.0,d,4350,48.0293,6450,,25.0
+-122.5272,0,mayfield-lake-trail,"Lake Mayfield Trail",0.0,lofvaekd,,46.5485,,,1.5
+-123.0245,0,chehalis-river-discovery-trail,"Chehalis River Discovery Trail",0.0,akd,210,46.7681,265,,3.6
+-122.5291,1,point-no-point,"Point No Point Park",3.0,cfvakd,100,47.9115,0,,2.0
+-120.3510,0,castle-rock,"Castle Rock",0.0,mvakd,,47.4207,,,
+-118.2523,4,goose-butte,"Goose Butte",4.5,rmakd,450,47.3008,,,6.0
+-117.4933,1,columbia-plateau-trail,"Columbia Plateau Trail - Fish Lake",4.0,load,200,47.5662,2277,,7.5
+-116.4808,0,kirkwood-ranch,"Kirkwood Ranch",0.0,,420,45.6354,1600,,10.0
+-121.2527,0,luna-peak,"Luna Peak",0.0,rfvs,8009,48.8784,8285,,36.5
+-123.9344,0,hoh-river-blue-glacier,"Hoh River Trail to Blue Glacier",0.0,rlwomva,3700,47.8595,4300,,37.0
+-122.0154,0,yellow-lake,"Yellow Lake",0.0,lmakd,20,47.5697,420,,1.2
+-117.3240,0,pend-oreille-county-park,"Pend Oreille County Park",0.0,ofmvapkd,,48.0808,,,7.0
+-122.2963,0,grace-cole-nature-park-1,"Grace Cole Nature Park",0.0,fmakd,120,47.7490,360,,0.5
+-123.0595,20,duckabush-river,"Duckabush River",3.5,rofmva!,2300,47.6845,1750,,10.6
+-123.0840,2,bourdeaux-ghost-town,"Bourdeaux Ghost Town",4.5,,,46.8951,,,
+-123.1411,0,bob-bammert-grove-trail,"Capitol State Forest - Bob Bammert Grove Loop",0.0,okd,,46.9823,,,0.5
+-123.0921,2,bordeaux-ghost-town,"Bordeaux Ghost Town",3.5,rkd,50,46.8957,320,,0.5
+-121.2933,0,copper-city-ghost-town,"Copper City Ghost Town",0.0,kd,27,46.8689,4076,,0.5
+-122.7770,2,4-cedars-trail,"Four Cedars Trail",4.0,cakd,,47.1204,,,3.0
+-122.1415,1,brightwater-center-king-county,"Brightwater Center",3.0,rlkd,,47.7904,,,3.0
+-122.9448,0,seminary-hill,"Seminary Hill",0.0,fvkd,320,46.7134,500,,4.5
+-119.2284,0,sacagawea-heritage-trail,"Sacagawea Heritage Trail",0.0,rfakd,0,46.2383,,,23.0
+-121.4491,0,easter-peak,"Easter Peak",0.0,s,,47.6678,5326,,11.7
+-122.8392,1,chehalis-western-trail,"Chehalis Western Trail",4.0,,,47.0336,500,,22.0
+-121.5968,0,eastside-loop,"Eastside Loop",0.0,,7430,46.8907,6800,,36.0
+-117.0992,0,mount-spokane-nordic-trails,"Mount Spokane Nordic Trails",0.0,fmvsakd,,47.9036,5129,,
+-123.1437,0,mount-grant-preserve,"Mount Grant Preserve",0.0,cmvskd,500,48.5798,700,,2.0
+-120.4533,1,yakima-sportsman-state-park,"Yakima Sportsman State Park",4.0,rfmaekd,,46.5919,,,2.0
+-122.3524,0,seattle-chinese-garden,"Seattle Chinese Garden",0.0,lwk,,47.5518,,,2.0
+-121.6449,8,mount-persis,"Mount Persis",4.0,vs,2658,47.7931,5464,,4.0
+-117.4019,0,children-of-the-sun,"Children of the Sun",0.0,kd,,47.7746,,,10.0
+-122.1749,0,wilburton-hill-park,"Wilburton Hill Park",0.0,fmakd,175,47.6101,230,,2.8
+-122.3456,0,pine-ridge-park,"Pine Ridge Park",0.0,lfmakd,120,47.8143,485,,1.2
+-117.5367,0,melton-creek-trail,"Melton Creek Trail",0.0,rs,3800,46.1192,6200,,9.7
+-122.4830,0,two-dollar-trail,"Two Dollar Trail",0.0,,,48.6767,,,
+-121.6023,4,duke-of-kent,"Duke of Kent",3.0,,3400,47.4093,4840,,7.0
+-122.5699,3,dugualla-state-park,"Dugualla State Park",2.3,cakd,,48.3415,,,5.0
+-122.2943,0,foster-and-marsh-island-loop,"Foster and Marsh Island Loop",0.0,lfakd,,47.6408,,,1.5
+-118.4880,0,mount-leona,"Mount Leona",0.0,,1500,48.7654,6474,,6.0
+-121.6435,1,sunrise-to-mystic-lake,"Sunrise to Mystic Lake",4.0,,,46.9145,,,
+-121.9762,2,south-tiger-mountain-loop,"South Tiger Mountain Loop",3.0,fmvsd,1550,47.4432,2028,,8.6
+-122.1946,1,northern-state-ghost-town,"Northern State Ghost Town",3.0,fkd,50,48.5255,182,,5.0
